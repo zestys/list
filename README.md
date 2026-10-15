@@ -106,3 +106,13 @@ zero. The job stops after three consecutive failed batches and exits nonzero
 unless every wallet has a successful snapshot. No token holdings or wallet
 ownership verification is included. The page shows per-wallet balances, without
 summing wallets for handles with conflicting source associations.
+
+## Live USD valuation
+
+The top banner multiplies the deduplicated native SOL balance snapshots by the
+Coinbase public SOL/USD spot rate, fetched in the visitor's browser every 30
+seconds. Changes animate between real quotes; no simulated price changes are
+used. The banner shows the quote retrieval time and labels stale quotes on
+failures. Wallet balances remain snapshots from the balance updater, so this
+is an estimate of tracked native SOL holdings, not total personal net worth.
+Tokens and other assets are excluded. Reduced-motion preferences are respected.
