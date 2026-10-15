@@ -1,0 +1,3421 @@
+{
+  "schema_version": 1,
+  "bucket": "_other",
+  "part": 1,
+  "count": 61,
+  "handles": [
+    {
+      "id": "x:_0xaryan",
+      "platform": "x",
+      "handle": "_0xaryan",
+      "observed_handles": [
+        "_0xaryan"
+      ],
+      "detail_ids": [
+        "detail_005885",
+        "detail_011303"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv",
+        "vip_list.csv"
+      ],
+      "occurrences": 4,
+      "evidence_fields": [
+        "x_handle",
+        "x_url"
+      ],
+      "related_handles": [
+        "pump:thearyanag"
+      ],
+      "profile_url": "https://x.com/_0xaryan"
+    },
+    {
+      "id": "pump:_42069",
+      "platform": "pump",
+      "handle": "_42069",
+      "observed_handles": [
+        "_42069"
+      ],
+      "detail_ids": [
+        "detail_001176",
+        "detail_011709"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv",
+        "vip_list.csv"
+      ],
+      "occurrences": 4,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [
+        "x:42069alpha"
+      ],
+      "profile_url": null
+    },
+    {
+      "id": "pump:____________",
+      "platform": "pump",
+      "handle": "____________",
+      "observed_handles": [
+        "____________"
+      ],
+      "detail_ids": [
+        "detail_002992"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv"
+      ],
+      "occurrences": 3,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [],
+      "profile_url": null
+    },
+    {
+      "id": "pump:_____idk",
+      "platform": "pump",
+      "handle": "_____idk",
+      "observed_handles": [
+        "_____idk"
+      ],
+      "detail_ids": [
+        "detail_004335",
+        "detail_011728"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv"
+      ],
+      "occurrences": 3,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [],
+      "profile_url": null
+    },
+    {
+      "id": "pump:__justeva",
+      "platform": "pump",
+      "handle": "__justeva",
+      "observed_handles": [
+        "__justEVA"
+      ],
+      "detail_ids": [
+        "detail_007028"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv",
+        "vip_list.csv"
+      ],
+      "occurrences": 4,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [
+        "x:neoneva_"
+      ],
+      "profile_url": null
+    },
+    {
+      "id": "pump:__luxury__",
+      "platform": "pump",
+      "handle": "__luxury__",
+      "observed_handles": [
+        "__luxury__"
+      ],
+      "detail_ids": [
+        "detail_005203",
+        "detail_011720"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv"
+      ],
+      "occurrences": 3,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [],
+      "profile_url": null
+    },
+    {
+      "id": "x:__stnz__",
+      "platform": "x",
+      "handle": "__stnz__",
+      "observed_handles": [
+        "__STNZ__"
+      ],
+      "detail_ids": [
+        "detail_001199",
+        "detail_011023"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv",
+        "vip_list.csv"
+      ],
+      "occurrences": 4,
+      "evidence_fields": [
+        "x_handle",
+        "x_url"
+      ],
+      "related_handles": [
+        "pump:stnz"
+      ],
+      "profile_url": "https://x.com/__stnz__"
+    },
+    {
+      "id": "pump:_a1lon9",
+      "platform": "pump",
+      "handle": "_a1lon9",
+      "observed_handles": [
+        "_a1lon9"
+      ],
+      "detail_ids": [
+        "detail_006926"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv"
+      ],
+      "occurrences": 3,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [],
+      "profile_url": null
+    },
+    {
+      "id": "pump:_aaaaa_",
+      "platform": "pump",
+      "handle": "_aaaaa_",
+      "observed_handles": [
+        "_AaAaA_"
+      ],
+      "detail_ids": [
+        "detail_007125"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv"
+      ],
+      "occurrences": 3,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [],
+      "profile_url": null
+    },
+    {
+      "id": "pump:_bill_",
+      "platform": "pump",
+      "handle": "_bill_",
+      "observed_handles": [
+        "_bill_"
+      ],
+      "detail_ids": [
+        "detail_004933"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv",
+        "vip_list.csv"
+      ],
+      "occurrences": 4,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [
+        "x:closedtowork"
+      ],
+      "profile_url": null
+    },
+    {
+      "id": "x:_bolivian",
+      "platform": "x",
+      "handle": "_bolivian",
+      "observed_handles": [
+        "_bolivian"
+      ],
+      "detail_ids": [
+        "detail_000116",
+        "detail_000142",
+        "detail_000617",
+        "detail_008048"
+      ],
+      "source_files": [
+        "panda-browsing-2026-10-14T19-27-01-037Z.json",
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv",
+        "vip_list.csv"
+      ],
+      "occurrences": 6,
+      "evidence_fields": [
+        "author",
+        "id",
+        "key",
+        "links[0]",
+        "links[1]",
+        "links[2]",
+        "links[3]",
+        "links[4]",
+        "postUrl",
+        "x_handle",
+        "x_url"
+      ],
+      "related_handles": [
+        "pump:bolivian"
+      ],
+      "profile_url": "https://x.com/_bolivian"
+    },
+    {
+      "id": "pump:_cawknight_",
+      "platform": "pump",
+      "handle": "_cawknight_",
+      "observed_handles": [
+        "_CawKnight_"
+      ],
+      "detail_ids": [
+        "detail_002819",
+        "detail_011712"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv"
+      ],
+      "occurrences": 3,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [],
+      "profile_url": null
+    },
+    {
+      "id": "pump:_chefbateman",
+      "platform": "pump",
+      "handle": "_chefbateman",
+      "observed_handles": [
+        "_ChefBateman"
+      ],
+      "detail_ids": [
+        "detail_005638"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv"
+      ],
+      "occurrences": 3,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [],
+      "profile_url": null
+    },
+    {
+      "id": "pump:_czbull",
+      "platform": "pump",
+      "handle": "_czbull",
+      "observed_handles": [
+        "_CZBULL"
+      ],
+      "detail_ids": [
+        "detail_011725"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (5).csv"
+      ],
+      "occurrences": 1,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [],
+      "profile_url": null
+    },
+    {
+      "id": "pump:_deaegen",
+      "platform": "pump",
+      "handle": "_deaegen",
+      "observed_handles": [
+        "_deaegen"
+      ],
+      "detail_ids": [
+        "detail_004350"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv",
+        "vip_list.csv"
+      ],
+      "occurrences": 4,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [
+        "x:deaegen"
+      ],
+      "profile_url": null
+    },
+    {
+      "id": "pump:_elboss",
+      "platform": "pump",
+      "handle": "_elboss",
+      "observed_handles": [
+        "_Elboss"
+      ],
+      "detail_ids": [
+        "detail_001049",
+        "detail_011716"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv",
+        "vip_list.csv"
+      ],
+      "occurrences": 4,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [
+        "x:elbossbu"
+      ],
+      "profile_url": null
+    },
+    {
+      "id": "x:_emmaonchain_",
+      "platform": "x",
+      "handle": "_emmaonchain_",
+      "observed_handles": [
+        "_emmaonchain_"
+      ],
+      "detail_ids": [
+        "detail_000651",
+        "detail_008647"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv",
+        "vip_list.csv"
+      ],
+      "occurrences": 4,
+      "evidence_fields": [
+        "x_handle",
+        "x_url"
+      ],
+      "related_handles": [
+        "pump:emmak"
+      ],
+      "profile_url": "https://x.com/_emmaonchain_"
+    },
+    {
+      "id": "x:_f451montag",
+      "platform": "x",
+      "handle": "_f451montag",
+      "observed_handles": [
+        "_F451Montag"
+      ],
+      "detail_ids": [
+        "detail_001769",
+        "detail_009788"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv",
+        "vip_list.csv"
+      ],
+      "occurrences": 4,
+      "evidence_fields": [
+        "x_handle",
+        "x_url"
+      ],
+      "related_handles": [
+        "pump:montag451"
+      ],
+      "profile_url": "https://x.com/_f451montag"
+    },
+    {
+      "id": "pump:_fml",
+      "platform": "pump",
+      "handle": "_fml",
+      "observed_handles": [
+        "_fml"
+      ],
+      "detail_ids": [
+        "detail_002352",
+        "detail_011715"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv"
+      ],
+      "occurrences": 3,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [],
+      "profile_url": null
+    },
+    {
+      "id": "pump:_fox09",
+      "platform": "pump",
+      "handle": "_fox09",
+      "observed_handles": [
+        "_fox09"
+      ],
+      "detail_ids": [
+        "detail_000222"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv",
+        "vip_list.csv"
+      ],
+      "occurrences": 4,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [
+        "x:_fox09"
+      ],
+      "profile_url": null
+    },
+    {
+      "id": "x:_fox09",
+      "platform": "x",
+      "handle": "_fox09",
+      "observed_handles": [
+        "_fox09"
+      ],
+      "detail_ids": [
+        "detail_000222"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv",
+        "vip_list.csv"
+      ],
+      "occurrences": 4,
+      "evidence_fields": [
+        "x_handle",
+        "x_url"
+      ],
+      "related_handles": [
+        "pump:_fox09"
+      ],
+      "profile_url": "https://x.com/_fox09"
+    },
+    {
+      "id": "pump:_fudder",
+      "platform": "pump",
+      "handle": "_fudder",
+      "observed_handles": [
+        "_fudder"
+      ],
+      "detail_ids": [
+        "detail_004136"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv"
+      ],
+      "occurrences": 3,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [],
+      "profile_url": null
+    },
+    {
+      "id": "pump:_hunchox_",
+      "platform": "pump",
+      "handle": "_hunchox_",
+      "observed_handles": [
+        "_HunchoX_"
+      ],
+      "detail_ids": [
+        "detail_001606",
+        "detail_011714"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv",
+        "vip_list.csv"
+      ],
+      "occurrences": 4,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [
+        "x:_hunchox_"
+      ],
+      "profile_url": null
+    },
+    {
+      "id": "x:_hunchox_",
+      "platform": "x",
+      "handle": "_hunchox_",
+      "observed_handles": [
+        "_HunchoX_"
+      ],
+      "detail_ids": [
+        "detail_001606",
+        "detail_011714"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv",
+        "vip_list.csv"
+      ],
+      "occurrences": 4,
+      "evidence_fields": [
+        "x_handle",
+        "x_url"
+      ],
+      "related_handles": [
+        "pump:_hunchox_"
+      ],
+      "profile_url": "https://x.com/_hunchox_"
+    },
+    {
+      "id": "x:_iamevill",
+      "platform": "x",
+      "handle": "_iamevill",
+      "observed_handles": [
+        "_iamevill"
+      ],
+      "detail_ids": [
+        "detail_000676",
+        "detail_009263"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv",
+        "vip_list.csv"
+      ],
+      "occurrences": 4,
+      "evidence_fields": [
+        "x_handle",
+        "x_url"
+      ],
+      "related_handles": [
+        "pump:iamevill"
+      ],
+      "profile_url": "https://x.com/_iamevill"
+    },
+    {
+      "id": "pump:_just_a_guy",
+      "platform": "pump",
+      "handle": "_just_a_guy",
+      "observed_handles": [
+        "_Just_a_guy"
+      ],
+      "detail_ids": [
+        "detail_003259",
+        "detail_011711"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv"
+      ],
+      "occurrences": 3,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [],
+      "profile_url": null
+    },
+    {
+      "id": "x:_k4ned4_",
+      "platform": "x",
+      "handle": "_k4ned4_",
+      "observed_handles": [
+        "_K4NED4_"
+      ],
+      "detail_ids": [
+        "detail_003180"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv",
+        "vip_list.csv"
+      ],
+      "occurrences": 4,
+      "evidence_fields": [
+        "x_handle",
+        "x_url"
+      ],
+      "related_handles": [
+        "pump:k4ned4"
+      ],
+      "profile_url": "https://x.com/_k4ned4_"
+    },
+    {
+      "id": "pump:_kimchi_",
+      "platform": "pump",
+      "handle": "_kimchi_",
+      "observed_handles": [
+        "_kimchi_"
+      ],
+      "detail_ids": [
+        "detail_001996"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv"
+      ],
+      "occurrences": 3,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [],
+      "profile_url": null
+    },
+    {
+      "id": "x:_kingorange",
+      "platform": "x",
+      "handle": "_kingorange",
+      "observed_handles": [
+        "_kingorange"
+      ],
+      "detail_ids": [
+        "detail_005493"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv",
+        "vip_list.csv"
+      ],
+      "occurrences": 4,
+      "evidence_fields": [
+        "x_handle",
+        "x_url"
+      ],
+      "related_handles": [
+        "pump:kingorange"
+      ],
+      "profile_url": "https://x.com/_kingorange"
+    },
+    {
+      "id": "x:_kuryakin",
+      "platform": "x",
+      "handle": "_kuryakin",
+      "observed_handles": [
+        "_Kuryakin"
+      ],
+      "detail_ids": [
+        "detail_004785",
+        "detail_009492"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv",
+        "vip_list.csv"
+      ],
+      "occurrences": 4,
+      "evidence_fields": [
+        "x_handle",
+        "x_url"
+      ],
+      "related_handles": [
+        "pump:kuryakin"
+      ],
+      "profile_url": "https://x.com/_kuryakin"
+    },
+    {
+      "id": "pump:_la",
+      "platform": "pump",
+      "handle": "_la",
+      "observed_handles": [
+        "_la"
+      ],
+      "detail_ids": [
+        "detail_004081",
+        "detail_011708"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv"
+      ],
+      "occurrences": 3,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [],
+      "profile_url": null
+    },
+    {
+      "id": "pump:_ladiesman217",
+      "platform": "pump",
+      "handle": "_ladiesman217",
+      "observed_handles": [
+        "_ladiesman217"
+      ],
+      "detail_ids": [
+        "detail_011710"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (5).csv"
+      ],
+      "occurrences": 1,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [],
+      "profile_url": null
+    },
+    {
+      "id": "pump:_laseasy",
+      "platform": "pump",
+      "handle": "_laseasy",
+      "observed_handles": [
+        "_laseasy"
+      ],
+      "detail_ids": [
+        "detail_004763",
+        "detail_011719"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv",
+        "vip_list.csv"
+      ],
+      "occurrences": 4,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [
+        "x:_laseasy"
+      ],
+      "profile_url": null
+    },
+    {
+      "id": "x:_laseasy",
+      "platform": "x",
+      "handle": "_laseasy",
+      "observed_handles": [
+        "_laseasy"
+      ],
+      "detail_ids": [
+        "detail_004763",
+        "detail_011719"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv",
+        "vip_list.csv"
+      ],
+      "occurrences": 4,
+      "evidence_fields": [
+        "x_handle",
+        "x_url"
+      ],
+      "related_handles": [
+        "pump:_laseasy"
+      ],
+      "profile_url": "https://x.com/_laseasy"
+    },
+    {
+      "id": "pump:_logjam",
+      "platform": "pump",
+      "handle": "_logjam",
+      "observed_handles": [
+        "_logjam"
+      ],
+      "detail_ids": [
+        "detail_000180"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv",
+        "vip_list.csv"
+      ],
+      "occurrences": 4,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [
+        "x:_logjam"
+      ],
+      "profile_url": null
+    },
+    {
+      "id": "x:_logjam",
+      "platform": "x",
+      "handle": "_logjam",
+      "observed_handles": [
+        "_logjam"
+      ],
+      "detail_ids": [
+        "detail_000180"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv",
+        "vip_list.csv"
+      ],
+      "occurrences": 4,
+      "evidence_fields": [
+        "x_handle",
+        "x_url"
+      ],
+      "related_handles": [
+        "pump:_logjam"
+      ],
+      "profile_url": "https://x.com/_logjam"
+    },
+    {
+      "id": "x:_manu212",
+      "platform": "x",
+      "handle": "_manu212",
+      "observed_handles": [
+        "_manu212"
+      ],
+      "detail_ids": [
+        "detail_005801"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv",
+        "vip_list.csv"
+      ],
+      "occurrences": 4,
+      "evidence_fields": [
+        "x_handle",
+        "x_url"
+      ],
+      "related_handles": [
+        "pump:manu_212"
+      ],
+      "profile_url": "https://x.com/_manu212"
+    },
+    {
+      "id": "pump:_maximo",
+      "platform": "pump",
+      "handle": "_maximo",
+      "observed_handles": [
+        "_Maximo"
+      ],
+      "detail_ids": [
+        "detail_001472",
+        "detail_011727"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv",
+        "vip_list.csv"
+      ],
+      "occurrences": 4,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [
+        "x:maximo_chad"
+      ],
+      "profile_url": null
+    },
+    {
+      "id": "pump:_mitch_",
+      "platform": "pump",
+      "handle": "_mitch_",
+      "observed_handles": [
+        "_mitch_"
+      ],
+      "detail_ids": [
+        "detail_006947"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv"
+      ],
+      "occurrences": 3,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [],
+      "profile_url": null
+    },
+    {
+      "id": "pump:_notyeti",
+      "platform": "pump",
+      "handle": "_notyeti",
+      "observed_handles": [
+        "_notyeti"
+      ],
+      "detail_ids": [
+        "detail_003564",
+        "detail_011723"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv",
+        "vip_list.csv"
+      ],
+      "occurrences": 4,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [
+        "x:_notyeti"
+      ],
+      "profile_url": null
+    },
+    {
+      "id": "x:_notyeti",
+      "platform": "x",
+      "handle": "_notyeti",
+      "observed_handles": [
+        "_notyeti"
+      ],
+      "detail_ids": [
+        "detail_003564",
+        "detail_011723"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv",
+        "vip_list.csv"
+      ],
+      "occurrences": 4,
+      "evidence_fields": [
+        "x_handle",
+        "x_url"
+      ],
+      "related_handles": [
+        "pump:_notyeti"
+      ],
+      "profile_url": "https://x.com/_notyeti"
+    },
+    {
+      "id": "pump:_opensecret",
+      "platform": "pump",
+      "handle": "_opensecret",
+      "observed_handles": [
+        "_opensecret"
+      ],
+      "detail_ids": [
+        "detail_000564",
+        "detail_011721"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv"
+      ],
+      "occurrences": 3,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [],
+      "profile_url": null
+    },
+    {
+      "id": "pump:_porku",
+      "platform": "pump",
+      "handle": "_porku",
+      "observed_handles": [
+        "_PORKU"
+      ],
+      "detail_ids": [
+        "detail_001046",
+        "detail_011724"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv"
+      ],
+      "occurrences": 3,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [],
+      "profile_url": null
+    },
+    {
+      "id": "x:_primeelias",
+      "platform": "x",
+      "handle": "_primeelias",
+      "observed_handles": [
+        "_PrimeElias"
+      ],
+      "detail_ids": [
+        "detail_004026",
+        "detail_010351"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv",
+        "vip_list.csv"
+      ],
+      "occurrences": 4,
+      "evidence_fields": [
+        "x_handle",
+        "x_url"
+      ],
+      "related_handles": [
+        "pump:primeelias"
+      ],
+      "profile_url": "https://x.com/_primeelias"
+    },
+    {
+      "id": "pump:_pumpius_",
+      "platform": "pump",
+      "handle": "_pumpius_",
+      "observed_handles": [
+        "_Pumpius_"
+      ],
+      "detail_ids": [
+        "detail_005276"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv"
+      ],
+      "occurrences": 3,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [],
+      "profile_url": null
+    },
+    {
+      "id": "pump:_pumpmybags",
+      "platform": "pump",
+      "handle": "_pumpmybags",
+      "observed_handles": [
+        "_pumpmybags"
+      ],
+      "detail_ids": [
+        "detail_005298"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv"
+      ],
+      "occurrences": 3,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [],
+      "profile_url": null
+    },
+    {
+      "id": "pump:_reigner_",
+      "platform": "pump",
+      "handle": "_reigner_",
+      "observed_handles": [
+        "_Reigner_"
+      ],
+      "detail_ids": [
+        "detail_011713"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (5).csv"
+      ],
+      "occurrences": 1,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [],
+      "profile_url": null
+    },
+    {
+      "id": "pump:_rise",
+      "platform": "pump",
+      "handle": "_rise",
+      "observed_handles": [
+        "_rise"
+      ],
+      "detail_ids": [
+        "detail_004521"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv"
+      ],
+      "occurrences": 3,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [],
+      "profile_url": null
+    },
+    {
+      "id": "x:_sadeeq____",
+      "platform": "x",
+      "handle": "_sadeeq____",
+      "observed_handles": [
+        "_Sadeeq____"
+      ],
+      "detail_ids": [
+        "detail_003676"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv",
+        "vip_list.csv"
+      ],
+      "occurrences": 4,
+      "evidence_fields": [
+        "x_handle",
+        "x_url"
+      ],
+      "related_handles": [
+        "pump:sadiq_jiks"
+      ],
+      "profile_url": "https://x.com/_sadeeq____"
+    },
+    {
+      "id": "pump:_severo",
+      "platform": "pump",
+      "handle": "_severo",
+      "observed_handles": [
+        "_SEVERO"
+      ],
+      "detail_ids": [
+        "detail_006283"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv"
+      ],
+      "occurrences": 3,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [],
+      "profile_url": null
+    },
+    {
+      "id": "x:_shadow36",
+      "platform": "x",
+      "handle": "_shadow36",
+      "observed_handles": [
+        "_Shadow36"
+      ],
+      "detail_ids": [
+        "detail_000137",
+        "detail_000282"
+      ],
+      "source_files": [
+        "panda-browsing-2026-10-14T19-27-01-037Z.json",
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv",
+        "vip_list.csv"
+      ],
+      "occurrences": 5,
+      "evidence_fields": [
+        "author",
+        "id",
+        "key",
+        "links[0]",
+        "links[1]",
+        "links[2]",
+        "links[3]",
+        "links[4]",
+        "postUrl",
+        "x_handle",
+        "x_url"
+      ],
+      "related_handles": [
+        "pump:shadow"
+      ],
+      "profile_url": "https://x.com/_shadow36"
+    },
+    {
+      "id": "pump:_shshsha",
+      "platform": "pump",
+      "handle": "_shshsha",
+      "observed_handles": [
+        "_shshsha"
+      ],
+      "detail_ids": [
+        "detail_004019"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv"
+      ],
+      "occurrences": 3,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [],
+      "profile_url": null
+    },
+    {
+      "id": "pump:_smokey",
+      "platform": "pump",
+      "handle": "_smokey",
+      "observed_handles": [
+        "_smokey"
+      ],
+      "detail_ids": [
+        "detail_004434"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv",
+        "vip_list.csv"
+      ],
+      "occurrences": 4,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [
+        "x:smokeyy_sol"
+      ],
+      "profile_url": null
+    },
+    {
+      "id": "pump:_thementalist",
+      "platform": "pump",
+      "handle": "_thementalist",
+      "observed_handles": [
+        "_TheMentalist"
+      ],
+      "detail_ids": [
+        "detail_001767",
+        "detail_011717"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv"
+      ],
+      "occurrences": 3,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [],
+      "profile_url": null
+    },
+    {
+      "id": "x:_traderjay",
+      "platform": "x",
+      "handle": "_traderjay",
+      "observed_handles": [
+        "_traderjay"
+      ],
+      "detail_ids": [
+        "detail_001093",
+        "detail_011270"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv",
+        "vip_list.csv"
+      ],
+      "occurrences": 4,
+      "evidence_fields": [
+        "x_handle",
+        "x_url"
+      ],
+      "related_handles": [
+        "pump:traderjay"
+      ],
+      "profile_url": "https://x.com/_traderjay"
+    },
+    {
+      "id": "pump:_user_name_",
+      "platform": "pump",
+      "handle": "_user_name_",
+      "observed_handles": [
+        "_user_name_"
+      ],
+      "detail_ids": [
+        "detail_002958"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv",
+        "vip_list.csv"
+      ],
+      "occurrences": 4,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [
+        "x:sugafr3ee"
+      ],
+      "profile_url": null
+    },
+    {
+      "id": "pump:_wike20",
+      "platform": "pump",
+      "handle": "_wike20",
+      "observed_handles": [
+        "_wike20"
+      ],
+      "detail_ids": [
+        "detail_011718"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (5).csv"
+      ],
+      "occurrences": 1,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [],
+      "profile_url": null
+    },
+    {
+      "id": "pump:_xiaoming",
+      "platform": "pump",
+      "handle": "_xiaoming",
+      "observed_handles": [
+        "_xiaoming"
+      ],
+      "detail_ids": [
+        "detail_003098",
+        "detail_011726"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv"
+      ],
+      "occurrences": 3,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [],
+      "profile_url": null
+    },
+    {
+      "id": "x:_xxtrencherxx_",
+      "platform": "x",
+      "handle": "_xxtrencherxx_",
+      "observed_handles": [
+        "_XxTrencherxX_"
+      ],
+      "detail_ids": [
+        "detail_003639"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv",
+        "vip_list.csv"
+      ],
+      "occurrences": 4,
+      "evidence_fields": [
+        "x_handle",
+        "x_url"
+      ],
+      "related_handles": [
+        "pump:xxtrencherxx"
+      ],
+      "profile_url": "https://x.com/_xxtrencherxx_"
+    },
+    {
+      "id": "pump:_zaza1337",
+      "platform": "pump",
+      "handle": "_zaza1337",
+      "observed_handles": [
+        "_Zaza1337"
+      ],
+      "detail_ids": [
+        "detail_000593",
+        "detail_011722"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv",
+        "vip_list.csv"
+      ],
+      "occurrences": 4,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [
+        "x:_zaza1337"
+      ],
+      "profile_url": null
+    },
+    {
+      "id": "x:_zaza1337",
+      "platform": "x",
+      "handle": "_zaza1337",
+      "observed_handles": [
+        "_zaza1337"
+      ],
+      "detail_ids": [
+        "detail_000593",
+        "detail_011722"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv",
+        "vip_list.csv"
+      ],
+      "occurrences": 4,
+      "evidence_fields": [
+        "x_handle",
+        "x_url"
+      ],
+      "related_handles": [
+        "pump:_zaza1337"
+      ],
+      "profile_url": "https://x.com/_zaza1337"
+    }
+  ],
+  "details": [
+    {
+      "id": "detail_000116",
+      "record": {
+        "key": "https://x.com/_bolivian/status/2110478370295230502",
+        "platform": "x",
+        "postUrl": "https://x.com/_bolivian/status/2110478370295230502",
+        "pageUrl": "https://x.com/home",
+        "author": "bolivian\n@_bolivian\n·\n20m",
+        "text": "Guys is Jack Duval actually gay?",
+        "links": [
+          "https://x.com/_bolivian",
+          "https://x.com/_bolivian",
+          "https://x.com/_bolivian",
+          "https://x.com/_bolivian/status/2110478370295230502",
+          "https://x.com/_bolivian/status/2110478370295230502/analytics"
+        ],
+        "media": [
+          {
+            "type": "video",
+            "url": null,
+            "poster": "https://pbs.twimg.com/amplify_video_thumb/2110413363498852352/img/FwSVCYK7SWKmGALi.jpg",
+            "alt": ""
+          }
+        ],
+        "seenAt": "2026-10-14T21:32:00.959Z",
+        "id": "b175d44d-8f8a-45d8-916c-c8963dcc6179:https://x.com/_bolivian/status/2110478370295230502",
+        "sessionId": "b175d44d-8f8a-45d8-916c-c8963dcc6179",
+        "firstSeen": "2026-10-14T21:31:58.786Z",
+        "lastSeen": "2026-10-14T21:32:00.959Z",
+        "views": 2
+      },
+      "sources": [
+        {
+          "file": "panda-browsing-2026-10-14T19-27-01-037Z.json",
+          "location": "$.entries[115]"
+        }
+      ]
+    },
+    {
+      "id": "detail_000137",
+      "record": {
+        "key": "https://x.com/_Shadow36/status/2110432979873067482",
+        "platform": "x",
+        "postUrl": "https://x.com/_Shadow36/status/2110432979873067482",
+        "pageUrl": "https://x.com/home",
+        "author": "Shadow\n@_Shadow36\n·\n3h",
+        "text": "THANK U",
+        "links": [
+          "https://x.com/_Shadow36",
+          "https://x.com/_Shadow36",
+          "https://x.com/_Shadow36",
+          "https://x.com/_Shadow36/status/2110432979873067482",
+          "https://x.com/_Shadow36/status/2110432979873067482/analytics"
+        ],
+        "media": [],
+        "seenAt": "2026-10-14T21:32:48.447Z",
+        "id": "b175d44d-8f8a-45d8-916c-c8963dcc6179:https://x.com/_Shadow36/status/2110432979873067482",
+        "sessionId": "b175d44d-8f8a-45d8-916c-c8963dcc6179",
+        "firstSeen": "2026-10-14T21:32:48.447Z",
+        "lastSeen": "2026-10-14T21:32:48.447Z",
+        "views": 1
+      },
+      "sources": [
+        {
+          "file": "panda-browsing-2026-10-14T19-27-01-037Z.json",
+          "location": "$.entries[136]"
+        }
+      ]
+    },
+    {
+      "id": "detail_000142",
+      "record": {
+        "key": "https://x.com/pandaframework/status/2110483841567838700",
+        "platform": "x",
+        "postUrl": "https://x.com/pandaframework/status/2110483841567838700",
+        "pageUrl": "https://x.com/home",
+        "author": "Panda Framework\n@pandaframework\n·\n1m",
+        "text": "Perceptions: [X post: Inquiry about Jack Duval's sexuality.]\nAnalysis: Speculation without verified info.\nNetwork: No other accounts checked\nDecision: Stay neutral on personal matters.\nAction: Focus on PANDA: karate for the mind.",
+        "links": [
+          "https://x.com/pandaframework",
+          "https://x.com/pandaframework",
+          "https://x.com/pandaframework",
+          "https://x.com/pandaframework/status/2110483841567838700",
+          "https://x.com/_bolivian",
+          "https://x.com/pandaframework/status/2110483841567838700/analytics"
+        ],
+        "media": [],
+        "seenAt": "2026-10-14T21:34:01.786Z",
+        "id": "b175d44d-8f8a-45d8-916c-c8963dcc6179:https://x.com/pandaframework/status/2110483841567838700",
+        "sessionId": "b175d44d-8f8a-45d8-916c-c8963dcc6179",
+        "firstSeen": "2026-10-14T21:34:01.786Z",
+        "lastSeen": "2026-10-14T21:34:01.786Z",
+        "views": 1
+      },
+      "sources": [
+        {
+          "file": "panda-browsing-2026-10-14T19-27-01-037Z.json",
+          "location": "$.entries[141]"
+        }
+      ]
+    },
+    {
+      "id": "detail_000180",
+      "record": {
+        "profile_name": "_logjam",
+        "pump_handle": "_logjam",
+        "pump_profile_url": "https://pump.fun/profile/AH39BneW9UeWxQysUcwogQrYFdPvJuRVZ5w4ccq9SKfL",
+        "x_handle": "_logjam",
+        "x_url": "https://x.com/_logjam",
+        "followers": "_logjam127K followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:17"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:17"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:7989"
+        },
+        {
+          "file": "vip_list.csv",
+          "location": "line:15"
+        }
+      ]
+    },
+    {
+      "id": "detail_000222",
+      "record": {
+        "profile_name": "_fox09",
+        "pump_handle": "_fox09",
+        "pump_profile_url": "https://pump.fun/profile/DAEdBmTPEKM6xkwfzC3d411QUe6coKpkND6UURa4CvHC",
+        "x_handle": "_fox09",
+        "x_url": "https://x.com/_fox09",
+        "followers": "_fox0947.4K followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:59"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:59"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:8000"
+        },
+        {
+          "file": "vip_list.csv",
+          "location": "line:55"
+        }
+      ]
+    },
+    {
+      "id": "detail_000282",
+      "record": {
+        "profile_name": "shadow",
+        "pump_handle": "shadow",
+        "pump_profile_url": "https://pump.fun/profile/3As7z4nCJeWx27YmjLfFFsW7cBbyAZNhwujcBhABj6MD",
+        "x_handle": "_Shadow36",
+        "x_url": "https://x.com/_Shadow36",
+        "followers": "shadow81.5K followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:119"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:119"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:6115"
+        },
+        {
+          "file": "vip_list.csv",
+          "location": "line:90"
+        }
+      ]
+    },
+    {
+      "id": "detail_000564",
+      "record": {
+        "profile_name": "_opensecret",
+        "pump_handle": "_opensecret",
+        "pump_profile_url": "https://pump.fun/profile/BM4z8XWwCJNM7nkeLE7hjVe3sYhkaLqavLbaZxaiQ8Rm",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "_opensecret5,359 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:401"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:401"
+        }
+      ]
+    },
+    {
+      "id": "detail_000593",
+      "record": {
+        "profile_name": "_Zaza1337",
+        "pump_handle": "_Zaza1337",
+        "pump_profile_url": "https://pump.fun/profile/CHubsXab3kTQCYV8ZULMgnCNbxdrUgi1BvfAWnFHexHA",
+        "x_handle": "_zaza1337",
+        "x_url": "https://x.com/_zaza1337",
+        "followers": "_Zaza13373,855 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:430"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:430"
+        },
+        {
+          "file": "vip_list.csv",
+          "location": "line:334"
+        }
+      ]
+    },
+    {
+      "id": "detail_000617",
+      "record": {
+        "profile_name": "bolivian",
+        "pump_handle": "bolivian",
+        "pump_profile_url": "https://pump.fun/profile/FofPTQXdUtCNDcqK2oC8UsuhzuVLcKcwC43LbX21MXWf",
+        "x_handle": "_bolivian",
+        "x_url": "https://x.com/_bolivian",
+        "followers": "bolivian3,180 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:454"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:454"
+        },
+        {
+          "file": "vip_list.csv",
+          "location": "line:350"
+        }
+      ]
+    },
+    {
+      "id": "detail_000651",
+      "record": {
+        "profile_name": "EMMAk",
+        "pump_handle": "EMMAk",
+        "pump_profile_url": "https://pump.fun/profile/7QBQLNXfCHNhuCsvzBWH3kMMh6NAiKyZSfb1NYjfVXNi",
+        "x_handle": "_emmaonchain_",
+        "x_url": "https://x.com/_emmaonchain_",
+        "followers": "EMMAk2,774 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:488"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:488"
+        },
+        {
+          "file": "vip_list.csv",
+          "location": "line:374"
+        }
+      ]
+    },
+    {
+      "id": "detail_000676",
+      "record": {
+        "profile_name": "iamevill",
+        "pump_handle": "iamevill",
+        "pump_profile_url": "https://pump.fun/profile/D1Ew5uxiD9mJWe8Mh6xMq3juU1L4JcEX7ch76Z1eeX7k",
+        "x_handle": "_iamevill",
+        "x_url": "https://x.com/_iamevill",
+        "followers": "iamevill2,473 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:513"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:513"
+        },
+        {
+          "file": "vip_list.csv",
+          "location": "line:386"
+        }
+      ]
+    },
+    {
+      "id": "detail_001046",
+      "record": {
+        "profile_name": "_PORKU",
+        "pump_handle": "_PORKU",
+        "pump_profile_url": "https://pump.fun/profile/Cb5mK8yePWrPTX2aLqvfyZ1ccbrBPX5jKJ7AjxYguxwt",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "_PORKU790 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:883"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:883"
+        }
+      ]
+    },
+    {
+      "id": "detail_001049",
+      "record": {
+        "profile_name": "_Elboss",
+        "pump_handle": "_Elboss",
+        "pump_profile_url": "https://pump.fun/profile/81yGFvBZGxqGmUp1Lnv6xtZ5extLnEW8uoaUEeid819m",
+        "x_handle": "ElbossBU",
+        "x_url": "https://x.com/ElbossBU",
+        "followers": "_Elboss789 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:886"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:886"
+        },
+        {
+          "file": "vip_list.csv",
+          "location": "line:574"
+        }
+      ]
+    },
+    {
+      "id": "detail_001093",
+      "record": {
+        "profile_name": "traderjay",
+        "pump_handle": "traderjay",
+        "pump_profile_url": "https://pump.fun/profile/DQJB8FdpydxysoLbYBVKYBq2mnsBHRycG6KEkF7e82bk",
+        "x_handle": "_traderjay",
+        "x_url": "https://x.com/_traderjay",
+        "followers": "traderjay727 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:930"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:930"
+        },
+        {
+          "file": "vip_list.csv",
+          "location": "line:590"
+        }
+      ]
+    },
+    {
+      "id": "detail_001176",
+      "record": {
+        "profile_name": "_42069",
+        "pump_handle": "_42069",
+        "pump_profile_url": "https://pump.fun/profile/2Yz8UBkQU6KwAXSFdREvvirBJSGS6C3Qk8wKp7ekZ18b",
+        "x_handle": "42069alpha",
+        "x_url": "https://x.com/42069alpha",
+        "followers": "_42069634 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:1013"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:1013"
+        },
+        {
+          "file": "vip_list.csv",
+          "location": "line:634"
+        }
+      ]
+    },
+    {
+      "id": "detail_001199",
+      "record": {
+        "profile_name": "stnz",
+        "pump_handle": "stnz",
+        "pump_profile_url": "https://pump.fun/profile/GDCJwMpEiKazESdvpmP7qQBK43uHrsULCKFQhi6YGi6C",
+        "x_handle": "__STNZ__",
+        "x_url": "https://x.com/__STNZ__",
+        "followers": "stnz616 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:1036"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:1036"
+        },
+        {
+          "file": "vip_list.csv",
+          "location": "line:642"
+        }
+      ]
+    },
+    {
+      "id": "detail_001472",
+      "record": {
+        "profile_name": "_Maximo",
+        "pump_handle": "_Maximo",
+        "pump_profile_url": "https://pump.fun/profile/FMxHtEgc4rnKsYWVki3Rai5d274FAL8uvw77oBaRdmtF",
+        "x_handle": "Maximo_Chad",
+        "x_url": "https://x.com/Maximo_Chad",
+        "followers": "_Maximo481 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:1309"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:1309"
+        },
+        {
+          "file": "vip_list.csv",
+          "location": "line:772"
+        }
+      ]
+    },
+    {
+      "id": "detail_001606",
+      "record": {
+        "profile_name": "_HunchoX_",
+        "pump_handle": "_HunchoX_",
+        "pump_profile_url": "https://pump.fun/profile/7FBJEubxFDAJdDWrGwTAF6BcT7N7aB6NFTkdm5bhDxd2",
+        "x_handle": "_HunchoX_",
+        "x_url": "https://x.com/_HunchoX_",
+        "followers": "_HunchoX_2,285 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:1443"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:1443"
+        },
+        {
+          "file": "vip_list.csv",
+          "location": "line:811"
+        }
+      ]
+    },
+    {
+      "id": "detail_001767",
+      "record": {
+        "profile_name": "_TheMentalist",
+        "pump_handle": "_TheMentalist",
+        "pump_profile_url": "https://pump.fun/profile/8YFDJtQb5vKnkY35HcqQLT3oGWLYdLV8iN352AWrasVY",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "_TheMentalist260 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:1604"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:1604"
+        }
+      ]
+    },
+    {
+      "id": "detail_001769",
+      "record": {
+        "profile_name": "montag451",
+        "pump_handle": "montag451",
+        "pump_profile_url": "https://pump.fun/profile/54DsiK6FgM2WGr4y9sYDSTjTpyfMaDLTUEuWavjjK5vD",
+        "x_handle": "_F451Montag",
+        "x_url": "https://x.com/_F451Montag",
+        "followers": "montag451257 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:1606"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:1606"
+        },
+        {
+          "file": "vip_list.csv",
+          "location": "line:867"
+        }
+      ]
+    },
+    {
+      "id": "detail_001996",
+      "record": {
+        "profile_name": "_kimchi_",
+        "pump_handle": "_kimchi_",
+        "pump_profile_url": "https://pump.fun/profile/Ew2saSXsvdUAFeRpBzKJMFzMUYG2Ns3hV6gQ5761EAuB",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "_kimchi_135 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:1833"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:1833"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:8005"
+        }
+      ]
+    },
+    {
+      "id": "detail_002352",
+      "record": {
+        "profile_name": "_fml",
+        "pump_handle": "_fml",
+        "pump_profile_url": "https://pump.fun/profile/7Tw64kPKQjqDfUQaDXM2Zg84Co3vHCsmAGnBzWZY5rrU",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "_fml710 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:2190"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:2190"
+        }
+      ]
+    },
+    {
+      "id": "detail_002819",
+      "record": {
+        "profile_name": "_CawKnight_",
+        "pump_handle": "_CawKnight_",
+        "pump_profile_url": "https://pump.fun/profile/5gCC7DZbrbCDLypeMvDDCWWdP6XArqu4LJSypdXYtBko",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "_CawKnight_86 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:2658"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:2658"
+        }
+      ]
+    },
+    {
+      "id": "detail_002958",
+      "record": {
+        "profile_name": "_user_name_",
+        "pump_handle": "_user_name_",
+        "pump_profile_url": "https://pump.fun/profile/FjwDkYbwkSfmHKh9iZMovE4CBQNco5Wko17PWzh374B2",
+        "x_handle": "sugafr3ee",
+        "x_url": "https://x.com/sugafr3ee",
+        "followers": "_user_name_108 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:2797"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:2797"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:8008"
+        },
+        {
+          "file": "vip_list.csv",
+          "location": "line:1134"
+        }
+      ]
+    },
+    {
+      "id": "detail_002992",
+      "record": {
+        "profile_name": "____________",
+        "pump_handle": "____________",
+        "pump_profile_url": "https://pump.fun/profile/BTqBrk4njnEcJe689JTb1eFWR5PYJAC2vBXZKxzYyUxV",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "____________40 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:2831"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:2831"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:7994"
+        }
+      ]
+    },
+    {
+      "id": "detail_003098",
+      "record": {
+        "profile_name": "_xiaoming",
+        "pump_handle": "_xiaoming",
+        "pump_profile_url": "https://pump.fun/profile/EK74N8v1F22NZaE8YWbR4V6xAVQMvTCza3Twq1prJ5FB",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "_xiaoming218 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:2937"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:2937"
+        }
+      ]
+    },
+    {
+      "id": "detail_003180",
+      "record": {
+        "profile_name": "k4ned4",
+        "pump_handle": "k4ned4",
+        "pump_profile_url": "https://pump.fun/profile/6Y8zBv6LwjkMQ83CmobMRBfZoP3mm5BUvTdVbQ9NDg9T",
+        "x_handle": "_K4NED4_",
+        "x_url": "https://x.com/_K4NED4_",
+        "followers": "k4ned411 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:3019"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:3019"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:3754"
+        },
+        {
+          "file": "vip_list.csv",
+          "location": "line:1198"
+        }
+      ]
+    },
+    {
+      "id": "detail_003259",
+      "record": {
+        "profile_name": "_Just_a_guy",
+        "pump_handle": "_Just_a_guy",
+        "pump_profile_url": "https://pump.fun/profile/5PDsTFdBxCSmwu52FDMdxkdGDfJKLHL5QUi17NS2a7kx",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "_Just_a_guy908 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:3098"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:3098"
+        }
+      ]
+    },
+    {
+      "id": "detail_003564",
+      "record": {
+        "profile_name": "_notyeti",
+        "pump_handle": "_notyeti",
+        "pump_profile_url": "https://pump.fun/profile/CJhf7uawjdHmxb3nrpLBcUcDzgiy1TWWiBbXtEjyjtRQ",
+        "x_handle": "_notyeti",
+        "x_url": "https://x.com/_notyeti",
+        "followers": "_notyeti448 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:3403"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:3403"
+        },
+        {
+          "file": "vip_list.csv",
+          "location": "line:1317"
+        }
+      ]
+    },
+    {
+      "id": "detail_003639",
+      "record": {
+        "profile_name": "XxTrencherxX",
+        "pump_handle": "XxTrencherxX",
+        "pump_profile_url": "https://pump.fun/profile/7siNJx6MBGF7Rh1vaN62Y4b9rTYwkmmWiZJmRvc7ddLb",
+        "x_handle": "_XxTrencherxX_",
+        "x_url": "https://x.com/_XxTrencherxX_",
+        "followers": "XxTrencherxX101 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:3478"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:3478"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:7756"
+        },
+        {
+          "file": "vip_list.csv",
+          "location": "line:1341"
+        }
+      ]
+    },
+    {
+      "id": "detail_003676",
+      "record": {
+        "profile_name": "Sadiq_jiks",
+        "pump_handle": "Sadiq_jiks",
+        "pump_profile_url": "https://pump.fun/profile/6EABFzFKKMCkBUAujBjHY41bhWG2wVuCx9LXVveG4wv4",
+        "x_handle": "_Sadeeq____",
+        "x_url": "https://x.com/_Sadeeq____",
+        "followers": "Sadiq_jiks13 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:3515"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:3515"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:6227"
+        },
+        {
+          "file": "vip_list.csv",
+          "location": "line:1345"
+        }
+      ]
+    },
+    {
+      "id": "detail_004019",
+      "record": {
+        "profile_name": "_shshsha",
+        "pump_handle": "_shshsha",
+        "pump_profile_url": "https://pump.fun/profile/AJYfxvKxXmoYmVCoJA8udifWqo1DykXveGPbH56w1jki",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "_shshsha505 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:3858"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:3858"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:7990"
+        }
+      ]
+    },
+    {
+      "id": "detail_004026",
+      "record": {
+        "profile_name": "PrimeElias",
+        "pump_handle": "PrimeElias",
+        "pump_profile_url": "https://pump.fun/profile/7QwFhbQYwa77hPAVFymPv8Tes5Nox6TGhBXkyQyEH2Vt",
+        "x_handle": "_PrimeElias",
+        "x_url": "https://x.com/_PrimeElias",
+        "followers": "PrimeElias332 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:3865"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:3865"
+        },
+        {
+          "file": "vip_list.csv",
+          "location": "line:1427"
+        }
+      ]
+    },
+    {
+      "id": "detail_004081",
+      "record": {
+        "profile_name": "_la",
+        "pump_handle": "_la",
+        "pump_profile_url": "https://pump.fun/profile/2HTW1j6dj5yajNN9zaNSyyJLRzi9G6s5CW4sSUc2pKjn",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "_la210 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:3920"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:3920"
+        }
+      ]
+    },
+    {
+      "id": "detail_004136",
+      "record": {
+        "profile_name": "_fudder",
+        "pump_handle": "_fudder",
+        "pump_profile_url": "https://pump.fun/profile/25bLNepKnM2ZupGgEy5aG25U57JV2XHmMgMAsHnUozxW",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "_fudder188 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:3975"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:3975"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:7970"
+        }
+      ]
+    },
+    {
+      "id": "detail_004335",
+      "record": {
+        "profile_name": "_____idk",
+        "pump_handle": "_____idk",
+        "pump_profile_url": "https://pump.fun/profile/Hq9cs25nHENmTXh9aniFwjbrftGpUb1qUZVsHzpWdkPU",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "_____idk112 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:4174"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:4174"
+        }
+      ]
+    },
+    {
+      "id": "detail_004350",
+      "record": {
+        "profile_name": "_deaegen",
+        "pump_handle": "_deaegen",
+        "pump_profile_url": "https://pump.fun/profile/DMDtTss6AoxuX1eqcL9mLJZAJyTFXmfWKy6ZD8AVMUsq",
+        "x_handle": "deaegen",
+        "x_url": "https://x.com/deaegen",
+        "followers": "_deaegen73 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:4189"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:4189"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:8001"
+        },
+        {
+          "file": "vip_list.csv",
+          "location": "line:1489"
+        }
+      ]
+    },
+    {
+      "id": "detail_004434",
+      "record": {
+        "profile_name": "_smokey",
+        "pump_handle": "_smokey",
+        "pump_profile_url": "https://pump.fun/profile/3kDGnCvAmUF3EjdbMkF42ocL1SStNDKxaUNPA1WpRf5z",
+        "x_handle": "smokeyy_sol",
+        "x_url": "https://x.com/smokeyy_sol",
+        "followers": "_smokey6,012 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:4273"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:4273"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:7974"
+        },
+        {
+          "file": "vip_list.csv",
+          "location": "line:1512"
+        }
+      ]
+    },
+    {
+      "id": "detail_004521",
+      "record": {
+        "profile_name": "_rise",
+        "pump_handle": "_rise",
+        "pump_profile_url": "https://pump.fun/profile/CrnXsY1VRPMzE9FPKRkaqDtGyTNbw1baWivYTpP6vjRs",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "_rise168 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:4360"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:4360"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:7998"
+        }
+      ]
+    },
+    {
+      "id": "detail_004763",
+      "record": {
+        "profile_name": "_laseasy",
+        "pump_handle": "_laseasy",
+        "pump_profile_url": "https://pump.fun/profile/8xyS3rGV2q3dF3xCQ4tuFvrVWTezDdSBgvqYKX56qbx7",
+        "x_handle": "_laseasy",
+        "x_url": "https://x.com/_laseasy",
+        "followers": "_laseasy402 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:4602"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:4602"
+        },
+        {
+          "file": "vip_list.csv",
+          "location": "line:1595"
+        }
+      ]
+    },
+    {
+      "id": "detail_004785",
+      "record": {
+        "profile_name": "Kuryakin",
+        "pump_handle": "Kuryakin",
+        "pump_profile_url": "https://pump.fun/profile/A9CPxHEV4pam8q596VgKrxJfAaTVfidfrV2tDSvywAuG",
+        "x_handle": "_Kuryakin",
+        "x_url": "https://x.com/_Kuryakin",
+        "followers": "Kuryakin147 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:4624"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:4624"
+        },
+        {
+          "file": "vip_list.csv",
+          "location": "line:1600"
+        }
+      ]
+    },
+    {
+      "id": "detail_004933",
+      "record": {
+        "profile_name": "_bill_",
+        "pump_handle": "_bill_",
+        "pump_profile_url": "https://pump.fun/profile/FHg8gnrvbhuDkg67cSLgRVnFm1Za8uXhmz53c2dVUCPy",
+        "x_handle": "closedtowork",
+        "x_url": "https://x.com/closedtowork",
+        "followers": "_bill_209 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:4772"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:4772"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:8006"
+        },
+        {
+          "file": "vip_list.csv",
+          "location": "line:1620"
+        }
+      ]
+    },
+    {
+      "id": "detail_005203",
+      "record": {
+        "profile_name": "__luxury__",
+        "pump_handle": "__luxury__",
+        "pump_profile_url": "https://pump.fun/profile/96dW7EDuEK5BhDmqxFJEJh68YxDHD21cjaXpzP8RCbZC",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "__luxury__366 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:5042"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:5042"
+        }
+      ]
+    },
+    {
+      "id": "detail_005276",
+      "record": {
+        "profile_name": "_Pumpius_",
+        "pump_handle": "_Pumpius_",
+        "pump_profile_url": "https://pump.fun/profile/DUSF4TGdRCVww16eDyYkHidoVS3nuQVTA3bu1w2CayD5",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "_Pumpius_22 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:5115"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:5115"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:8002"
+        }
+      ]
+    },
+    {
+      "id": "detail_005298",
+      "record": {
+        "profile_name": "_pumpmybags",
+        "pump_handle": "_pumpmybags",
+        "pump_profile_url": "https://pump.fun/profile/Evi8RYpJo7XZVqbc2sjBZxLFfUHdjM2P4LKHDcdjWP71",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "_pumpmybags30 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:5137"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:5137"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:8004"
+        }
+      ]
+    },
+    {
+      "id": "detail_005493",
+      "record": {
+        "profile_name": "kingorange",
+        "pump_handle": "kingorange",
+        "pump_profile_url": "https://pump.fun/profile/2xthDUYWkf7fogWGKHVp4QJV9N2eNHYKDeWmyBnP9zp3",
+        "x_handle": "_kingorange",
+        "x_url": "https://x.com/_kingorange",
+        "followers": "kingorange133 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:5332"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:5332"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:3718"
+        },
+        {
+          "file": "vip_list.csv",
+          "location": "line:1731"
+        }
+      ]
+    },
+    {
+      "id": "detail_005638",
+      "record": {
+        "profile_name": "_ChefBateman",
+        "pump_handle": "_ChefBateman",
+        "pump_profile_url": "https://pump.fun/profile/AoRPFgaJhTGzQiXNa7LUJnQw1wnHicLSv2rK5PsenViZ",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "_ChefBateman17 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:5477"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:5477"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:7992"
+        }
+      ]
+    },
+    {
+      "id": "detail_005801",
+      "record": {
+        "profile_name": "manu_212",
+        "pump_handle": "manu_212",
+        "pump_profile_url": "https://pump.fun/profile/B1uRohVwE3PiqJL58MpysoWerLVTi57NRi6zBYiQfFyb",
+        "x_handle": "_manu212",
+        "x_url": "https://x.com/_manu212",
+        "followers": "manu_21297 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:5640"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:5640"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:4559"
+        },
+        {
+          "file": "vip_list.csv",
+          "location": "line:1789"
+        }
+      ]
+    },
+    {
+      "id": "detail_005885",
+      "record": {
+        "profile_name": "thearyanag",
+        "pump_handle": "thearyanag",
+        "pump_profile_url": "https://pump.fun/profile/FZUg1PjXbAe2hisVxevcvKr5yr8krJSvEuJjrDTd8RbU",
+        "x_handle": "_0xaryan",
+        "x_url": "https://x.com/_0xaryan",
+        "followers": "thearyanag50 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:5724"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:5724"
+        },
+        {
+          "file": "vip_list.csv",
+          "location": "line:1803"
+        }
+      ]
+    },
+    {
+      "id": "detail_006283",
+      "record": {
+        "profile_name": "_SEVERO",
+        "pump_handle": "_SEVERO",
+        "pump_profile_url": "https://pump.fun/profile/7tHZTRWTSFXop46q8cWBXyvPQsg8GXEeFbDisSwxdGWZ",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "_SEVERO280 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:6122"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:6122"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:7983"
+        }
+      ]
+    },
+    {
+      "id": "detail_006926",
+      "record": {
+        "profile_name": "_a1lon9",
+        "pump_handle": "_a1lon9",
+        "pump_profile_url": "https://pump.fun/profile/3sZ2UqmFUyz74WXhxC4QuWhjFqqHjR2SKkKEJD276oCa",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "_a1lon9131 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:6765"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:6765"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:7975"
+        }
+      ]
+    },
+    {
+      "id": "detail_006947",
+      "record": {
+        "profile_name": "_mitch_",
+        "pump_handle": "_mitch_",
+        "pump_profile_url": "https://pump.fun/profile/4Be94UwkM5ueK1TuhnBmPKj8xBM6emgVp7ezCansNe3e",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "_mitch_4 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:6786"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:6786"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:7976"
+        }
+      ]
+    },
+    {
+      "id": "detail_007028",
+      "record": {
+        "profile_name": "__justEVA",
+        "pump_handle": "__justEVA",
+        "pump_profile_url": "https://pump.fun/profile/3T7nT7d3wK16oK7c7fdQUZrDdCFjVVUHFGaYECiAzduV",
+        "x_handle": "neonEVA_",
+        "x_url": "https://x.com/neonEVA_",
+        "followers": "__justEVA212 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:6867"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:6867"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:7973"
+        },
+        {
+          "file": "vip_list.csv",
+          "location": "line:1995"
+        }
+      ]
+    },
+    {
+      "id": "detail_007125",
+      "record": {
+        "profile_name": "_AaAaA_",
+        "pump_handle": "_AaAaA_",
+        "pump_profile_url": "https://pump.fun/profile/AQBPi21NvgjxrefaYBEVg5GkKvG4bq3WGHTznooWpN2X",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "_AaAaA_18 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:6964"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:6964"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:7991"
+        }
+      ]
+    },
+    {
+      "id": "detail_008048",
+      "record": {
+        "profile_name": "bolivian",
+        "pump_handle": "bolivian",
+        "pump_profile_url": "https://pump.fun/profile/FofPTQXdUtCNDcqK2oC8UsuhzuVLcKcwC43LbX21MXWf",
+        "x_handle": "_bolivian",
+        "x_url": "https://x.com/_bolivian",
+        "followers": "bolivian3,189 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:1079"
+        }
+      ]
+    },
+    {
+      "id": "detail_008647",
+      "record": {
+        "profile_name": "EMMAk",
+        "pump_handle": "EMMAk",
+        "pump_profile_url": "https://pump.fun/profile/7QBQLNXfCHNhuCsvzBWH3kMMh6NAiKyZSfb1NYjfVXNi",
+        "x_handle": "_emmaonchain_",
+        "x_url": "https://x.com/_emmaonchain_",
+        "followers": "EMMAk2,800 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:2236"
+        }
+      ]
+    },
+    {
+      "id": "detail_009263",
+      "record": {
+        "profile_name": "iamevill",
+        "pump_handle": "iamevill",
+        "pump_profile_url": "https://pump.fun/profile/D1Ew5uxiD9mJWe8Mh6xMq3juU1L4JcEX7ch76Z1eeX7k",
+        "x_handle": "_iamevill",
+        "x_url": "https://x.com/_iamevill",
+        "followers": "iamevill2,477 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:3395"
+        }
+      ]
+    },
+    {
+      "id": "detail_009492",
+      "record": {
+        "profile_name": "Kuryakin",
+        "pump_handle": "Kuryakin",
+        "pump_profile_url": "https://pump.fun/profile/A9CPxHEV4pam8q596VgKrxJfAaTVfidfrV2tDSvywAuG",
+        "x_handle": "_Kuryakin",
+        "x_url": "https://x.com/_Kuryakin",
+        "followers": "Kuryakin148 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:3799"
+        }
+      ]
+    },
+    {
+      "id": "detail_009788",
+      "record": {
+        "profile_name": "montag451",
+        "pump_handle": "montag451",
+        "pump_profile_url": "https://pump.fun/profile/54DsiK6FgM2WGr4y9sYDSTjTpyfMaDLTUEuWavjjK5vD",
+        "x_handle": "_F451Montag",
+        "x_url": "https://x.com/_F451Montag",
+        "followers": "montag451260 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:4345"
+        }
+      ]
+    },
+    {
+      "id": "detail_010351",
+      "record": {
+        "profile_name": "PrimeElias",
+        "pump_handle": "PrimeElias",
+        "pump_profile_url": "https://pump.fun/profile/7QwFhbQYwa77hPAVFymPv8Tes5Nox6TGhBXkyQyEH2Vt",
+        "x_handle": "_PrimeElias",
+        "x_url": "https://x.com/_PrimeElias",
+        "followers": "PrimeElias336 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:5392"
+        }
+      ]
+    },
+    {
+      "id": "detail_011023",
+      "record": {
+        "profile_name": "stnz",
+        "pump_handle": "stnz",
+        "pump_profile_url": "https://pump.fun/profile/GDCJwMpEiKazESdvpmP7qQBK43uHrsULCKFQhi6YGi6C",
+        "x_handle": "__STNZ__",
+        "x_url": "https://x.com/__STNZ__",
+        "followers": "stnz626 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:6683"
+        }
+      ]
+    },
+    {
+      "id": "detail_011270",
+      "record": {
+        "profile_name": "traderjay",
+        "pump_handle": "traderjay",
+        "pump_profile_url": "https://pump.fun/profile/DQJB8FdpydxysoLbYBVKYBq2mnsBHRycG6KEkF7e82bk",
+        "x_handle": "_traderjay",
+        "x_url": "https://x.com/_traderjay",
+        "followers": "traderjay722 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:7139"
+        }
+      ]
+    },
+    {
+      "id": "detail_011303",
+      "record": {
+        "profile_name": "thearyanag",
+        "pump_handle": "thearyanag",
+        "pump_profile_url": "https://pump.fun/profile/FZUg1PjXbAe2hisVxevcvKr5yr8krJSvEuJjrDTd8RbU",
+        "x_handle": "_0xaryan",
+        "x_url": "https://x.com/_0xaryan",
+        "followers": "thearyanag52 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:7198"
+        }
+      ]
+    },
+    {
+      "id": "detail_011708",
+      "record": {
+        "profile_name": "_la",
+        "pump_handle": "_la",
+        "pump_profile_url": "https://pump.fun/profile/2HTW1j6dj5yajNN9zaNSyyJLRzi9G6s5CW4sSUc2pKjn",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "_la209 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:7971"
+        }
+      ]
+    },
+    {
+      "id": "detail_011709",
+      "record": {
+        "profile_name": "_42069",
+        "pump_handle": "_42069",
+        "pump_profile_url": "https://pump.fun/profile/2Yz8UBkQU6KwAXSFdREvvirBJSGS6C3Qk8wKp7ekZ18b",
+        "x_handle": "42069alpha",
+        "x_url": "https://x.com/42069alpha",
+        "followers": "_42069630 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:7972"
+        }
+      ]
+    },
+    {
+      "id": "detail_011710",
+      "record": {
+        "profile_name": "_ladiesman217",
+        "pump_handle": "_ladiesman217",
+        "pump_profile_url": "https://pump.fun/profile/4nfkvDtNUzcPvDHnNDQ3oL3H457yYUNuYhBt21DLQ4B5",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "_ladiesman217239 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:7977"
+        }
+      ]
+    },
+    {
+      "id": "detail_011711",
+      "record": {
+        "profile_name": "_Just_a_guy",
+        "pump_handle": "_Just_a_guy",
+        "pump_profile_url": "https://pump.fun/profile/5PDsTFdBxCSmwu52FDMdxkdGDfJKLHL5QUi17NS2a7kx",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "_Just_a_guy901 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:7978"
+        }
+      ]
+    },
+    {
+      "id": "detail_011712",
+      "record": {
+        "profile_name": "_CawKnight_",
+        "pump_handle": "_CawKnight_",
+        "pump_profile_url": "https://pump.fun/profile/5gCC7DZbrbCDLypeMvDDCWWdP6XArqu4LJSypdXYtBko",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "_CawKnight_88 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:7979"
+        }
+      ]
+    },
+    {
+      "id": "detail_011713",
+      "record": {
+        "profile_name": "_Reigner_",
+        "pump_handle": "_Reigner_",
+        "pump_profile_url": "https://pump.fun/profile/6ehmdufwJKzt15ZEeY35uYgsKoX5qaAzP51shUz1oAxP",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "_Reigner_248 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:7980"
+        }
+      ]
+    },
+    {
+      "id": "detail_011714",
+      "record": {
+        "profile_name": "_HunchoX_",
+        "pump_handle": "_HunchoX_",
+        "pump_profile_url": "https://pump.fun/profile/7FBJEubxFDAJdDWrGwTAF6BcT7N7aB6NFTkdm5bhDxd2",
+        "x_handle": "_HunchoX_",
+        "x_url": "https://x.com/_HunchoX_",
+        "followers": "_HunchoX_2,289 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:7981"
+        }
+      ]
+    },
+    {
+      "id": "detail_011715",
+      "record": {
+        "profile_name": "_fml",
+        "pump_handle": "_fml",
+        "pump_profile_url": "https://pump.fun/profile/7Tw64kPKQjqDfUQaDXM2Zg84Co3vHCsmAGnBzWZY5rrU",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "_fml708 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:7982"
+        }
+      ]
+    },
+    {
+      "id": "detail_011716",
+      "record": {
+        "profile_name": "_Elboss",
+        "pump_handle": "_Elboss",
+        "pump_profile_url": "https://pump.fun/profile/81yGFvBZGxqGmUp1Lnv6xtZ5extLnEW8uoaUEeid819m",
+        "x_handle": "ElbossBU",
+        "x_url": "https://x.com/ElbossBU",
+        "followers": "_Elboss795 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:7984"
+        }
+      ]
+    },
+    {
+      "id": "detail_011717",
+      "record": {
+        "profile_name": "_TheMentalist",
+        "pump_handle": "_TheMentalist",
+        "pump_profile_url": "https://pump.fun/profile/8YFDJtQb5vKnkY35HcqQLT3oGWLYdLV8iN352AWrasVY",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "_TheMentalist259 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:7985"
+        }
+      ]
+    },
+    {
+      "id": "detail_011718",
+      "record": {
+        "profile_name": "_wike20",
+        "pump_handle": "_wike20",
+        "pump_profile_url": "https://pump.fun/profile/8aGDtNyq6sPPfUoCXA6RTW34onssUKYSf18xSQUuxdjn",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "_wike20101 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:7986"
+        }
+      ]
+    },
+    {
+      "id": "detail_011719",
+      "record": {
+        "profile_name": "_laseasy",
+        "pump_handle": "_laseasy",
+        "pump_profile_url": "https://pump.fun/profile/8xyS3rGV2q3dF3xCQ4tuFvrVWTezDdSBgvqYKX56qbx7",
+        "x_handle": "_laseasy",
+        "x_url": "https://x.com/_laseasy",
+        "followers": "_laseasy403 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:7987"
+        }
+      ]
+    },
+    {
+      "id": "detail_011720",
+      "record": {
+        "profile_name": "__luxury__",
+        "pump_handle": "__luxury__",
+        "pump_profile_url": "https://pump.fun/profile/96dW7EDuEK5BhDmqxFJEJh68YxDHD21cjaXpzP8RCbZC",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "__luxury__377 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:7988"
+        }
+      ]
+    },
+    {
+      "id": "detail_011721",
+      "record": {
+        "profile_name": "_opensecret",
+        "pump_handle": "_opensecret",
+        "pump_profile_url": "https://pump.fun/profile/BM4z8XWwCJNM7nkeLE7hjVe3sYhkaLqavLbaZxaiQ8Rm",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "_opensecret5,354 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:7993"
+        }
+      ]
+    },
+    {
+      "id": "detail_011722",
+      "record": {
+        "profile_name": "_Zaza1337",
+        "pump_handle": "_Zaza1337",
+        "pump_profile_url": "https://pump.fun/profile/CHubsXab3kTQCYV8ZULMgnCNbxdrUgi1BvfAWnFHexHA",
+        "x_handle": "_zaza1337",
+        "x_url": "https://x.com/_zaza1337",
+        "followers": "_Zaza13373,850 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:7995"
+        }
+      ]
+    },
+    {
+      "id": "detail_011723",
+      "record": {
+        "profile_name": "_notyeti",
+        "pump_handle": "_notyeti",
+        "pump_profile_url": "https://pump.fun/profile/CJhf7uawjdHmxb3nrpLBcUcDzgiy1TWWiBbXtEjyjtRQ",
+        "x_handle": "_notyeti",
+        "x_url": "https://x.com/_notyeti",
+        "followers": "_notyeti454 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:7996"
+        }
+      ]
+    },
+    {
+      "id": "detail_011724",
+      "record": {
+        "profile_name": "_PORKU",
+        "pump_handle": "_PORKU",
+        "pump_profile_url": "https://pump.fun/profile/Cb5mK8yePWrPTX2aLqvfyZ1ccbrBPX5jKJ7AjxYguxwt",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "_PORKU793 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:7997"
+        }
+      ]
+    },
+    {
+      "id": "detail_011725",
+      "record": {
+        "profile_name": "_CZBULL",
+        "pump_handle": "_CZBULL",
+        "pump_profile_url": "https://pump.fun/profile/D5xMmjD1EnuoDiBxL6K738bejuLfaVPt59dVftHVFZ6L",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "_CZBULL366 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:7999"
+        }
+      ]
+    },
+    {
+      "id": "detail_011726",
+      "record": {
+        "profile_name": "_xiaoming",
+        "pump_handle": "_xiaoming",
+        "pump_profile_url": "https://pump.fun/profile/EK74N8v1F22NZaE8YWbR4V6xAVQMvTCza3Twq1prJ5FB",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "_xiaoming217 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:8003"
+        }
+      ]
+    },
+    {
+      "id": "detail_011727",
+      "record": {
+        "profile_name": "_Maximo",
+        "pump_handle": "_Maximo",
+        "pump_profile_url": "https://pump.fun/profile/FMxHtEgc4rnKsYWVki3Rai5d274FAL8uvw77oBaRdmtF",
+        "x_handle": "Maximo_Chad",
+        "x_url": "https://x.com/Maximo_Chad",
+        "followers": "_Maximo479 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:8007"
+        }
+      ]
+    },
+    {
+      "id": "detail_011728",
+      "record": {
+        "profile_name": "_____idk",
+        "pump_handle": "_____idk",
+        "pump_profile_url": "https://pump.fun/profile/Hq9cs25nHENmTXh9aniFwjbrftGpUb1qUZVsHzpWdkPU",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "_____idk110 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:8009"
+        }
+      ]
+    }
+  ]
+}

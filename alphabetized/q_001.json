@@ -1,0 +1,2156 @@
+{
+  "schema_version": 1,
+  "bucket": "q",
+  "part": 1,
+  "count": 41,
+  "handles": [
+    {
+      "id": "pump:qavec",
+      "platform": "pump",
+      "handle": "qavec",
+      "observed_handles": [
+        "qavec"
+      ],
+      "detail_ids": [
+        "detail_000766",
+        "detail_010537"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv",
+        "vip_list.csv"
+      ],
+      "occurrences": 4,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [
+        "x:qavecc"
+      ],
+      "profile_url": null
+    },
+    {
+      "id": "x:qavecc",
+      "platform": "x",
+      "handle": "qavecc",
+      "observed_handles": [
+        "Qavecc"
+      ],
+      "detail_ids": [
+        "detail_000766",
+        "detail_010537"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv",
+        "vip_list.csv"
+      ],
+      "occurrences": 4,
+      "evidence_fields": [
+        "x_handle",
+        "x_url"
+      ],
+      "related_handles": [
+        "pump:qavec"
+      ],
+      "profile_url": "https://x.com/qavecc"
+    },
+    {
+      "id": "pump:qenisqabal",
+      "platform": "pump",
+      "handle": "qenisqabal",
+      "observed_handles": [
+        "QenisQabal"
+      ],
+      "detail_ids": [
+        "detail_007359"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv"
+      ],
+      "occurrences": 3,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [],
+      "profile_url": null
+    },
+    {
+      "id": "pump:qpx",
+      "platform": "pump",
+      "handle": "qpx",
+      "observed_handles": [
+        "qpx"
+      ],
+      "detail_ids": [
+        "detail_003023"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv"
+      ],
+      "occurrences": 3,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [],
+      "profile_url": null
+    },
+    {
+      "id": "x:qqjieming",
+      "platform": "x",
+      "handle": "qqjieming",
+      "observed_handles": [
+        "qqjieming"
+      ],
+      "detail_ids": [
+        "detail_002806"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv",
+        "vip_list.csv"
+      ],
+      "occurrences": 4,
+      "evidence_fields": [
+        "x_handle",
+        "x_url"
+      ],
+      "related_handles": [
+        "pump:moonmantanuttyd"
+      ],
+      "profile_url": "https://x.com/qqjieming"
+    },
+    {
+      "id": "pump:qqpqpp",
+      "platform": "pump",
+      "handle": "qqpqpp",
+      "observed_handles": [
+        "qqpqpp"
+      ],
+      "detail_ids": [
+        "detail_003647"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv",
+        "vip_list.csv"
+      ],
+      "occurrences": 4,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [
+        "x:malabdulla50901"
+      ],
+      "profile_url": null
+    },
+    {
+      "id": "x:qrimecapital",
+      "platform": "x",
+      "handle": "qrimecapital",
+      "observed_handles": [
+        "qrimeCapital"
+      ],
+      "detail_ids": [
+        "detail_000012"
+      ],
+      "source_files": [
+        "panda-browsing-2026-10-14T19-27-01-037Z.json"
+      ],
+      "occurrences": 1,
+      "evidence_fields": [
+        "author",
+        "id",
+        "key",
+        "links[0]",
+        "links[1]",
+        "links[2]",
+        "links[3]",
+        "links[4]",
+        "postUrl"
+      ],
+      "related_handles": [],
+      "profile_url": "https://x.com/qrimecapital"
+    },
+    {
+      "id": "pump:qtdegen",
+      "platform": "pump",
+      "handle": "qtdegen",
+      "observed_handles": [
+        "qtdegen"
+      ],
+      "detail_ids": [
+        "detail_000752",
+        "detail_010532"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv",
+        "vip_list.csv"
+      ],
+      "occurrences": 4,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [
+        "x:qtdegen"
+      ],
+      "profile_url": null
+    },
+    {
+      "id": "x:qtdegen",
+      "platform": "x",
+      "handle": "qtdegen",
+      "observed_handles": [
+        "qtdegen"
+      ],
+      "detail_ids": [
+        "detail_000752",
+        "detail_010532"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv",
+        "vip_list.csv"
+      ],
+      "occurrences": 4,
+      "evidence_fields": [
+        "x_handle",
+        "x_url"
+      ],
+      "related_handles": [
+        "pump:qtdegen"
+      ],
+      "profile_url": "https://x.com/qtdegen"
+    },
+    {
+      "id": "pump:qu4nt",
+      "platform": "pump",
+      "handle": "qu4nt",
+      "observed_handles": [
+        "Qu4nt"
+      ],
+      "detail_ids": [
+        "detail_000878",
+        "detail_010529"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv"
+      ],
+      "occurrences": 3,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [],
+      "profile_url": null
+    },
+    {
+      "id": "pump:quackduck10",
+      "platform": "pump",
+      "handle": "quackduck10",
+      "observed_handles": [
+        "QuackDuck10"
+      ],
+      "detail_ids": [
+        "detail_006515"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv"
+      ],
+      "occurrences": 3,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [],
+      "profile_url": null
+    },
+    {
+      "id": "pump:qualified7777",
+      "platform": "pump",
+      "handle": "qualified7777",
+      "observed_handles": [
+        "Qualified7777"
+      ],
+      "detail_ids": [
+        "detail_006893"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv"
+      ],
+      "occurrences": 3,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [],
+      "profile_url": null
+    },
+    {
+      "id": "pump:qualityqoins",
+      "platform": "pump",
+      "handle": "qualityqoins",
+      "observed_handles": [
+        "QualityQoins"
+      ],
+      "detail_ids": [
+        "detail_010533"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (5).csv"
+      ],
+      "occurrences": 1,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [],
+      "profile_url": null
+    },
+    {
+      "id": "pump:qualitytrades",
+      "platform": "pump",
+      "handle": "qualitytrades",
+      "observed_handles": [
+        "QualityTrades"
+      ],
+      "detail_ids": [
+        "detail_005681",
+        "detail_010526"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv"
+      ],
+      "occurrences": 3,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [],
+      "profile_url": null
+    },
+    {
+      "id": "pump:quant40k",
+      "platform": "pump",
+      "handle": "quant40k",
+      "observed_handles": [
+        "quant40k"
+      ],
+      "detail_ids": [
+        "detail_003184"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv"
+      ],
+      "occurrences": 3,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [],
+      "profile_url": null
+    },
+    {
+      "id": "pump:quant_riku",
+      "platform": "pump",
+      "handle": "quant_riku",
+      "observed_handles": [
+        "Quant_Riku"
+      ],
+      "detail_ids": [
+        "detail_002658",
+        "detail_010531"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv"
+      ],
+      "occurrences": 3,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [],
+      "profile_url": null
+    },
+    {
+      "id": "pump:quanterty",
+      "platform": "pump",
+      "handle": "quanterty",
+      "observed_handles": [
+        "Quanterty"
+      ],
+      "detail_ids": [
+        "detail_006035",
+        "detail_010535"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv"
+      ],
+      "occurrences": 3,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [],
+      "profile_url": null
+    },
+    {
+      "id": "pump:quantjb",
+      "platform": "pump",
+      "handle": "quantjb",
+      "observed_handles": [
+        "quantjb"
+      ],
+      "detail_ids": [
+        "detail_000434",
+        "detail_010528"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv",
+        "vip_list.csv"
+      ],
+      "occurrences": 4,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [
+        "x:quantjb"
+      ],
+      "profile_url": null
+    },
+    {
+      "id": "x:quantjb",
+      "platform": "x",
+      "handle": "quantjb",
+      "observed_handles": [
+        "quantJB"
+      ],
+      "detail_ids": [
+        "detail_000005",
+        "detail_000434",
+        "detail_010528"
+      ],
+      "source_files": [
+        "panda-browsing-2026-10-14T19-27-01-037Z.json",
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv",
+        "vip_list.csv"
+      ],
+      "occurrences": 5,
+      "evidence_fields": [
+        "author",
+        "id",
+        "key",
+        "links[0]",
+        "links[1]",
+        "links[2]",
+        "links[3]",
+        "links[4]",
+        "postUrl",
+        "x_handle",
+        "x_url"
+      ],
+      "related_handles": [
+        "pump:quantjb"
+      ],
+      "profile_url": "https://x.com/quantjb"
+    },
+    {
+      "id": "pump:quanttitties67",
+      "platform": "pump",
+      "handle": "quanttitties67",
+      "observed_handles": [
+        "QuantTitties67"
+      ],
+      "detail_ids": [
+        "detail_005842"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv"
+      ],
+      "occurrences": 3,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [],
+      "profile_url": null
+    },
+    {
+      "id": "pump:quanttwins",
+      "platform": "pump",
+      "handle": "quanttwins",
+      "observed_handles": [
+        "QUANTTWINS"
+      ],
+      "detail_ids": [
+        "detail_000880",
+        "detail_010520"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv",
+        "vip_list.csv"
+      ],
+      "occurrences": 4,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [
+        "x:launchxp1"
+      ],
+      "profile_url": null
+    },
+    {
+      "id": "pump:quarkovalfir",
+      "platform": "pump",
+      "handle": "quarkovalfir",
+      "observed_handles": [
+        "QuarkOvalFir"
+      ],
+      "detail_ids": [
+        "detail_004753"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv"
+      ],
+      "occurrences": 3,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [],
+      "profile_url": null
+    },
+    {
+      "id": "pump:quartzhoneycup",
+      "platform": "pump",
+      "handle": "quartzhoneycup",
+      "observed_handles": [
+        "QuartzHoneyCup"
+      ],
+      "detail_ids": [
+        "detail_006810"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv"
+      ],
+      "occurrences": 3,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [],
+      "profile_url": null
+    },
+    {
+      "id": "pump:quartztrenchash",
+      "platform": "pump",
+      "handle": "quartztrenchash",
+      "observed_handles": [
+        "QuartzTrenchAsh"
+      ],
+      "detail_ids": [
+        "detail_007454"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv"
+      ],
+      "occurrences": 3,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [],
+      "profile_url": null
+    },
+    {
+      "id": "pump:quaza",
+      "platform": "pump",
+      "handle": "quaza",
+      "observed_handles": [
+        "Quaza"
+      ],
+      "detail_ids": [
+        "detail_001113",
+        "detail_010534"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv",
+        "vip_list.csv"
+      ],
+      "occurrences": 4,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [
+        "x:quaza0"
+      ],
+      "profile_url": null
+    },
+    {
+      "id": "x:quaza0",
+      "platform": "x",
+      "handle": "quaza0",
+      "observed_handles": [
+        "Quaza0"
+      ],
+      "detail_ids": [
+        "detail_001113",
+        "detail_010534"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv",
+        "vip_list.csv"
+      ],
+      "occurrences": 4,
+      "evidence_fields": [
+        "x_handle",
+        "x_url"
+      ],
+      "related_handles": [
+        "pump:quaza"
+      ],
+      "profile_url": "https://x.com/quaza0"
+    },
+    {
+      "id": "pump:queenlion",
+      "platform": "pump",
+      "handle": "queenlion",
+      "observed_handles": [
+        "queenlion"
+      ],
+      "detail_ids": [
+        "detail_005463"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv"
+      ],
+      "occurrences": 3,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [],
+      "profile_url": null
+    },
+    {
+      "id": "pump:queenx",
+      "platform": "pump",
+      "handle": "queenx",
+      "observed_handles": [
+        "queenx"
+      ],
+      "detail_ids": [
+        "detail_000796",
+        "detail_010530"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv",
+        "vip_list.csv"
+      ],
+      "occurrences": 4,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [
+        "x:kostantsav"
+      ],
+      "profile_url": null
+    },
+    {
+      "id": "pump:queerotter34021",
+      "platform": "pump",
+      "handle": "queerotter34021",
+      "observed_handles": [
+        "queerotter34021"
+      ],
+      "detail_ids": [
+        "detail_004918"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv"
+      ],
+      "occurrences": 3,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [],
+      "profile_url": null
+    },
+    {
+      "id": "pump:queezyy",
+      "platform": "pump",
+      "handle": "queezyy",
+      "observed_handles": [
+        "Queezyy"
+      ],
+      "detail_ids": [
+        "detail_007209"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv"
+      ],
+      "occurrences": 3,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [],
+      "profile_url": null
+    },
+    {
+      "id": "pump:quick_mak",
+      "platform": "pump",
+      "handle": "quick_mak",
+      "observed_handles": [
+        "Quick_Mak"
+      ],
+      "detail_ids": [
+        "detail_001741",
+        "detail_010525"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv"
+      ],
+      "occurrences": 3,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [],
+      "profile_url": null
+    },
+    {
+      "id": "pump:quickbets",
+      "platform": "pump",
+      "handle": "quickbets",
+      "observed_handles": [
+        "quickbets"
+      ],
+      "detail_ids": [
+        "detail_003815",
+        "detail_010527"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv"
+      ],
+      "occurrences": 3,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [],
+      "profile_url": null
+    },
+    {
+      "id": "pump:quickzdevs",
+      "platform": "pump",
+      "handle": "quickzdevs",
+      "observed_handles": [
+        "quickzdevs"
+      ],
+      "detail_ids": [
+        "detail_003520"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv"
+      ],
+      "occurrences": 3,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [],
+      "profile_url": null
+    },
+    {
+      "id": "pump:quiettuna02689",
+      "platform": "pump",
+      "handle": "quiettuna02689",
+      "observed_handles": [
+        "quiettuna02689"
+      ],
+      "detail_ids": [
+        "detail_000921",
+        "detail_010521"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv",
+        "vip_list.csv"
+      ],
+      "occurrences": 4,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [
+        "x:krigerthe"
+      ],
+      "profile_url": null
+    },
+    {
+      "id": "pump:quigonj",
+      "platform": "pump",
+      "handle": "quigonj",
+      "observed_handles": [
+        "QuigonJ"
+      ],
+      "detail_ids": [
+        "detail_005510"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv"
+      ],
+      "occurrences": 3,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [],
+      "profile_url": null
+    },
+    {
+      "id": "pump:quiltedtuna0071",
+      "platform": "pump",
+      "handle": "quiltedtuna0071",
+      "observed_handles": [
+        "quiltedtuna0071"
+      ],
+      "detail_ids": [
+        "detail_004972"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv"
+      ],
+      "occurrences": 3,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [],
+      "profile_url": null
+    },
+    {
+      "id": "pump:qulman",
+      "platform": "pump",
+      "handle": "qulman",
+      "observed_handles": [
+        "Qulman"
+      ],
+      "detail_ids": [
+        "detail_010522"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (5).csv",
+        "vip_list.csv"
+      ],
+      "occurrences": 2,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [
+        "x:turbog26"
+      ],
+      "profile_url": null
+    },
+    {
+      "id": "pump:quotexcoin",
+      "platform": "pump",
+      "handle": "quotexcoin",
+      "observed_handles": [
+        "quotexcoin"
+      ],
+      "detail_ids": [
+        "detail_002449",
+        "detail_010524"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv"
+      ],
+      "occurrences": 3,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [],
+      "profile_url": null
+    },
+    {
+      "id": "pump:qyvrfuture",
+      "platform": "pump",
+      "handle": "qyvrfuture",
+      "observed_handles": [
+        "QYVRFUTURE"
+      ],
+      "detail_ids": [
+        "detail_010536"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (5).csv",
+        "vip_list.csv"
+      ],
+      "occurrences": 2,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [
+        "x:moojnon2"
+      ],
+      "profile_url": null
+    },
+    {
+      "id": "pump:qzoomer",
+      "platform": "pump",
+      "handle": "qzoomer",
+      "observed_handles": [
+        "Qzoomer"
+      ],
+      "detail_ids": [
+        "detail_002788",
+        "detail_010523"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv",
+        "vip_list.csv"
+      ],
+      "occurrences": 4,
+      "evidence_fields": [
+        "pump_handle"
+      ],
+      "related_handles": [
+        "x:qzoomer1"
+      ],
+      "profile_url": null
+    },
+    {
+      "id": "x:qzoomer1",
+      "platform": "x",
+      "handle": "qzoomer1",
+      "observed_handles": [
+        "Qzoomer1"
+      ],
+      "detail_ids": [
+        "detail_002788",
+        "detail_010523"
+      ],
+      "source_files": [
+        "pump-following-profiles-2026-10-02 (4) 2.csv",
+        "pump-following-profiles-2026-10-02 (4).csv",
+        "pump-following-profiles-2026-10-02 (5).csv",
+        "vip_list.csv"
+      ],
+      "occurrences": 4,
+      "evidence_fields": [
+        "x_handle",
+        "x_url"
+      ],
+      "related_handles": [
+        "pump:qzoomer"
+      ],
+      "profile_url": "https://x.com/qzoomer1"
+    }
+  ],
+  "details": [
+    {
+      "id": "detail_000005",
+      "record": {
+        "key": "https://x.com/quantJB/status/2110444232821592377",
+        "platform": "x",
+        "postUrl": "https://x.com/quantJB/status/2110444232821592377",
+        "pageUrl": "https://x.com/home",
+        "author": "JB\n@quantJB\n·\n39m",
+        "text": "Absolutely getting drilled this week, looks like all anybody wants is a 2x \n\nsmh",
+        "links": [
+          "https://x.com/quantJB",
+          "https://x.com/quantJB",
+          "https://x.com/quantJB",
+          "https://x.com/quantJB/status/2110444232821592377",
+          "https://x.com/quantJB/status/2110444232821592377/analytics"
+        ],
+        "media": [],
+        "seenAt": "2026-10-14T19:45:50.682Z",
+        "id": "b175d44d-8f8a-45d8-916c-c8963dcc6179:https://x.com/quantJB/status/2110444232821592377",
+        "sessionId": "b175d44d-8f8a-45d8-916c-c8963dcc6179",
+        "firstSeen": "2026-10-14T19:45:50.682Z",
+        "lastSeen": "2026-10-14T19:45:50.682Z",
+        "views": 1
+      },
+      "sources": [
+        {
+          "file": "panda-browsing-2026-10-14T19-27-01-037Z.json",
+          "location": "$.entries[4]"
+        }
+      ]
+    },
+    {
+      "id": "detail_000012",
+      "record": {
+        "key": "https://x.com/qrimeCapital/status/2110424405402657148",
+        "platform": "x",
+        "postUrl": "https://x.com/qrimeCapital/status/2110424405402657148",
+        "pageUrl": "https://x.com/home",
+        "author": "qrime\n@qrimeCapital\n·\n2h",
+        "text": "It was going to be a rug but since you sold they’ll send it to 100b market cap without you\n\nRegards",
+        "links": [
+          "https://x.com/qrimeCapital",
+          "https://x.com/qrimeCapital",
+          "https://x.com/qrimeCapital",
+          "https://x.com/qrimeCapital/status/2110424405402657148",
+          "https://x.com/qrimeCapital/status/2110424405402657148/analytics"
+        ],
+        "media": [],
+        "seenAt": "2026-10-14T19:49:36.082Z",
+        "id": "b175d44d-8f8a-45d8-916c-c8963dcc6179:https://x.com/qrimeCapital/status/2110424405402657148",
+        "sessionId": "b175d44d-8f8a-45d8-916c-c8963dcc6179",
+        "firstSeen": "2026-10-14T19:49:36.082Z",
+        "lastSeen": "2026-10-14T19:49:36.082Z",
+        "views": 1
+      },
+      "sources": [
+        {
+          "file": "panda-browsing-2026-10-14T19-27-01-037Z.json",
+          "location": "$.entries[11]"
+        }
+      ]
+    },
+    {
+      "id": "detail_000434",
+      "record": {
+        "profile_name": "quantjb",
+        "pump_handle": "quantjb",
+        "pump_profile_url": "https://pump.fun/profile/BY58Z7N5Adarkx5ed78AzKvR7Kxrq795aa1boZsYyVBT",
+        "x_handle": "quantJB",
+        "x_url": "https://x.com/quantJB",
+        "followers": "quantjb48.6K followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:271"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:271"
+        },
+        {
+          "file": "vip_list.csv",
+          "location": "line:223"
+        }
+      ]
+    },
+    {
+      "id": "detail_000752",
+      "record": {
+        "profile_name": "qtdegen",
+        "pump_handle": "qtdegen",
+        "pump_profile_url": "https://pump.fun/profile/EYqPB4AUmRBJL3WyssF36z6L16Q982c3vnwzt7q1FLAQ",
+        "x_handle": "qtdegen",
+        "x_url": "https://x.com/qtdegen",
+        "followers": "qtdegen1,774 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:589"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:589"
+        },
+        {
+          "file": "vip_list.csv",
+          "location": "line:431"
+        }
+      ]
+    },
+    {
+      "id": "detail_000766",
+      "record": {
+        "profile_name": "qavec",
+        "pump_handle": "qavec",
+        "pump_profile_url": "https://pump.fun/profile/gangJEP5geDHjPVRhDS5dTF5e6GtRvtNogMEEVs91RV",
+        "x_handle": "Qavecc",
+        "x_url": "https://x.com/Qavecc",
+        "followers": "qavec1,707 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:603"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:603"
+        },
+        {
+          "file": "vip_list.csv",
+          "location": "line:441"
+        }
+      ]
+    },
+    {
+      "id": "detail_000796",
+      "record": {
+        "profile_name": "queenx",
+        "pump_handle": "queenx",
+        "pump_profile_url": "https://pump.fun/profile/DfhWLEnvc7GiwdQpdWPq2UNYiKofrbVL6iELyVxdCzNh",
+        "x_handle": "KostantsaV",
+        "x_url": "https://x.com/KostantsaV",
+        "followers": "queenx1,542 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:633"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:633"
+        },
+        {
+          "file": "vip_list.csv",
+          "location": "line:457"
+        }
+      ]
+    },
+    {
+      "id": "detail_000878",
+      "record": {
+        "profile_name": "Qu4nt",
+        "pump_handle": "Qu4nt",
+        "pump_profile_url": "https://pump.fun/profile/DbG7RyLFBWXpEWgfKUA8qByvBZEZ3chqGh9TLkpjpF3b",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "Qu4nt1,194 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:715"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:715"
+        }
+      ]
+    },
+    {
+      "id": "detail_000880",
+      "record": {
+        "profile_name": "QUANTTWINS",
+        "pump_handle": "QUANTTWINS",
+        "pump_profile_url": "https://pump.fun/profile/31xn6jPHHyiGjPuDwDnZNEkt1qris4opqjNFwEP1UpSm",
+        "x_handle": "LaunchXp1",
+        "x_url": "https://x.com/LaunchXp1",
+        "followers": "QUANTTWINS1,185 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:717"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:717"
+        },
+        {
+          "file": "vip_list.csv",
+          "location": "line:498"
+        }
+      ]
+    },
+    {
+      "id": "detail_000921",
+      "record": {
+        "profile_name": "quiettuna02689",
+        "pump_handle": "quiettuna02689",
+        "pump_profile_url": "https://pump.fun/profile/34JiFUR96ULnvtp5h5gWgk6JrSvYFFB5LTnLWvPG4bTR",
+        "x_handle": "KrigerThe",
+        "x_url": "https://x.com/KrigerThe",
+        "followers": "quiettuna026891,048 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:758"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:758"
+        },
+        {
+          "file": "vip_list.csv",
+          "location": "line:519"
+        }
+      ]
+    },
+    {
+      "id": "detail_001113",
+      "record": {
+        "profile_name": "Quaza",
+        "pump_handle": "Quaza",
+        "pump_profile_url": "https://pump.fun/profile/FrBXvy7aw5AX8tjtS11HtHvRy2ysFVHbeU7ArKdiDRRS",
+        "x_handle": "Quaza0",
+        "x_url": "https://x.com/Quaza0",
+        "followers": "Quaza699 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:950"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:950"
+        },
+        {
+          "file": "vip_list.csv",
+          "location": "line:601"
+        }
+      ]
+    },
+    {
+      "id": "detail_001741",
+      "record": {
+        "profile_name": "Quick_Mak",
+        "pump_handle": "Quick_Mak",
+        "pump_profile_url": "https://pump.fun/profile/93cH9VNDCKcTm2u1pJ9b4JsrU1bNLys2NUriymzmhUrN",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "Quick_Mak375 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:1578"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:1578"
+        }
+      ]
+    },
+    {
+      "id": "detail_002449",
+      "record": {
+        "profile_name": "quotexcoin",
+        "pump_handle": "quotexcoin",
+        "pump_profile_url": "https://pump.fun/profile/6J7v1BkQA4E2N7mJUhKgQ8C8cb7wnpvn6KRuMET3DUCh",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "quotexcoin476 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:2287"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:2287"
+        }
+      ]
+    },
+    {
+      "id": "detail_002658",
+      "record": {
+        "profile_name": "Quant_Riku",
+        "pump_handle": "Quant_Riku",
+        "pump_profile_url": "https://pump.fun/profile/DqMNcQmqxtHRGR4X1gHovtxbFYBuRHXbKHqRNCFriKu",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "Quant_Riku2,273 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:2497"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:2497"
+        }
+      ]
+    },
+    {
+      "id": "detail_002788",
+      "record": {
+        "profile_name": "Qzoomer",
+        "pump_handle": "Qzoomer",
+        "pump_profile_url": "https://pump.fun/profile/5if9BdpVtp3RFGGVKyvoN7J5oTqouNNvJMjK5nP3y2uh",
+        "x_handle": "Qzoomer1",
+        "x_url": "https://x.com/Qzoomer1",
+        "followers": "Qzoomer476 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:2627"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:2627"
+        },
+        {
+          "file": "vip_list.csv",
+          "location": "line:1079"
+        }
+      ]
+    },
+    {
+      "id": "detail_002806",
+      "record": {
+        "profile_name": "moonmantanuttyd",
+        "pump_handle": "moonmantanuttyd",
+        "pump_profile_url": "https://pump.fun/profile/3a8DRpcrwf2TCLv88UKEAMVdGmbCSyjW1S8NJBYegLVj",
+        "x_handle": "qqjieming",
+        "x_url": "https://x.com/qqjieming",
+        "followers": "moonmantanuttyd185 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:2645"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:2645"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:4285"
+        },
+        {
+          "file": "vip_list.csv",
+          "location": "line:1086"
+        }
+      ]
+    },
+    {
+      "id": "detail_003023",
+      "record": {
+        "profile_name": "qpx",
+        "pump_handle": "qpx",
+        "pump_profile_url": "https://pump.fun/profile/5NuveA5mStGwrx5z3ZKS7EBL6t1oAprc96oHpXKAUJ69",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "qpx13 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:2862"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:2862"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:5695"
+        }
+      ]
+    },
+    {
+      "id": "detail_003184",
+      "record": {
+        "profile_name": "quant40k",
+        "pump_handle": "quant40k",
+        "pump_profile_url": "https://pump.fun/profile/quantGE2HCG98NEkbeEj77mduF5pYNAf1XyJdpWz2Zd",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "quant40k7 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:3023"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:3023"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:5719"
+        }
+      ]
+    },
+    {
+      "id": "detail_003520",
+      "record": {
+        "profile_name": "quickzdevs",
+        "pump_handle": "quickzdevs",
+        "pump_profile_url": "https://pump.fun/profile/4NB7zUVVRS2ik43Lw5UBFGocBBjMtapbxGm71QaxKxFe",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "quickzdevs8 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:3359"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:3359"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:5691"
+        }
+      ]
+    },
+    {
+      "id": "detail_003647",
+      "record": {
+        "profile_name": "qqpqpp",
+        "pump_handle": "qqpqpp",
+        "pump_profile_url": "https://pump.fun/profile/DzH8a54n1vp6Js8r3pkBQrGXrgv2KmMrxrpxYgSyjrVJ",
+        "x_handle": "MAlabdulla50901",
+        "x_url": "https://x.com/MAlabdulla50901",
+        "followers": "qqpqpp67 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:3486"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:3486"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:5709"
+        },
+        {
+          "file": "vip_list.csv",
+          "location": "line:1342"
+        }
+      ]
+    },
+    {
+      "id": "detail_003815",
+      "record": {
+        "profile_name": "quickbets",
+        "pump_handle": "quickbets",
+        "pump_profile_url": "https://pump.fun/profile/A2DHPh33omrwE2T9m5dnhhrAL78pE4sm5UZXNL9xWWcW",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "quickbets521 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:3654"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:3654"
+        }
+      ]
+    },
+    {
+      "id": "detail_004753",
+      "record": {
+        "profile_name": "QuarkOvalFir",
+        "pump_handle": "QuarkOvalFir",
+        "pump_profile_url": "https://pump.fun/profile/F5NbKnwbcvH2XpqFc4dTv757UJNUmScqvwWHhK58eztD",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "QuarkOvalFir18 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:4592"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:4592"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:5713"
+        }
+      ]
+    },
+    {
+      "id": "detail_004918",
+      "record": {
+        "profile_name": "queerotter34021",
+        "pump_handle": "queerotter34021",
+        "pump_profile_url": "https://pump.fun/profile/5DxSJt88LYpwceUrjyNbxtqRTNHDtpYq7H5gTbFEcUuF",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "queerotter3402132 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:4757"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:4757"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:5693"
+        }
+      ]
+    },
+    {
+      "id": "detail_004972",
+      "record": {
+        "profile_name": "quiltedtuna0071",
+        "pump_handle": "quiltedtuna0071",
+        "pump_profile_url": "https://pump.fun/profile/2PKjQATZBjR1udFbpiiJ6VCVYkWT9e5TtEhj5VJkNqzp",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "quiltedtuna0071184 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:4811"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:4811"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:5686"
+        }
+      ]
+    },
+    {
+      "id": "detail_005463",
+      "record": {
+        "profile_name": "queenlion",
+        "pump_handle": "queenlion",
+        "pump_profile_url": "https://pump.fun/profile/GQCdXPD8e75pwWx9kjLjaMBhnXeMeqNqAfkRWy5pJ4qE",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "queenlion65 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:5302"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:5302"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:5715"
+        }
+      ]
+    },
+    {
+      "id": "detail_005510",
+      "record": {
+        "profile_name": "QuigonJ",
+        "pump_handle": "QuigonJ",
+        "pump_profile_url": "https://pump.fun/profile/4NNuJhoyExStrkdhSqSdpwVpJmHdWqTgUZF6MnTpqyMs",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "QuigonJ42 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:5349"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:5349"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:5692"
+        }
+      ]
+    },
+    {
+      "id": "detail_005681",
+      "record": {
+        "profile_name": "QualityTrades",
+        "pump_handle": "QualityTrades",
+        "pump_profile_url": "https://pump.fun/profile/9YRomeoz2j8XaVaGnKKtyr1ckAvi9XDqxq75zf2PC2UJ",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "QualityTrades235 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:5520"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:5520"
+        }
+      ]
+    },
+    {
+      "id": "detail_005842",
+      "record": {
+        "profile_name": "QuantTitties67",
+        "pump_handle": "QuantTitties67",
+        "pump_profile_url": "https://pump.fun/profile/5wNDqE1GnniAscq2PipMbD1sJxkiiroysrxUm1VSSUnS",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "QuantTitties6749 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:5681"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:5681"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:5697"
+        }
+      ]
+    },
+    {
+      "id": "detail_006035",
+      "record": {
+        "profile_name": "Quanterty",
+        "pump_handle": "Quanterty",
+        "pump_profile_url": "https://pump.fun/profile/HMzTAoGXmTukVdsjzQ5FqBWFkRYHWqmck85ZRLABQ6tz",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "Quanterty7 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:5874"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:5874"
+        }
+      ]
+    },
+    {
+      "id": "detail_006515",
+      "record": {
+        "profile_name": "QuackDuck10",
+        "pump_handle": "QuackDuck10",
+        "pump_profile_url": "https://pump.fun/profile/6DTVpR4cCzyVMgdPskCYETiQNeEQKUC8ocNn2MqeFmA",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "QuackDuck1085 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:6354"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:6354"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:5698"
+        }
+      ]
+    },
+    {
+      "id": "detail_006810",
+      "record": {
+        "profile_name": "QuartzHoneyCup",
+        "pump_handle": "QuartzHoneyCup",
+        "pump_profile_url": "https://pump.fun/profile/6akE3pRpztzqYtxa5oxyjDcHAXHxjFtwTJQojQsBf49X",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "QuartzHoneyCup9 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:6649"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:6649"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:5700"
+        }
+      ]
+    },
+    {
+      "id": "detail_006893",
+      "record": {
+        "profile_name": "Qualified7777",
+        "pump_handle": "Qualified7777",
+        "pump_profile_url": "https://pump.fun/profile/2i5Dwe9n26jYi8mYay1JsMvvVFCXCaJkofpQ7EqzuHVv",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "Qualified7777161 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:6732"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:6732"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:5687"
+        }
+      ]
+    },
+    {
+      "id": "detail_007209",
+      "record": {
+        "profile_name": "Queezyy",
+        "pump_handle": "Queezyy",
+        "pump_profile_url": "https://pump.fun/profile/6toJwBGmJARnkpmXu7PGtqTDxbAs89YmJmoZHKtoaQLG",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "Queezyy52 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:7048"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:7048"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:5701"
+        }
+      ]
+    },
+    {
+      "id": "detail_007359",
+      "record": {
+        "profile_name": "QenisQabal",
+        "pump_handle": "QenisQabal",
+        "pump_profile_url": "https://pump.fun/profile/43b08b2d-0b59-40d8-b295-ee7055de3230",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "QenisQabal24 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:7198"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:7198"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:5690"
+        }
+      ]
+    },
+    {
+      "id": "detail_007454",
+      "record": {
+        "profile_name": "QuartzTrenchAsh",
+        "pump_handle": "QuartzTrenchAsh",
+        "pump_profile_url": "https://pump.fun/profile/EQFgSvmavjfcvovYvgfETTcYvYzpHntqxkvDUViBTtZr",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "QuartzTrenchAsh130 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+          "location": "line:7293"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (4).csv",
+          "location": "line:7293"
+        },
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:5710"
+        }
+      ]
+    },
+    {
+      "id": "detail_010520",
+      "record": {
+        "profile_name": "QUANTTWINS",
+        "pump_handle": "QUANTTWINS",
+        "pump_profile_url": "https://pump.fun/profile/31xn6jPHHyiGjPuDwDnZNEkt1qris4opqjNFwEP1UpSm",
+        "x_handle": "LaunchXp1",
+        "x_url": "https://x.com/LaunchXp1",
+        "followers": "QUANTTWINS1,181 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:5688"
+        }
+      ]
+    },
+    {
+      "id": "detail_010521",
+      "record": {
+        "profile_name": "quiettuna02689",
+        "pump_handle": "quiettuna02689",
+        "pump_profile_url": "https://pump.fun/profile/34JiFUR96ULnvtp5h5gWgk6JrSvYFFB5LTnLWvPG4bTR",
+        "x_handle": "KrigerThe",
+        "x_url": "https://x.com/KrigerThe",
+        "followers": "quiettuna026891,050 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:5689"
+        }
+      ]
+    },
+    {
+      "id": "detail_010522",
+      "record": {
+        "profile_name": "Qulman",
+        "pump_handle": "Qulman",
+        "pump_profile_url": "https://pump.fun/profile/5K5seAfkohtXCUAiBkQniLCyrbtzu7wuaKbpEMt5HgqY",
+        "x_handle": "TurboG26",
+        "x_url": "https://x.com/TurboG26",
+        "followers": "Qulman395 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:5694"
+        },
+        {
+          "file": "vip_list.csv",
+          "location": "line:2142"
+        }
+      ]
+    },
+    {
+      "id": "detail_010523",
+      "record": {
+        "profile_name": "Qzoomer",
+        "pump_handle": "Qzoomer",
+        "pump_profile_url": "https://pump.fun/profile/5if9BdpVtp3RFGGVKyvoN7J5oTqouNNvJMjK5nP3y2uh",
+        "x_handle": "Qzoomer1",
+        "x_url": "https://x.com/Qzoomer1",
+        "followers": "Qzoomer477 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:5696"
+        }
+      ]
+    },
+    {
+      "id": "detail_010524",
+      "record": {
+        "profile_name": "quotexcoin",
+        "pump_handle": "quotexcoin",
+        "pump_profile_url": "https://pump.fun/profile/6J7v1BkQA4E2N7mJUhKgQ8C8cb7wnpvn6KRuMET3DUCh",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "quotexcoin474 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:5699"
+        }
+      ]
+    },
+    {
+      "id": "detail_010525",
+      "record": {
+        "profile_name": "Quick_Mak",
+        "pump_handle": "Quick_Mak",
+        "pump_profile_url": "https://pump.fun/profile/93cH9VNDCKcTm2u1pJ9b4JsrU1bNLys2NUriymzmhUrN",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "Quick_Mak381 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:5702"
+        }
+      ]
+    },
+    {
+      "id": "detail_010526",
+      "record": {
+        "profile_name": "QualityTrades",
+        "pump_handle": "QualityTrades",
+        "pump_profile_url": "https://pump.fun/profile/9YRomeoz2j8XaVaGnKKtyr1ckAvi9XDqxq75zf2PC2UJ",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "QualityTrades231 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:5703"
+        }
+      ]
+    },
+    {
+      "id": "detail_010527",
+      "record": {
+        "profile_name": "quickbets",
+        "pump_handle": "quickbets",
+        "pump_profile_url": "https://pump.fun/profile/A2DHPh33omrwE2T9m5dnhhrAL78pE4sm5UZXNL9xWWcW",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "quickbets519 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:5704"
+        }
+      ]
+    },
+    {
+      "id": "detail_010528",
+      "record": {
+        "profile_name": "quantjb",
+        "pump_handle": "quantjb",
+        "pump_profile_url": "https://pump.fun/profile/BY58Z7N5Adarkx5ed78AzKvR7Kxrq795aa1boZsYyVBT",
+        "x_handle": "quantJB",
+        "x_url": "https://x.com/quantJB",
+        "followers": "quantjb48.7K followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:5705"
+        }
+      ]
+    },
+    {
+      "id": "detail_010529",
+      "record": {
+        "profile_name": "Qu4nt",
+        "pump_handle": "Qu4nt",
+        "pump_profile_url": "https://pump.fun/profile/DbG7RyLFBWXpEWgfKUA8qByvBZEZ3chqGh9TLkpjpF3b",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "Qu4nt1,205 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:5706"
+        }
+      ]
+    },
+    {
+      "id": "detail_010530",
+      "record": {
+        "profile_name": "queenx",
+        "pump_handle": "queenx",
+        "pump_profile_url": "https://pump.fun/profile/DfhWLEnvc7GiwdQpdWPq2UNYiKofrbVL6iELyVxdCzNh",
+        "x_handle": "KostantsaV",
+        "x_url": "https://x.com/KostantsaV",
+        "followers": "queenx1,547 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:5707"
+        }
+      ]
+    },
+    {
+      "id": "detail_010531",
+      "record": {
+        "profile_name": "Quant_Riku",
+        "pump_handle": "Quant_Riku",
+        "pump_profile_url": "https://pump.fun/profile/DqMNcQmqxtHRGR4X1gHovtxbFYBuRHXbKHqRNCFriKu",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "Quant_Riku2,302 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:5708"
+        }
+      ]
+    },
+    {
+      "id": "detail_010532",
+      "record": {
+        "profile_name": "qtdegen",
+        "pump_handle": "qtdegen",
+        "pump_profile_url": "https://pump.fun/profile/EYqPB4AUmRBJL3WyssF36z6L16Q982c3vnwzt7q1FLAQ",
+        "x_handle": "qtdegen",
+        "x_url": "https://x.com/qtdegen",
+        "followers": "qtdegen1,776 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:5711"
+        }
+      ]
+    },
+    {
+      "id": "detail_010533",
+      "record": {
+        "profile_name": "QualityQoins",
+        "pump_handle": "QualityQoins",
+        "pump_profile_url": "https://pump.fun/profile/EvdFtoaDHwJQNA8zd58spDXxdoQ36HRj9VmuMFf5BMpa",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "QualityQoins630 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:5712"
+        }
+      ]
+    },
+    {
+      "id": "detail_010534",
+      "record": {
+        "profile_name": "Quaza",
+        "pump_handle": "Quaza",
+        "pump_profile_url": "https://pump.fun/profile/FrBXvy7aw5AX8tjtS11HtHvRy2ysFVHbeU7ArKdiDRRS",
+        "x_handle": "Quaza0",
+        "x_url": "https://x.com/Quaza0",
+        "followers": "Quaza705 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:5714"
+        }
+      ]
+    },
+    {
+      "id": "detail_010535",
+      "record": {
+        "profile_name": "Quanterty",
+        "pump_handle": "Quanterty",
+        "pump_profile_url": "https://pump.fun/profile/HMzTAoGXmTukVdsjzQ5FqBWFkRYHWqmck85ZRLABQ6tz",
+        "x_handle": "",
+        "x_url": "",
+        "followers": "Quanterty8 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:5716"
+        }
+      ]
+    },
+    {
+      "id": "detail_010536",
+      "record": {
+        "profile_name": "QYVRFUTURE",
+        "pump_handle": "QYVRFUTURE",
+        "pump_profile_url": "https://pump.fun/profile/SH5Y65BSbLtPe5mwu7QDCwKZNQf6m5HLVnuSPNPQ3km",
+        "x_handle": "moojnon2",
+        "x_url": "https://x.com/moojnon2",
+        "followers": "QYVRFUTURE834 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:5717"
+        },
+        {
+          "file": "vip_list.csv",
+          "location": "line:2143"
+        }
+      ]
+    },
+    {
+      "id": "detail_010537",
+      "record": {
+        "profile_name": "qavec",
+        "pump_handle": "qavec",
+        "pump_profile_url": "https://pump.fun/profile/gangJEP5geDHjPVRhDS5dTF5e6GtRvtNogMEEVs91RV",
+        "x_handle": "Qavecc",
+        "x_url": "https://x.com/Qavecc",
+        "followers": "qavec1,706 followers"
+      },
+      "sources": [
+        {
+          "file": "pump-following-profiles-2026-10-02 (5).csv",
+          "location": "line:5718"
+        }
+      ]
+    }
+  ]
+}

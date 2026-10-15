@@ -1,0 +1,282 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-15T20:42:11.023208+00:00",
+  "deduplication": "Platform plus case-insensitive handle; original spellings and source records retained.",
+  "summary": {
+    "unique_handles": 10275,
+    "handles_by_platform": {
+      "pump": 8020,
+      "x": 2255
+    },
+    "unique_detail_records": 11728,
+    "files_scanned": 9,
+    "files_with_errors": 0,
+    "handle_record_occurrences": 33422
+  },
+  "master_file": "master_handles.json",
+  "files": [
+    {
+      "file": "alphabetized/0-9_001.json",
+      "count": 305,
+      "first_handle": "000xy_0",
+      "last_handle": "9x9hwuqq"
+    },
+    {
+      "file": "alphabetized/_other_001.json",
+      "count": 61,
+      "first_handle": "_0xaryan",
+      "last_handle": "_zaza1337"
+    },
+    {
+      "file": "alphabetized/a_001.json",
+      "count": 500,
+      "first_handle": "a1lon9",
+      "last_handle": "awsomevet999"
+    },
+    {
+      "file": "alphabetized/a_002.json",
+      "count": 26,
+      "first_handle": "awwal",
+      "last_handle": "azzycazzy"
+    },
+    {
+      "file": "alphabetized/b_001.json",
+      "count": 500,
+      "first_handle": "b1_czy",
+      "last_handle": "boxbox3122"
+    },
+    {
+      "file": "alphabetized/b_002.json",
+      "count": 185,
+      "first_handle": "boymilker67",
+      "last_handle": "bysukie"
+    },
+    {
+      "file": "alphabetized/c_001.json",
+      "count": 500,
+      "first_handle": "c00pernft",
+      "last_handle": "crazyminds73"
+    },
+    {
+      "file": "alphabetized/c_002.json",
+      "count": 228,
+      "first_handle": "crazyspaghetti",
+      "last_handle": "cyrusabrahimx"
+    },
+    {
+      "file": "alphabetized/d_001.json",
+      "count": 500,
+      "first_handle": "d1yinxiang",
+      "last_handle": "dsdegen"
+    },
+    {
+      "file": "alphabetized/d_002.json",
+      "count": 76,
+      "first_handle": "dsjfolvhailv",
+      "last_handle": "dzonchain"
+    },
+    {
+      "file": "alphabetized/e_001.json",
+      "count": 211,
+      "first_handle": "e10f1",
+      "last_handle": "ezbruh"
+    },
+    {
+      "file": "alphabetized/f_001.json",
+      "count": 389,
+      "first_handle": "f",
+      "last_handle": "fz7trades"
+    },
+    {
+      "file": "alphabetized/g_001.json",
+      "count": 363,
+      "first_handle": "g0atz1m4s",
+      "last_handle": "gzem"
+    },
+    {
+      "file": "alphabetized/h_001.json",
+      "count": 330,
+      "first_handle": "h20drtodd",
+      "last_handle": "hzbuhz8y"
+    },
+    {
+      "file": "alphabetized/i_001.json",
+      "count": 304,
+      "first_handle": "i0hnt3r",
+      "last_handle": "izzyxbt"
+    },
+    {
+      "file": "alphabetized/j_001.json",
+      "count": 323,
+      "first_handle": "j33k_",
+      "last_handle": "jytd"
+    },
+    {
+      "file": "alphabetized/k_001.json",
+      "count": 261,
+      "first_handle": "k0re__0x",
+      "last_handle": "kzresearch5"
+    },
+    {
+      "file": "alphabetized/l_001.json",
+      "count": 399,
+      "first_handle": "l3xtasy",
+      "last_handle": "lynk10x"
+    },
+    {
+      "file": "alphabetized/m_001.json",
+      "count": 500,
+      "first_handle": "m00nb0i",
+      "last_handle": "mistrefrog"
+    },
+    {
+      "file": "alphabetized/m_002.json",
+      "count": 299,
+      "first_handle": "mitch",
+      "last_handle": "mzgetex"
+    },
+    {
+      "file": "alphabetized/n_001.json",
+      "count": 332,
+      "first_handle": "n0alphapanda",
+      "last_handle": "nztrencher"
+    },
+    {
+      "file": "alphabetized/o_001.json",
+      "count": 218,
+      "first_handle": "oaktastic",
+      "last_handle": "ozo1x"
+    },
+    {
+      "file": "alphabetized/p_001.json",
+      "count": 500,
+      "first_handle": "p0ppy",
+      "last_handle": "pumpsulkyracer"
+    },
+    {
+      "file": "alphabetized/p_002.json",
+      "count": 40,
+      "first_handle": "pumpswap_cto",
+      "last_handle": "pzagate"
+    },
+    {
+      "file": "alphabetized/q_001.json",
+      "count": 41,
+      "first_handle": "qavec",
+      "last_handle": "qzoomer1"
+    },
+    {
+      "file": "alphabetized/r_001.json",
+      "count": 444,
+      "first_handle": "r00g69420",
+      "last_handle": "ryodhaka"
+    },
+    {
+      "file": "alphabetized/s_001.json",
+      "count": 500,
+      "first_handle": "s0lz",
+      "last_handle": "smokingkittyy"
+    },
+    {
+      "file": "alphabetized/s_002.json",
+      "count": 443,
+      "first_handle": "sn3zy",
+      "last_handle": "szym"
+    },
+    {
+      "file": "alphabetized/t_001.json",
+      "count": 500,
+      "first_handle": "t3nzor",
+      "last_handle": "treasuryahhh"
+    },
+    {
+      "file": "alphabetized/t_002.json",
+      "count": 144,
+      "first_handle": "treasurychad",
+      "last_handle": "tysoncrypto_"
+    },
+    {
+      "file": "alphabetized/u_001.json",
+      "count": 112,
+      "first_handle": "u07011",
+      "last_handle": "uzzzzz66"
+    },
+    {
+      "file": "alphabetized/v_001.json",
+      "count": 140,
+      "first_handle": "v1s10n4ry_",
+      "last_handle": "vycetrades"
+    },
+    {
+      "file": "alphabetized/w_001.json",
+      "count": 279,
+      "first_handle": "w_dev34",
+      "last_handle": "wytze003"
+    },
+    {
+      "file": "alphabetized/x_001.json",
+      "count": 77,
+      "first_handle": "x",
+      "last_handle": "xztezrxyu"
+    },
+    {
+      "file": "alphabetized/y_001.json",
+      "count": 89,
+      "first_handle": "y0lloo",
+      "last_handle": "yzzzbtc"
+    },
+    {
+      "file": "alphabetized/z_001.json",
+      "count": 156,
+      "first_handle": "z11",
+      "last_handle": "zzzzzzzzz4444"
+    }
+  ],
+  "input_files": [
+    {
+      "file": "panda-browsing-2026-10-14T19-27-01-037Z.json",
+      "records_scanned": 164,
+      "records_with_handles": 164
+    },
+    {
+      "file": "pump-following-profiles-2026-10-02 (4) 2.csv",
+      "records_scanned": 7307,
+      "records_with_handles": 7305
+    },
+    {
+      "file": "pump-following-profiles-2026-10-02 (4).csv",
+      "records_scanned": 7307,
+      "records_with_handles": 7305
+    },
+    {
+      "file": "pump-following-profiles-2026-10-02 (5).csv",
+      "records_scanned": 8008,
+      "records_with_handles": 8006
+    },
+    {
+      "file": "pump-holder-rewards-2026-10-02 2.csv",
+      "records_scanned": 25,
+      "records_with_handles": 0
+    },
+    {
+      "file": "pump-holder-rewards-2026-10-02.csv",
+      "records_scanned": 25,
+      "records_with_handles": 0
+    },
+    {
+      "file": "sin-customer-profile-one-record.csv",
+      "records_scanned": 1,
+      "records_with_handles": 0
+    },
+    {
+      "file": "sin-customer-profile-template.csv",
+      "records_scanned": 1,
+      "records_with_handles": 0
+    },
+    {
+      "file": "vip_list.csv",
+      "records_scanned": 2171,
+      "records_with_handles": 2171
+    }
+  ]
+}
