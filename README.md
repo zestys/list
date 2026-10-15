@@ -78,3 +78,31 @@ Their terms and requirements will be provided later.
 The current build scanned 9 source files without errors and contains 10,275
 unique handles (8,020 Pump and 2,255 X/Twitter), backed by 11,728 unique detail
 records. See `index.json` for the authoritative summary and generation time.
+
+## Pump wallets
+
+Pump entries include `wallet_addresses`, extracted from source
+`pump_profile_url` values and validated as base58-encoded 32-byte Solana public
+keys. Address case is preserved. `wallet_address` is populated only when exactly
+one distinct address is known. If a handle appears with multiple addresses, all
+are retained and `wallet_conflict` is true; the homepage displays a notice.
+These are source-reported profile associations, not proof of wallet ownership.
+X entries do not inherit a wallet from a related Pump entry.
+
+## SOL balance snapshots
+
+Run `python3 update_balances.py` from this repository after rebuilding. It fetches
+native SOL balances on mainnet using Solana `getMultipleAccounts` in batches of
+100, writes `wallet_balances.json`, and decorates the master, search file, and
+alphabetical shards with `wallet_balances`. The generator preserves that cache
+on later rebuilds. Use `SOLANA_RPC_URL` for a dedicated provider; its URL is never
+written into the output. Public RPC may rate-limit requests. Retry resumes using
+successful snapshots younger than one hour; `--max-age-hours 0` refreshes all.
+
+Balances retain exact integer lamports, decimal SOL strings, confirmed slots,
+and UTC lookup times. A missing on-chain account has a zero balance. Failed
+requests display unavailable or a labeled stale prior balance; they never become
+zero. The job stops after three consecutive failed batches and exits nonzero
+unless every wallet has a successful snapshot. No token holdings or wallet
+ownership verification is included. The page shows per-wallet balances, without
+summing wallets for handles with conflicting source associations.

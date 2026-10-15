@@ -28,7 +28,11 @@
       "related_handles": [
         "pump:manmilker67"
       ],
-      "profile_url": "https://x.com/boymilker67"
+      "profile_url": "https://x.com/boymilker67",
+      "wallet_addresses": [],
+      "wallet_address": null,
+      "wallet_conflict": false,
+      "wallet_balances": []
     },
     {
       "id": "pump:br0lyy",
@@ -51,7 +55,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/58PzAPMzWWDsZ2paRC6EiWmmoWY2f9RLrdPUUHRbf2zs"
+      "profile_url": "https://pump.fun/profile/58PzAPMzWWDsZ2paRC6EiWmmoWY2f9RLrdPUUHRbf2zs",
+      "wallet_addresses": [
+        "58PzAPMzWWDsZ2paRC6EiWmmoWY2f9RLrdPUUHRbf2zs"
+      ],
+      "wallet_address": "58PzAPMzWWDsZ2paRC6EiWmmoWY2f9RLrdPUUHRbf2zs",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "58PzAPMzWWDsZ2paRC6EiWmmoWY2f9RLrdPUUHRbf2zs",
+          "status": "ok",
+          "lamports": 4484320,
+          "sol": "0.00448432",
+          "checked_at": "2026-10-15T23:21:24.052211+00:00",
+          "slot": 457418880,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:bradsatoshi",
@@ -74,7 +94,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/8mNGKZAsSwgmhrkVnvhmcuSDW3Bt5s1GSS7uzd93DcmV"
+      "profile_url": "https://pump.fun/profile/8mNGKZAsSwgmhrkVnvhmcuSDW3Bt5s1GSS7uzd93DcmV",
+      "wallet_addresses": [
+        "8mNGKZAsSwgmhrkVnvhmcuSDW3Bt5s1GSS7uzd93DcmV"
+      ],
+      "wallet_address": "8mNGKZAsSwgmhrkVnvhmcuSDW3Bt5s1GSS7uzd93DcmV",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "8mNGKZAsSwgmhrkVnvhmcuSDW3Bt5s1GSS7uzd93DcmV",
+          "status": "ok",
+          "lamports": 30262289,
+          "sol": "0.030262289",
+          "checked_at": "2026-10-15T23:21:46.283137+00:00",
+          "slot": 457418984,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "x:bradyhomie2",
@@ -101,7 +137,11 @@
       "related_handles": [
         "pump:ticketss"
       ],
-      "profile_url": "https://x.com/bradyhomie2"
+      "profile_url": "https://x.com/bradyhomie2",
+      "wallet_addresses": [],
+      "wallet_address": null,
+      "wallet_conflict": false,
+      "wallet_balances": []
     },
     {
       "id": "pump:brahtoshi",
@@ -127,7 +167,23 @@
       "related_handles": [
         "x:viralchillvibes"
       ],
-      "profile_url": "https://pump.fun/profile/EdydUtaP6cpiBAt7NCY7MjztfY5xaHiQCWozeEhAo2wE"
+      "profile_url": "https://pump.fun/profile/EdydUtaP6cpiBAt7NCY7MjztfY5xaHiQCWozeEhAo2wE",
+      "wallet_addresses": [
+        "EdydUtaP6cpiBAt7NCY7MjztfY5xaHiQCWozeEhAo2wE"
+      ],
+      "wallet_address": "EdydUtaP6cpiBAt7NCY7MjztfY5xaHiQCWozeEhAo2wE",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "EdydUtaP6cpiBAt7NCY7MjztfY5xaHiQCWozeEhAo2wE",
+          "status": "ok",
+          "lamports": 46678934292,
+          "sol": "46.678934292",
+          "checked_at": "2026-10-15T23:22:23.234805+00:00",
+          "slot": 457419154,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:brainrotwhisper",
@@ -152,7 +208,23 @@
       "related_handles": [
         "x:bryon_browning6"
       ],
-      "profile_url": "https://pump.fun/profile/Eredqv9wP34dtnC52ZyKEqfwK817SFz39YzgYz5fM67M"
+      "profile_url": "https://pump.fun/profile/Eredqv9wP34dtnC52ZyKEqfwK817SFz39YzgYz5fM67M",
+      "wallet_addresses": [
+        "Eredqv9wP34dtnC52ZyKEqfwK817SFz39YzgYz5fM67M"
+      ],
+      "wallet_address": "Eredqv9wP34dtnC52ZyKEqfwK817SFz39YzgYz5fM67M",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "Eredqv9wP34dtnC52ZyKEqfwK817SFz39YzgYz5fM67M",
+          "status": "ok",
+          "lamports": 651631,
+          "sol": "0.000651631",
+          "checked_at": "2026-10-15T23:22:24.540838+00:00",
+          "slot": 457419160,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:brainyableoffer",
@@ -172,7 +244,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/HRAgtMD7JLBipYzunZFUNNSGSXs81CfcrJ9bet47Rqpv"
+      "profile_url": "https://pump.fun/profile/HRAgtMD7JLBipYzunZFUNNSGSXs81CfcrJ9bet47Rqpv",
+      "wallet_addresses": [
+        "HRAgtMD7JLBipYzunZFUNNSGSXs81CfcrJ9bet47Rqpv"
+      ],
+      "wallet_address": "HRAgtMD7JLBipYzunZFUNNSGSXs81CfcrJ9bet47Rqpv",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "HRAgtMD7JLBipYzunZFUNNSGSXs81CfcrJ9bet47Rqpv",
+          "status": "ok",
+          "lamports": 150277184297,
+          "sol": "150.277184297",
+          "checked_at": "2026-10-15T23:22:39.065095+00:00",
+          "slot": 457419227,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:bramblememeanon",
@@ -195,7 +283,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/HzvVz8aMbSJYPcETCxptqX9fw9e2uprWSce6iP6Gkkdi"
+      "profile_url": "https://pump.fun/profile/HzvVz8aMbSJYPcETCxptqX9fw9e2uprWSce6iP6Gkkdi",
+      "wallet_addresses": [
+        "HzvVz8aMbSJYPcETCxptqX9fw9e2uprWSce6iP6Gkkdi"
+      ],
+      "wallet_address": "HzvVz8aMbSJYPcETCxptqX9fw9e2uprWSce6iP6Gkkdi",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "HzvVz8aMbSJYPcETCxptqX9fw9e2uprWSce6iP6Gkkdi",
+          "status": "ok",
+          "lamports": 0,
+          "sol": "0",
+          "checked_at": "2026-10-15T23:22:43.006414+00:00",
+          "slot": 457419246,
+          "account_exists": false
+        }
+      ]
     },
     {
       "id": "pump:branch_m",
@@ -217,7 +321,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/BRANCHVDL53igBiYuvrEfZazXJm24qKQJhyXBUm7z7V"
+      "profile_url": "https://pump.fun/profile/BRANCHVDL53igBiYuvrEfZazXJm24qKQJhyXBUm7z7V",
+      "wallet_addresses": [
+        "BRANCHVDL53igBiYuvrEfZazXJm24qKQJhyXBUm7z7V"
+      ],
+      "wallet_address": "BRANCHVDL53igBiYuvrEfZazXJm24qKQJhyXBUm7z7V",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "BRANCHVDL53igBiYuvrEfZazXJm24qKQJhyXBUm7z7V",
+          "status": "ok",
+          "lamports": 30855253,
+          "sol": "0.030855253",
+          "checked_at": "2026-10-15T23:22:02.020836+00:00",
+          "slot": 457419060,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "x:branden_nikko",
@@ -244,7 +364,11 @@
       "related_handles": [
         "pump:brandentrades"
       ],
-      "profile_url": "https://x.com/branden_nikko"
+      "profile_url": "https://x.com/branden_nikko",
+      "wallet_addresses": [],
+      "wallet_address": null,
+      "wallet_conflict": false,
+      "wallet_balances": []
     },
     {
       "id": "pump:brandentrades",
@@ -270,7 +394,23 @@
       "related_handles": [
         "x:branden_nikko"
       ],
-      "profile_url": "https://pump.fun/profile/BvcuV2gptvrpXyfEyYBy9WHnSJvkwErVZkCrxoP9KVBA"
+      "profile_url": "https://pump.fun/profile/BvcuV2gptvrpXyfEyYBy9WHnSJvkwErVZkCrxoP9KVBA",
+      "wallet_addresses": [
+        "BvcuV2gptvrpXyfEyYBy9WHnSJvkwErVZkCrxoP9KVBA"
+      ],
+      "wallet_address": "BvcuV2gptvrpXyfEyYBy9WHnSJvkwErVZkCrxoP9KVBA",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "BvcuV2gptvrpXyfEyYBy9WHnSJvkwErVZkCrxoP9KVBA",
+          "status": "ok",
+          "lamports": 535322296,
+          "sol": "0.535322296",
+          "checked_at": "2026-10-15T23:22:05.998902+00:00",
+          "slot": 457419077,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:brandonstarr",
@@ -293,7 +433,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/7XPqFLpwzVfn6sw4W1N2zMjs4jSyEqC8cjvKY5Y76Qx8"
+      "profile_url": "https://pump.fun/profile/7XPqFLpwzVfn6sw4W1N2zMjs4jSyEqC8cjvKY5Y76Qx8",
+      "wallet_addresses": [
+        "7XPqFLpwzVfn6sw4W1N2zMjs4jSyEqC8cjvKY5Y76Qx8"
+      ],
+      "wallet_address": "7XPqFLpwzVfn6sw4W1N2zMjs4jSyEqC8cjvKY5Y76Qx8",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "7XPqFLpwzVfn6sw4W1N2zMjs4jSyEqC8cjvKY5Y76Qx8",
+          "status": "ok",
+          "lamports": 51969455141,
+          "sol": "51.969455141",
+          "checked_at": "2026-10-15T23:21:38.443200+00:00",
+          "slot": 457418947,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:braundefi",
@@ -316,7 +472,23 @@
       "related_handles": [
         "x:braundefi"
       ],
-      "profile_url": "https://pump.fun/profile/9kjPgXnktNt1nDxShDhb9kDqPy6S9rKZUPZJGfkSvkdu"
+      "profile_url": "https://pump.fun/profile/9kjPgXnktNt1nDxShDhb9kDqPy6S9rKZUPZJGfkSvkdu",
+      "wallet_addresses": [
+        "9kjPgXnktNt1nDxShDhb9kDqPy6S9rKZUPZJGfkSvkdu"
+      ],
+      "wallet_address": "9kjPgXnktNt1nDxShDhb9kDqPy6S9rKZUPZJGfkSvkdu",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "9kjPgXnktNt1nDxShDhb9kDqPy6S9rKZUPZJGfkSvkdu",
+          "status": "ok",
+          "lamports": 13620887,
+          "sol": "0.013620887",
+          "checked_at": "2026-10-15T23:21:52.778503+00:00",
+          "slot": 457419016,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "x:braundefi",
@@ -340,7 +512,11 @@
       "related_handles": [
         "pump:braundefi"
       ],
-      "profile_url": "https://x.com/braundefi"
+      "profile_url": "https://x.com/braundefi",
+      "wallet_addresses": [],
+      "wallet_address": null,
+      "wallet_conflict": false,
+      "wallet_balances": []
     },
     {
       "id": "pump:braveshortflare",
@@ -360,7 +536,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/4GELppbfrevo3eQ8nAywmN2irRrCeGTSmQ19vwzyTS8P"
+      "profile_url": "https://pump.fun/profile/4GELppbfrevo3eQ8nAywmN2irRrCeGTSmQ19vwzyTS8P",
+      "wallet_addresses": [
+        "4GELppbfrevo3eQ8nAywmN2irRrCeGTSmQ19vwzyTS8P"
+      ],
+      "wallet_address": "4GELppbfrevo3eQ8nAywmN2irRrCeGTSmQ19vwzyTS8P",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "4GELppbfrevo3eQ8nAywmN2irRrCeGTSmQ19vwzyTS8P",
+          "status": "ok",
+          "lamports": 0,
+          "sol": "0",
+          "checked_at": "2026-10-15T23:21:18.874145+00:00",
+          "slot": 457418854,
+          "account_exists": false
+        }
+      ]
     },
     {
       "id": "pump:brawnyhalfcapri",
@@ -382,7 +574,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/4sujmGk1ZReKA55qUsEGCUEXwqa54mSrJC8gxiEc8txc"
+      "profile_url": "https://pump.fun/profile/4sujmGk1ZReKA55qUsEGCUEXwqa54mSrJC8gxiEc8txc",
+      "wallet_addresses": [
+        "4sujmGk1ZReKA55qUsEGCUEXwqa54mSrJC8gxiEc8txc"
+      ],
+      "wallet_address": "4sujmGk1ZReKA55qUsEGCUEXwqa54mSrJC8gxiEc8txc",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "4sujmGk1ZReKA55qUsEGCUEXwqa54mSrJC8gxiEc8txc",
+          "status": "ok",
+          "lamports": 0,
+          "sol": "0",
+          "checked_at": "2026-10-15T23:21:22.735253+00:00",
+          "slot": 457418873,
+          "account_exists": false
+        }
+      ]
     },
     {
       "id": "pump:brazencrab68832",
@@ -404,7 +612,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/CopZuLAiqEFE7cyZRwYdbfdoquxXZV46j9mFY5BfGR3f"
+      "profile_url": "https://pump.fun/profile/CopZuLAiqEFE7cyZRwYdbfdoquxXZV46j9mFY5BfGR3f",
+      "wallet_addresses": [
+        "CopZuLAiqEFE7cyZRwYdbfdoquxXZV46j9mFY5BfGR3f"
+      ],
+      "wallet_address": "CopZuLAiqEFE7cyZRwYdbfdoquxXZV46j9mFY5BfGR3f",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "CopZuLAiqEFE7cyZRwYdbfdoquxXZV46j9mFY5BfGR3f",
+          "status": "ok",
+          "lamports": 0,
+          "sol": "0",
+          "checked_at": "2026-10-15T23:22:11.283649+00:00",
+          "slot": 457419099,
+          "account_exists": false
+        }
+      ]
     },
     {
       "id": "pump:brbtoken",
@@ -424,7 +648,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/BppHD75PZY4ikEkk9DoVG2X5xApUtnfC8JYzMgtyZ57p"
+      "profile_url": "https://pump.fun/profile/BppHD75PZY4ikEkk9DoVG2X5xApUtnfC8JYzMgtyZ57p",
+      "wallet_addresses": [
+        "BppHD75PZY4ikEkk9DoVG2X5xApUtnfC8JYzMgtyZ57p"
+      ],
+      "wallet_address": "BppHD75PZY4ikEkk9DoVG2X5xApUtnfC8JYzMgtyZ57p",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "BppHD75PZY4ikEkk9DoVG2X5xApUtnfC8JYzMgtyZ57p",
+          "status": "ok",
+          "lamports": 650241,
+          "sol": "0.000650241",
+          "checked_at": "2026-10-15T23:22:04.675673+00:00",
+          "slot": 457419070,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:brby",
@@ -447,7 +687,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/ACCee47fBfTft7FGJcdrFhndy6g6zRbKfTGkyH9vJLfj"
+      "profile_url": "https://pump.fun/profile/ACCee47fBfTft7FGJcdrFhndy6g6zRbKfTGkyH9vJLfj",
+      "wallet_addresses": [
+        "ACCee47fBfTft7FGJcdrFhndy6g6zRbKfTGkyH9vJLfj"
+      ],
+      "wallet_address": "ACCee47fBfTft7FGJcdrFhndy6g6zRbKfTGkyH9vJLfj",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "ACCee47fBfTft7FGJcdrFhndy6g6zRbKfTGkyH9vJLfj",
+          "status": "ok",
+          "lamports": 94905100,
+          "sol": "0.0949051",
+          "checked_at": "2026-10-15T23:21:54.109586+00:00",
+          "slot": 457419022,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:brc20niubi",
@@ -473,7 +729,23 @@
       "related_handles": [
         "x:brc20niubi"
       ],
-      "profile_url": "https://pump.fun/profile/BQ4KBzzXXk6ZMxVQb4mePuUbJfe85MerzYj53eatzUWd"
+      "profile_url": "https://pump.fun/profile/BQ4KBzzXXk6ZMxVQb4mePuUbJfe85MerzYj53eatzUWd",
+      "wallet_addresses": [
+        "BQ4KBzzXXk6ZMxVQb4mePuUbJfe85MerzYj53eatzUWd"
+      ],
+      "wallet_address": "BQ4KBzzXXk6ZMxVQb4mePuUbJfe85MerzYj53eatzUWd",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "BQ4KBzzXXk6ZMxVQb4mePuUbJfe85MerzYj53eatzUWd",
+          "status": "ok",
+          "lamports": 5895656803,
+          "sol": "5.895656803",
+          "checked_at": "2026-10-15T23:22:02.020836+00:00",
+          "slot": 457419060,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "x:brc20niubi",
@@ -500,7 +772,11 @@
       "related_handles": [
         "pump:brc20niubi"
       ],
-      "profile_url": "https://x.com/brc20niubi"
+      "profile_url": "https://x.com/brc20niubi",
+      "wallet_addresses": [],
+      "wallet_address": null,
+      "wallet_conflict": false,
+      "wallet_balances": []
     },
     {
       "id": "pump:breadflow",
@@ -520,7 +796,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/GTi6yDXehADWwxpNKXevyPhikhvoLGh2XMQkEQQHFtx6"
+      "profile_url": "https://pump.fun/profile/GTi6yDXehADWwxpNKXevyPhikhvoLGh2XMQkEQQHFtx6",
+      "wallet_addresses": [
+        "GTi6yDXehADWwxpNKXevyPhikhvoLGh2XMQkEQQHFtx6"
+      ],
+      "wallet_address": "GTi6yDXehADWwxpNKXevyPhikhvoLGh2XMQkEQQHFtx6",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "GTi6yDXehADWwxpNKXevyPhikhvoLGh2XMQkEQQHFtx6",
+          "status": "ok",
+          "lamports": 650240,
+          "sol": "0.00065024",
+          "checked_at": "2026-10-15T23:22:33.712853+00:00",
+          "slot": 457419201,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "x:breadgiver",
@@ -547,7 +839,11 @@
       "related_handles": [
         "pump:lofoh"
       ],
-      "profile_url": "https://x.com/breadgiver"
+      "profile_url": "https://x.com/breadgiver",
+      "wallet_addresses": [],
+      "wallet_address": null,
+      "wallet_conflict": false,
+      "wallet_balances": []
     },
     {
       "id": "pump:breadw1nner",
@@ -569,7 +865,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/BsZkCM7PZ1aNV7BCnFWaKDU8mPMd4Pp5y7J1LnKgxfJC"
+      "profile_url": "https://pump.fun/profile/BsZkCM7PZ1aNV7BCnFWaKDU8mPMd4Pp5y7J1LnKgxfJC",
+      "wallet_addresses": [
+        "BsZkCM7PZ1aNV7BCnFWaKDU8mPMd4Pp5y7J1LnKgxfJC"
+      ],
+      "wallet_address": "BsZkCM7PZ1aNV7BCnFWaKDU8mPMd4Pp5y7J1LnKgxfJC",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "BsZkCM7PZ1aNV7BCnFWaKDU8mPMd4Pp5y7J1LnKgxfJC",
+          "status": "ok",
+          "lamports": 890881,
+          "sol": "0.000890881",
+          "checked_at": "2026-10-15T23:22:04.675673+00:00",
+          "slot": 457419070,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:breakfast4l1fe",
@@ -591,7 +903,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/Fvv5A3NZaERW4CfXeANz3BeAqZ9FZTX74S8JswJKprAV"
+      "profile_url": "https://pump.fun/profile/Fvv5A3NZaERW4CfXeANz3BeAqZ9FZTX74S8JswJKprAV",
+      "wallet_addresses": [
+        "Fvv5A3NZaERW4CfXeANz3BeAqZ9FZTX74S8JswJKprAV"
+      ],
+      "wallet_address": "Fvv5A3NZaERW4CfXeANz3BeAqZ9FZTX74S8JswJKprAV",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "Fvv5A3NZaERW4CfXeANz3BeAqZ9FZTX74S8JswJKprAV",
+          "status": "ok",
+          "lamports": 5119398,
+          "sol": "0.005119398",
+          "checked_at": "2026-10-15T23:22:31.105922+00:00",
+          "slot": 457419189,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:breezybandcloud",
@@ -614,7 +942,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/8Zakr1ZFn1rdmTj9GABSkfzBnG1CBjBwh2oGj7E1gu9"
+      "profile_url": "https://pump.fun/profile/8Zakr1ZFn1rdmTj9GABSkfzBnG1CBjBwh2oGj7E1gu9",
+      "wallet_addresses": [
+        "8Zakr1ZFn1rdmTj9GABSkfzBnG1CBjBwh2oGj7E1gu9"
+      ],
+      "wallet_address": "8Zakr1ZFn1rdmTj9GABSkfzBnG1CBjBwh2oGj7E1gu9",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "8Zakr1ZFn1rdmTj9GABSkfzBnG1CBjBwh2oGj7E1gu9",
+          "status": "ok",
+          "lamports": 6757135113,
+          "sol": "6.757135113",
+          "checked_at": "2026-10-15T23:21:44.948993+00:00",
+          "slot": 457418978,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "x:brenpbr7",
@@ -640,7 +984,11 @@
       "related_handles": [
         "pump:tebi"
       ],
-      "profile_url": "https://x.com/brenpbr7"
+      "profile_url": "https://x.com/brenpbr7",
+      "wallet_addresses": [],
+      "wallet_address": null,
+      "wallet_conflict": false,
+      "wallet_balances": []
     },
     {
       "id": "pump:brezscales1",
@@ -663,7 +1011,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/Fvkc2thk1YcAASdR2gi8uf9n67JW9Dqqr9iRd99MDhoB"
+      "profile_url": "https://pump.fun/profile/Fvkc2thk1YcAASdR2gi8uf9n67JW9Dqqr9iRd99MDhoB",
+      "wallet_addresses": [
+        "Fvkc2thk1YcAASdR2gi8uf9n67JW9Dqqr9iRd99MDhoB"
+      ],
+      "wallet_address": "Fvkc2thk1YcAASdR2gi8uf9n67JW9Dqqr9iRd99MDhoB",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "Fvkc2thk1YcAASdR2gi8uf9n67JW9Dqqr9iRd99MDhoB",
+          "status": "ok",
+          "lamports": 18898760,
+          "sol": "0.01889876",
+          "checked_at": "2026-10-15T23:22:31.105922+00:00",
+          "slot": 457419189,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:brian_degens",
@@ -689,7 +1053,23 @@
       "related_handles": [
         "x:brian_degens"
       ],
-      "profile_url": "https://pump.fun/profile/7pDhG6NqfzQzw5KvtGXJbVRUh4iTBgYAn68BSKjdMNC1"
+      "profile_url": "https://pump.fun/profile/7pDhG6NqfzQzw5KvtGXJbVRUh4iTBgYAn68BSKjdMNC1",
+      "wallet_addresses": [
+        "7pDhG6NqfzQzw5KvtGXJbVRUh4iTBgYAn68BSKjdMNC1"
+      ],
+      "wallet_address": "7pDhG6NqfzQzw5KvtGXJbVRUh4iTBgYAn68BSKjdMNC1",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "7pDhG6NqfzQzw5KvtGXJbVRUh4iTBgYAn68BSKjdMNC1",
+          "status": "ok",
+          "lamports": 32125351549,
+          "sol": "32.125351549",
+          "checked_at": "2026-10-15T23:21:41.061037+00:00",
+          "slot": 457418958,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "x:brian_degens",
@@ -716,7 +1096,11 @@
       "related_handles": [
         "pump:brian_degens"
       ],
-      "profile_url": "https://x.com/brian_degens"
+      "profile_url": "https://x.com/brian_degens",
+      "wallet_addresses": [],
+      "wallet_address": null,
+      "wallet_conflict": false,
+      "wallet_balances": []
     },
     {
       "id": "pump:brianbanks",
@@ -741,7 +1125,23 @@
       "related_handles": [
         "x:brianbanks08"
       ],
-      "profile_url": "https://pump.fun/profile/HckGiAnu4UB3jbFrcYCxP8kcB5mh1RRZzED3R8AtAJqB"
+      "profile_url": "https://pump.fun/profile/HckGiAnu4UB3jbFrcYCxP8kcB5mh1RRZzED3R8AtAJqB",
+      "wallet_addresses": [
+        "HckGiAnu4UB3jbFrcYCxP8kcB5mh1RRZzED3R8AtAJqB"
+      ],
+      "wallet_address": "HckGiAnu4UB3jbFrcYCxP8kcB5mh1RRZzED3R8AtAJqB",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "HckGiAnu4UB3jbFrcYCxP8kcB5mh1RRZzED3R8AtAJqB",
+          "status": "ok",
+          "lamports": 14734525055,
+          "sol": "14.734525055",
+          "checked_at": "2026-10-15T23:22:40.345482+00:00",
+          "slot": 457419233,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "x:brianbanks08",
@@ -767,7 +1167,11 @@
       "related_handles": [
         "pump:brianbanks"
       ],
-      "profile_url": "https://x.com/brianbanks08"
+      "profile_url": "https://x.com/brianbanks08",
+      "wallet_addresses": [],
+      "wallet_address": null,
+      "wallet_conflict": false,
+      "wallet_balances": []
     },
     {
       "id": "pump:briand3vs",
@@ -790,7 +1194,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/BK2ciybp5WEeWUpPzPACUDfwcNFHeDQSrQsdKyT3Wdkb"
+      "profile_url": "https://pump.fun/profile/BK2ciybp5WEeWUpPzPACUDfwcNFHeDQSrQsdKyT3Wdkb",
+      "wallet_addresses": [
+        "BK2ciybp5WEeWUpPzPACUDfwcNFHeDQSrQsdKyT3Wdkb"
+      ],
+      "wallet_address": "BK2ciybp5WEeWUpPzPACUDfwcNFHeDQSrQsdKyT3Wdkb",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "BK2ciybp5WEeWUpPzPACUDfwcNFHeDQSrQsdKyT3Wdkb",
+          "status": "ok",
+          "lamports": 6434661181,
+          "sol": "6.434661181",
+          "checked_at": "2026-10-15T23:22:02.020836+00:00",
+          "slot": 457419060,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:briangtrades",
@@ -812,7 +1232,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/3u387CfnuHZwJS9drTjQbzU976RB6tVWArF3B7CKiKsi"
+      "profile_url": "https://pump.fun/profile/3u387CfnuHZwJS9drTjQbzU976RB6tVWArF3B7CKiKsi",
+      "wallet_addresses": [
+        "3u387CfnuHZwJS9drTjQbzU976RB6tVWArF3B7CKiKsi"
+      ],
+      "wallet_address": "3u387CfnuHZwJS9drTjQbzU976RB6tVWArF3B7CKiKsi",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "3u387CfnuHZwJS9drTjQbzU976RB6tVWArF3B7CKiKsi",
+          "status": "ok",
+          "lamports": 15211216339,
+          "sol": "15.211216339",
+          "checked_at": "2026-10-15T23:21:16.277433+00:00",
+          "slot": 457418842,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:brianjesposito",
@@ -837,7 +1273,23 @@
       "related_handles": [
         "x:brianjesposito"
       ],
-      "profile_url": "https://pump.fun/profile/LdAtNgFho3gKdHLHmCXGqrpgpMqeeSYR9xwKh1RD7Ww"
+      "profile_url": "https://pump.fun/profile/LdAtNgFho3gKdHLHmCXGqrpgpMqeeSYR9xwKh1RD7Ww",
+      "wallet_addresses": [
+        "LdAtNgFho3gKdHLHmCXGqrpgpMqeeSYR9xwKh1RD7Ww"
+      ],
+      "wallet_address": "LdAtNgFho3gKdHLHmCXGqrpgpMqeeSYR9xwKh1RD7Ww",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "LdAtNgFho3gKdHLHmCXGqrpgpMqeeSYR9xwKh1RD7Ww",
+          "status": "ok",
+          "lamports": 62980427,
+          "sol": "0.062980427",
+          "checked_at": "2026-10-15T23:22:44.394457+00:00",
+          "slot": 457419254,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "x:brianjesposito",
@@ -863,7 +1315,11 @@
       "related_handles": [
         "pump:brianjesposito"
       ],
-      "profile_url": "https://x.com/brianjesposito"
+      "profile_url": "https://x.com/brianjesposito",
+      "wallet_addresses": [],
+      "wallet_address": null,
+      "wallet_conflict": false,
+      "wallet_balances": []
     },
     {
       "id": "pump:briansleuth",
@@ -886,7 +1342,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/EmcYaGsVy7kXKMbzwZzGHxAwDohZbP4rXuCKTsmojCoW"
+      "profile_url": "https://pump.fun/profile/EmcYaGsVy7kXKMbzwZzGHxAwDohZbP4rXuCKTsmojCoW",
+      "wallet_addresses": [
+        "EmcYaGsVy7kXKMbzwZzGHxAwDohZbP4rXuCKTsmojCoW"
+      ],
+      "wallet_address": "EmcYaGsVy7kXKMbzwZzGHxAwDohZbP4rXuCKTsmojCoW",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "EmcYaGsVy7kXKMbzwZzGHxAwDohZbP4rXuCKTsmojCoW",
+          "status": "ok",
+          "lamports": 110143056816,
+          "sol": "110.143056816",
+          "checked_at": "2026-10-15T23:22:23.234805+00:00",
+          "slot": 457419154,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:bricex",
@@ -906,7 +1378,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/Bk4AmsMsAXewrhK2YtQoNpdyYKHTiDFQsHDZ2Cpg5faZ"
+      "profile_url": "https://pump.fun/profile/Bk4AmsMsAXewrhK2YtQoNpdyYKHTiDFQsHDZ2Cpg5faZ",
+      "wallet_addresses": [
+        "Bk4AmsMsAXewrhK2YtQoNpdyYKHTiDFQsHDZ2Cpg5faZ"
+      ],
+      "wallet_address": "Bk4AmsMsAXewrhK2YtQoNpdyYKHTiDFQsHDZ2Cpg5faZ",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "Bk4AmsMsAXewrhK2YtQoNpdyYKHTiDFQsHDZ2Cpg5faZ",
+          "status": "ok",
+          "lamports": 3967761,
+          "sol": "0.003967761",
+          "checked_at": "2026-10-15T23:22:04.675673+00:00",
+          "slot": 457419070,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:brickboydior",
@@ -928,7 +1416,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/2gcURDRWiLBKM1mZcMKsH4QkgiXQcrCQDU7QBtKcBb8f"
+      "profile_url": "https://pump.fun/profile/2gcURDRWiLBKM1mZcMKsH4QkgiXQcrCQDU7QBtKcBb8f",
+      "wallet_addresses": [
+        "2gcURDRWiLBKM1mZcMKsH4QkgiXQcrCQDU7QBtKcBb8f"
+      ],
+      "wallet_address": "2gcURDRWiLBKM1mZcMKsH4QkgiXQcrCQDU7QBtKcBb8f",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "2gcURDRWiLBKM1mZcMKsH4QkgiXQcrCQDU7QBtKcBb8f",
+          "status": "ok",
+          "lamports": 0,
+          "sol": "0",
+          "checked_at": "2026-10-15T23:21:09.655612+00:00",
+          "slot": 457418817,
+          "account_exists": false
+        }
+      ]
     },
     {
       "id": "pump:brickedup",
@@ -950,7 +1454,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/B4yAwR9GMfznTdxh9xhe5o8gKprQh6x7UFQfwfJ41YpT"
+      "profile_url": "https://pump.fun/profile/B4yAwR9GMfznTdxh9xhe5o8gKprQh6x7UFQfwfJ41YpT",
+      "wallet_addresses": [
+        "B4yAwR9GMfznTdxh9xhe5o8gKprQh6x7UFQfwfJ41YpT"
+      ],
+      "wallet_address": "B4yAwR9GMfznTdxh9xhe5o8gKprQh6x7UFQfwfJ41YpT",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "B4yAwR9GMfznTdxh9xhe5o8gKprQh6x7UFQfwfJ41YpT",
+          "status": "ok",
+          "lamports": 0,
+          "sol": "0",
+          "checked_at": "2026-10-15T23:22:00.711147+00:00",
+          "slot": 457419053,
+          "account_exists": false
+        }
+      ]
     },
     {
       "id": "pump:brickeduser",
@@ -973,7 +1493,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/NqoGpw8etaN9LjJLpgNghtCTUvnWXamsu4XS6UUN3Jx"
+      "profile_url": "https://pump.fun/profile/NqoGpw8etaN9LjJLpgNghtCTUvnWXamsu4XS6UUN3Jx",
+      "wallet_addresses": [
+        "NqoGpw8etaN9LjJLpgNghtCTUvnWXamsu4XS6UUN3Jx"
+      ],
+      "wallet_address": "NqoGpw8etaN9LjJLpgNghtCTUvnWXamsu4XS6UUN3Jx",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "NqoGpw8etaN9LjJLpgNghtCTUvnWXamsu4XS6UUN3Jx",
+          "status": "ok",
+          "lamports": 0,
+          "sol": "0",
+          "checked_at": "2026-10-15T23:22:44.394457+00:00",
+          "slot": 457419254,
+          "account_exists": false
+        }
+      ]
     },
     {
       "id": "pump:bricklol",
@@ -995,7 +1531,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/BricKui3DuwjdruGYnvUCiWs19WpNm1MeFZenWChKJL"
+      "profile_url": "https://pump.fun/profile/BricKui3DuwjdruGYnvUCiWs19WpNm1MeFZenWChKJL",
+      "wallet_addresses": [
+        "BricKui3DuwjdruGYnvUCiWs19WpNm1MeFZenWChKJL"
+      ],
+      "wallet_address": "BricKui3DuwjdruGYnvUCiWs19WpNm1MeFZenWChKJL",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "BricKui3DuwjdruGYnvUCiWs19WpNm1MeFZenWChKJL",
+          "status": "ok",
+          "lamports": 0,
+          "sol": "0",
+          "checked_at": "2026-10-15T23:22:04.675673+00:00",
+          "slot": 457419070,
+          "account_exists": false
+        }
+      ]
     },
     {
       "id": "pump:bricksonbricks",
@@ -1017,7 +1569,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/5KuKRtHcPCqjaVdh1CVmeCF626XsviYZ5gQSKidWsiSM"
+      "profile_url": "https://pump.fun/profile/5KuKRtHcPCqjaVdh1CVmeCF626XsviYZ5gQSKidWsiSM",
+      "wallet_addresses": [
+        "5KuKRtHcPCqjaVdh1CVmeCF626XsviYZ5gQSKidWsiSM"
+      ],
+      "wallet_address": "5KuKRtHcPCqjaVdh1CVmeCF626XsviYZ5gQSKidWsiSM",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "5KuKRtHcPCqjaVdh1CVmeCF626XsviYZ5gQSKidWsiSM",
+          "status": "ok",
+          "lamports": 1009529500,
+          "sol": "1.0095295",
+          "checked_at": "2026-10-15T23:21:25.343435+00:00",
+          "slot": 457418885,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:briskket",
@@ -1039,7 +1607,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/8nFYDHcSRwTWWAvaPfsoipvbSmMyq4xuMUk9w6ZiNbFx"
+      "profile_url": "https://pump.fun/profile/8nFYDHcSRwTWWAvaPfsoipvbSmMyq4xuMUk9w6ZiNbFx",
+      "wallet_addresses": [
+        "8nFYDHcSRwTWWAvaPfsoipvbSmMyq4xuMUk9w6ZiNbFx"
+      ],
+      "wallet_address": "8nFYDHcSRwTWWAvaPfsoipvbSmMyq4xuMUk9w6ZiNbFx",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "8nFYDHcSRwTWWAvaPfsoipvbSmMyq4xuMUk9w6ZiNbFx",
+          "status": "ok",
+          "lamports": 650240,
+          "sol": "0.00065024",
+          "checked_at": "2026-10-15T23:21:46.283137+00:00",
+          "slot": 457418984,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "x:brkbaslar",
@@ -1065,7 +1649,11 @@
       "related_handles": [
         "pump:baslar"
       ],
-      "profile_url": "https://x.com/brkbaslar"
+      "profile_url": "https://x.com/brkbaslar",
+      "wallet_addresses": [],
+      "wallet_address": null,
+      "wallet_conflict": false,
+      "wallet_balances": []
     },
     {
       "id": "pump:brnzto",
@@ -1087,7 +1675,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/AELJqv49aUkr9d4NTRLH7oTCZPgtYLUz2bmkmkYyQHnK"
+      "profile_url": "https://pump.fun/profile/AELJqv49aUkr9d4NTRLH7oTCZPgtYLUz2bmkmkYyQHnK",
+      "wallet_addresses": [
+        "AELJqv49aUkr9d4NTRLH7oTCZPgtYLUz2bmkmkYyQHnK"
+      ],
+      "wallet_address": "AELJqv49aUkr9d4NTRLH7oTCZPgtYLUz2bmkmkYyQHnK",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "AELJqv49aUkr9d4NTRLH7oTCZPgtYLUz2bmkmkYyQHnK",
+          "status": "ok",
+          "lamports": 51961978283,
+          "sol": "51.961978283",
+          "checked_at": "2026-10-15T23:21:55.422020+00:00",
+          "slot": 457419028,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:broc21",
@@ -1110,7 +1714,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/A7imYViBdyGZrRaxmpZ8fEGCXe1RrhozchJQmiJxM8AF"
+      "profile_url": "https://pump.fun/profile/A7imYViBdyGZrRaxmpZ8fEGCXe1RrhozchJQmiJxM8AF",
+      "wallet_addresses": [
+        "A7imYViBdyGZrRaxmpZ8fEGCXe1RrhozchJQmiJxM8AF"
+      ],
+      "wallet_address": "A7imYViBdyGZrRaxmpZ8fEGCXe1RrhozchJQmiJxM8AF",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "A7imYViBdyGZrRaxmpZ8fEGCXe1RrhozchJQmiJxM8AF",
+          "status": "ok",
+          "lamports": 9502248698,
+          "sol": "9.502248698",
+          "checked_at": "2026-10-15T23:21:54.109586+00:00",
+          "slot": 457419022,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:brocu",
@@ -1132,7 +1752,11 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/b1764242-c8cc-4b56-b262-136ecff712b0"
+      "profile_url": "https://pump.fun/profile/b1764242-c8cc-4b56-b262-136ecff712b0",
+      "wallet_addresses": [],
+      "wallet_address": null,
+      "wallet_conflict": false,
+      "wallet_balances": []
     },
     {
       "id": "pump:broex",
@@ -1155,7 +1779,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/3jyYQz9QfTieUZ7LYddfJR9H4zsMsxtL9iNNb3rcYvsa"
+      "profile_url": "https://pump.fun/profile/3jyYQz9QfTieUZ7LYddfJR9H4zsMsxtL9iNNb3rcYvsa",
+      "wallet_addresses": [
+        "3jyYQz9QfTieUZ7LYddfJR9H4zsMsxtL9iNNb3rcYvsa"
+      ],
+      "wallet_address": "3jyYQz9QfTieUZ7LYddfJR9H4zsMsxtL9iNNb3rcYvsa",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "3jyYQz9QfTieUZ7LYddfJR9H4zsMsxtL9iNNb3rcYvsa",
+          "status": "ok",
+          "lamports": 1767775,
+          "sol": "0.001767775",
+          "checked_at": "2026-10-15T23:21:14.909306+00:00",
+          "slot": 457418838,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:broik",
@@ -1178,7 +1818,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/BMgTdiymfNK3xv5EACXc59i79samd8ot3fkN3FLvX9DS"
+      "profile_url": "https://pump.fun/profile/BMgTdiymfNK3xv5EACXc59i79samd8ot3fkN3FLvX9DS",
+      "wallet_addresses": [
+        "BMgTdiymfNK3xv5EACXc59i79samd8ot3fkN3FLvX9DS"
+      ],
+      "wallet_address": "BMgTdiymfNK3xv5EACXc59i79samd8ot3fkN3FLvX9DS",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "BMgTdiymfNK3xv5EACXc59i79samd8ot3fkN3FLvX9DS",
+          "status": "ok",
+          "lamports": 7563360,
+          "sol": "0.00756336",
+          "checked_at": "2026-10-15T23:22:02.020836+00:00",
+          "slot": 457419060,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:broke20",
@@ -1200,7 +1856,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/4jWWqx2vaExs9jFhoq9B8yptKfcaHJfDZsj9GdzetPAT"
+      "profile_url": "https://pump.fun/profile/4jWWqx2vaExs9jFhoq9B8yptKfcaHJfDZsj9GdzetPAT",
+      "wallet_addresses": [
+        "4jWWqx2vaExs9jFhoq9B8yptKfcaHJfDZsj9GdzetPAT"
+      ],
+      "wallet_address": "4jWWqx2vaExs9jFhoq9B8yptKfcaHJfDZsj9GdzetPAT",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "4jWWqx2vaExs9jFhoq9B8yptKfcaHJfDZsj9GdzetPAT",
+          "status": "ok",
+          "lamports": 0,
+          "sol": "0",
+          "checked_at": "2026-10-15T23:21:21.450831+00:00",
+          "slot": 457418867,
+          "account_exists": false
+        }
+      ]
     },
     {
       "id": "pump:broke2moon_",
@@ -1223,7 +1895,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/Uitr63WJH7RqPMsxoi7dk8hm2i7dzqMuChonrrZunkM"
+      "profile_url": "https://pump.fun/profile/Uitr63WJH7RqPMsxoi7dk8hm2i7dzqMuChonrrZunkM",
+      "wallet_addresses": [
+        "Uitr63WJH7RqPMsxoi7dk8hm2i7dzqMuChonrrZunkM"
+      ],
+      "wallet_address": "Uitr63WJH7RqPMsxoi7dk8hm2i7dzqMuChonrrZunkM",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "Uitr63WJH7RqPMsxoi7dk8hm2i7dzqMuChonrrZunkM",
+          "status": "ok",
+          "lamports": 8103093,
+          "sol": "0.008103093",
+          "checked_at": "2026-10-15T23:22:45.753396+00:00",
+          "slot": 457419260,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:broke88",
@@ -1245,7 +1933,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/AW1uT8zFbfWXiPqpkaju11FX2AtBVApYPMk93GZuNkoc"
+      "profile_url": "https://pump.fun/profile/AW1uT8zFbfWXiPqpkaju11FX2AtBVApYPMk93GZuNkoc",
+      "wallet_addresses": [
+        "AW1uT8zFbfWXiPqpkaju11FX2AtBVApYPMk93GZuNkoc"
+      ],
+      "wallet_address": "AW1uT8zFbfWXiPqpkaju11FX2AtBVApYPMk93GZuNkoc",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "AW1uT8zFbfWXiPqpkaju11FX2AtBVApYPMk93GZuNkoc",
+          "status": "ok",
+          "lamports": 0,
+          "sol": "0",
+          "checked_at": "2026-10-15T23:21:56.711131+00:00",
+          "slot": 457419035,
+          "account_exists": false
+        }
+      ]
     },
     {
       "id": "pump:brokeaahbum",
@@ -1267,7 +1971,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/Dn2mibnszwhZRj4sKEsD48aJRffaYJS7ZjxnSBHvgiTd"
+      "profile_url": "https://pump.fun/profile/Dn2mibnszwhZRj4sKEsD48aJRffaYJS7ZjxnSBHvgiTd",
+      "wallet_addresses": [
+        "Dn2mibnszwhZRj4sKEsD48aJRffaYJS7ZjxnSBHvgiTd"
+      ],
+      "wallet_address": "Dn2mibnszwhZRj4sKEsD48aJRffaYJS7ZjxnSBHvgiTd",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "Dn2mibnszwhZRj4sKEsD48aJRffaYJS7ZjxnSBHvgiTd",
+          "status": "ok",
+          "lamports": 890880,
+          "sol": "0.00089088",
+          "checked_at": "2026-10-15T23:22:17.905388+00:00",
+          "slot": 457419129,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:brokeassszymek",
@@ -1287,7 +2007,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/DdBiZ6wdGp6g3YKwWpJj6ZzFDUQ8ChSpFGYhMyw5Vjfx"
+      "profile_url": "https://pump.fun/profile/DdBiZ6wdGp6g3YKwWpJj6ZzFDUQ8ChSpFGYhMyw5Vjfx",
+      "wallet_addresses": [
+        "DdBiZ6wdGp6g3YKwWpJj6ZzFDUQ8ChSpFGYhMyw5Vjfx"
+      ],
+      "wallet_address": "DdBiZ6wdGp6g3YKwWpJj6ZzFDUQ8ChSpFGYhMyw5Vjfx",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "DdBiZ6wdGp6g3YKwWpJj6ZzFDUQ8ChSpFGYhMyw5Vjfx",
+          "status": "ok",
+          "lamports": 4940422,
+          "sol": "0.004940422",
+          "checked_at": "2026-10-15T23:22:16.582127+00:00",
+          "slot": 457419123,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:brokeboyobie",
@@ -1313,7 +2049,23 @@
       "related_handles": [
         "x:brokeboyobie"
       ],
-      "profile_url": "https://pump.fun/profile/7Tq4tSb7SnrdHVu7jvj5cbkXzzuMaym2v26613ZjYouk"
+      "profile_url": "https://pump.fun/profile/7Tq4tSb7SnrdHVu7jvj5cbkXzzuMaym2v26613ZjYouk",
+      "wallet_addresses": [
+        "7Tq4tSb7SnrdHVu7jvj5cbkXzzuMaym2v26613ZjYouk"
+      ],
+      "wallet_address": "7Tq4tSb7SnrdHVu7jvj5cbkXzzuMaym2v26613ZjYouk",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "7Tq4tSb7SnrdHVu7jvj5cbkXzzuMaym2v26613ZjYouk",
+          "status": "ok",
+          "lamports": 861514295,
+          "sol": "0.861514295",
+          "checked_at": "2026-10-15T23:21:38.443200+00:00",
+          "slot": 457418947,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "x:brokeboyobie",
@@ -1340,7 +2092,11 @@
       "related_handles": [
         "pump:brokeboyobie"
       ],
-      "profile_url": "https://x.com/brokeboyobie"
+      "profile_url": "https://x.com/brokeboyobie",
+      "wallet_addresses": [],
+      "wallet_address": null,
+      "wallet_conflict": false,
+      "wallet_balances": []
     },
     {
       "id": "pump:brokeboysal",
@@ -1366,7 +2122,23 @@
       "related_handles": [
         "x:saldadegen"
       ],
-      "profile_url": "https://pump.fun/profile/2uPMf5vZmvRB8PfE8tiat56gchrpzoKbPzaadVmFKJo2"
+      "profile_url": "https://pump.fun/profile/2uPMf5vZmvRB8PfE8tiat56gchrpzoKbPzaadVmFKJo2",
+      "wallet_addresses": [
+        "2uPMf5vZmvRB8PfE8tiat56gchrpzoKbPzaadVmFKJo2"
+      ],
+      "wallet_address": "2uPMf5vZmvRB8PfE8tiat56gchrpzoKbPzaadVmFKJo2",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "2uPMf5vZmvRB8PfE8tiat56gchrpzoKbPzaadVmFKJo2",
+          "status": "ok",
+          "lamports": 1440631752,
+          "sol": "1.440631752",
+          "checked_at": "2026-10-15T23:21:11.008951+00:00",
+          "slot": 457418822,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:brokebull",
@@ -1389,7 +2161,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/HehKUNWjEFmokRaynpDAEy8ms7m9bHsKkt93mMkk5vb9"
+      "profile_url": "https://pump.fun/profile/HehKUNWjEFmokRaynpDAEy8ms7m9bHsKkt93mMkk5vb9",
+      "wallet_addresses": [
+        "HehKUNWjEFmokRaynpDAEy8ms7m9bHsKkt93mMkk5vb9"
+      ],
+      "wallet_address": "HehKUNWjEFmokRaynpDAEy8ms7m9bHsKkt93mMkk5vb9",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "HehKUNWjEFmokRaynpDAEy8ms7m9bHsKkt93mMkk5vb9",
+          "status": "ok",
+          "lamports": 19604710,
+          "sol": "0.01960471",
+          "checked_at": "2026-10-15T23:22:41.671622+00:00",
+          "slot": 457419240,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:brokedevtoken",
@@ -1409,7 +2197,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/FrBsgVoCZ4oFi6gbxXj6dRVcLAge33uazgm83z5UEddk"
+      "profile_url": "https://pump.fun/profile/FrBsgVoCZ4oFi6gbxXj6dRVcLAge33uazgm83z5UEddk",
+      "wallet_addresses": [
+        "FrBsgVoCZ4oFi6gbxXj6dRVcLAge33uazgm83z5UEddk"
+      ],
+      "wallet_address": "FrBsgVoCZ4oFi6gbxXj6dRVcLAge33uazgm83z5UEddk",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "FrBsgVoCZ4oFi6gbxXj6dRVcLAge33uazgm83z5UEddk",
+          "status": "ok",
+          "lamports": 3638120,
+          "sol": "0.00363812",
+          "checked_at": "2026-10-15T23:22:31.105922+00:00",
+          "slot": 457419189,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:brokefag",
@@ -1432,7 +2236,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/HQNAz1WazeywXTtvGJjmpjQ6GNXVs8pMprWAAyqoMiFj"
+      "profile_url": "https://pump.fun/profile/HQNAz1WazeywXTtvGJjmpjQ6GNXVs8pMprWAAyqoMiFj",
+      "wallet_addresses": [
+        "HQNAz1WazeywXTtvGJjmpjQ6GNXVs8pMprWAAyqoMiFj"
+      ],
+      "wallet_address": "HQNAz1WazeywXTtvGJjmpjQ6GNXVs8pMprWAAyqoMiFj",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "HQNAz1WazeywXTtvGJjmpjQ6GNXVs8pMprWAAyqoMiFj",
+          "status": "ok",
+          "lamports": 1509675647,
+          "sol": "1.509675647",
+          "checked_at": "2026-10-15T23:22:39.065095+00:00",
+          "slot": 457419227,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:brokefuck",
@@ -1454,7 +2274,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/DEReGLsJceJ8TGkPAq3BE5yjVC22DePZLY7m2FkV2dS5"
+      "profile_url": "https://pump.fun/profile/DEReGLsJceJ8TGkPAq3BE5yjVC22DePZLY7m2FkV2dS5",
+      "wallet_addresses": [
+        "DEReGLsJceJ8TGkPAq3BE5yjVC22DePZLY7m2FkV2dS5"
+      ],
+      "wallet_address": "DEReGLsJceJ8TGkPAq3BE5yjVC22DePZLY7m2FkV2dS5",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "DEReGLsJceJ8TGkPAq3BE5yjVC22DePZLY7m2FkV2dS5",
+          "status": "ok",
+          "lamports": 4356840,
+          "sol": "0.00435684",
+          "checked_at": "2026-10-15T23:22:13.973223+00:00",
+          "slot": 457419112,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:brokenn",
@@ -1477,7 +2313,23 @@
       "related_handles": [
         "x:thomasbritto420"
       ],
-      "profile_url": "https://pump.fun/profile/5Ctg59coc5Gws3qWkxWxqyzpS2QBKm4UGYC8D1dJb55q"
+      "profile_url": "https://pump.fun/profile/5Ctg59coc5Gws3qWkxWxqyzpS2QBKm4UGYC8D1dJb55q",
+      "wallet_addresses": [
+        "5Ctg59coc5Gws3qWkxWxqyzpS2QBKm4UGYC8D1dJb55q"
+      ],
+      "wallet_address": "5Ctg59coc5Gws3qWkxWxqyzpS2QBKm4UGYC8D1dJb55q",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "5Ctg59coc5Gws3qWkxWxqyzpS2QBKm4UGYC8D1dJb55q",
+          "status": "ok",
+          "lamports": 4499709,
+          "sol": "0.004499709",
+          "checked_at": "2026-10-15T23:21:24.052211+00:00",
+          "slot": 457418880,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:brokens",
@@ -1499,7 +2351,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/7H4zGRSnTo3Gg5mNmtu3qXoybv8Aq9fNyhuiJCgSmwyS"
+      "profile_url": "https://pump.fun/profile/7H4zGRSnTo3Gg5mNmtu3qXoybv8Aq9fNyhuiJCgSmwyS",
+      "wallet_addresses": [
+        "7H4zGRSnTo3Gg5mNmtu3qXoybv8Aq9fNyhuiJCgSmwyS"
+      ],
+      "wallet_address": "7H4zGRSnTo3Gg5mNmtu3qXoybv8Aq9fNyhuiJCgSmwyS",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "7H4zGRSnTo3Gg5mNmtu3qXoybv8Aq9fNyhuiJCgSmwyS",
+          "status": "ok",
+          "lamports": 4219993068,
+          "sol": "4.219993068",
+          "checked_at": "2026-10-15T23:21:37.164818+00:00",
+          "slot": 457418941,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:broki_girl_2005",
@@ -1522,7 +2390,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/FfGkpJ1sFmrmhGSvY4kwTRwjiTbjeUcWyziDd2QyAVPe"
+      "profile_url": "https://pump.fun/profile/FfGkpJ1sFmrmhGSvY4kwTRwjiTbjeUcWyziDd2QyAVPe",
+      "wallet_addresses": [
+        "FfGkpJ1sFmrmhGSvY4kwTRwjiTbjeUcWyziDd2QyAVPe"
+      ],
+      "wallet_address": "FfGkpJ1sFmrmhGSvY4kwTRwjiTbjeUcWyziDd2QyAVPe",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "FfGkpJ1sFmrmhGSvY4kwTRwjiTbjeUcWyziDd2QyAVPe",
+          "status": "ok",
+          "lamports": 0,
+          "sol": "0",
+          "checked_at": "2026-10-15T23:22:29.789398+00:00",
+          "slot": 457419183,
+          "account_exists": false
+        }
+      ]
     },
     {
       "id": "pump:bronz3r",
@@ -1545,7 +2429,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/8TnqS2TZ3rfPnAJBtaE4f9Myu3S2G7WuhPGoz3mHLets"
+      "profile_url": "https://pump.fun/profile/8TnqS2TZ3rfPnAJBtaE4f9Myu3S2G7WuhPGoz3mHLets",
+      "wallet_addresses": [
+        "8TnqS2TZ3rfPnAJBtaE4f9Myu3S2G7WuhPGoz3mHLets"
+      ],
+      "wallet_address": "8TnqS2TZ3rfPnAJBtaE4f9Myu3S2G7WuhPGoz3mHLets",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "8TnqS2TZ3rfPnAJBtaE4f9Myu3S2G7WuhPGoz3mHLets",
+          "status": "ok",
+          "lamports": 12971267840,
+          "sol": "12.97126784",
+          "checked_at": "2026-10-15T23:21:44.948993+00:00",
+          "slot": 457418978,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:bronzefieldboss",
@@ -1568,7 +2468,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/Dgw9PwgS6sAPNiMRXigJVd8DTKZrFUgrNQBXM3srxB6f"
+      "profile_url": "https://pump.fun/profile/Dgw9PwgS6sAPNiMRXigJVd8DTKZrFUgrNQBXM3srxB6f",
+      "wallet_addresses": [
+        "Dgw9PwgS6sAPNiMRXigJVd8DTKZrFUgrNQBXM3srxB6f"
+      ],
+      "wallet_address": "Dgw9PwgS6sAPNiMRXigJVd8DTKZrFUgrNQBXM3srxB6f",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "Dgw9PwgS6sAPNiMRXigJVd8DTKZrFUgrNQBXM3srxB6f",
+          "status": "ok",
+          "lamports": 1422552139,
+          "sol": "1.422552139",
+          "checked_at": "2026-10-15T23:22:16.582127+00:00",
+          "slot": 457419123,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:broom0x",
@@ -1594,7 +2510,23 @@
       "related_handles": [
         "x:broom0x"
       ],
-      "profile_url": "https://pump.fun/profile/4LTJU2qfJdmDuEQAmWXcf5hvkpomYrLebuTBz2svwRd4"
+      "profile_url": "https://pump.fun/profile/4LTJU2qfJdmDuEQAmWXcf5hvkpomYrLebuTBz2svwRd4",
+      "wallet_addresses": [
+        "4LTJU2qfJdmDuEQAmWXcf5hvkpomYrLebuTBz2svwRd4"
+      ],
+      "wallet_address": "4LTJU2qfJdmDuEQAmWXcf5hvkpomYrLebuTBz2svwRd4",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "4LTJU2qfJdmDuEQAmWXcf5hvkpomYrLebuTBz2svwRd4",
+          "status": "ok",
+          "lamports": 18182112,
+          "sol": "0.018182112",
+          "checked_at": "2026-10-15T23:21:18.874145+00:00",
+          "slot": 457418854,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "x:broom0x",
@@ -1621,7 +2553,11 @@
       "related_handles": [
         "pump:broom0x"
       ],
-      "profile_url": "https://x.com/broom0x"
+      "profile_url": "https://x.com/broom0x",
+      "wallet_addresses": [],
+      "wallet_address": null,
+      "wallet_conflict": false,
+      "wallet_balances": []
     },
     {
       "id": "pump:broskidudu",
@@ -1646,7 +2582,23 @@
       "related_handles": [
         "x:broskidudu"
       ],
-      "profile_url": "https://pump.fun/profile/EPfymziwqwYD3CcKVcS2LC3UDbyAitR6MHzX4MVUTA6K"
+      "profile_url": "https://pump.fun/profile/EPfymziwqwYD3CcKVcS2LC3UDbyAitR6MHzX4MVUTA6K",
+      "wallet_addresses": [
+        "EPfymziwqwYD3CcKVcS2LC3UDbyAitR6MHzX4MVUTA6K"
+      ],
+      "wallet_address": "EPfymziwqwYD3CcKVcS2LC3UDbyAitR6MHzX4MVUTA6K",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "EPfymziwqwYD3CcKVcS2LC3UDbyAitR6MHzX4MVUTA6K",
+          "status": "ok",
+          "lamports": 344137291,
+          "sol": "0.344137291",
+          "checked_at": "2026-10-15T23:22:21.908309+00:00",
+          "slot": 457419148,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "x:broskidudu",
@@ -1672,7 +2624,11 @@
       "related_handles": [
         "pump:broskidudu"
       ],
-      "profile_url": "https://x.com/broskidudu"
+      "profile_url": "https://x.com/broskidudu",
+      "wallet_addresses": [],
+      "wallet_address": null,
+      "wallet_conflict": false,
+      "wallet_balances": []
     },
     {
       "id": "pump:brother_hood_1",
@@ -1692,7 +2648,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/6iGHdC7uzy1cxRrWbF21s4Xe3xCjtLsA3sCrg949ZLm7"
+      "profile_url": "https://pump.fun/profile/6iGHdC7uzy1cxRrWbF21s4Xe3xCjtLsA3sCrg949ZLm7",
+      "wallet_addresses": [
+        "6iGHdC7uzy1cxRrWbF21s4Xe3xCjtLsA3sCrg949ZLm7"
+      ],
+      "wallet_address": "6iGHdC7uzy1cxRrWbF21s4Xe3xCjtLsA3sCrg949ZLm7",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "6iGHdC7uzy1cxRrWbF21s4Xe3xCjtLsA3sCrg949ZLm7",
+          "status": "ok",
+          "lamports": 8462604,
+          "sol": "0.008462604",
+          "checked_at": "2026-10-15T23:21:33.300535+00:00",
+          "slot": 457418922,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:brownhouse",
@@ -1714,7 +2686,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/789feV577habwDx93B9m9bSDaMq3p6qPnTz2NcvGr4bu"
+      "profile_url": "https://pump.fun/profile/789feV577habwDx93B9m9bSDaMq3p6qPnTz2NcvGr4bu",
+      "wallet_addresses": [
+        "789feV577habwDx93B9m9bSDaMq3p6qPnTz2NcvGr4bu"
+      ],
+      "wallet_address": "789feV577habwDx93B9m9bSDaMq3p6qPnTz2NcvGr4bu",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "789feV577habwDx93B9m9bSDaMq3p6qPnTz2NcvGr4bu",
+          "status": "ok",
+          "lamports": 0,
+          "sol": "0",
+          "checked_at": "2026-10-15T23:21:35.853728+00:00",
+          "slot": 457418935,
+          "account_exists": false
+        }
+      ]
     },
     {
       "id": "pump:brownieog",
@@ -1736,7 +2724,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/95jzj8iBE2qadvmk7iBPXwXb3X7PFDqM8aiZnvY4Q7Wd"
+      "profile_url": "https://pump.fun/profile/95jzj8iBE2qadvmk7iBPXwXb3X7PFDqM8aiZnvY4Q7Wd",
+      "wallet_addresses": [
+        "95jzj8iBE2qadvmk7iBPXwXb3X7PFDqM8aiZnvY4Q7Wd"
+      ],
+      "wallet_address": "95jzj8iBE2qadvmk7iBPXwXb3X7PFDqM8aiZnvY4Q7Wd",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "95jzj8iBE2qadvmk7iBPXwXb3X7PFDqM8aiZnvY4Q7Wd",
+          "status": "ok",
+          "lamports": 890880,
+          "sol": "0.00089088",
+          "checked_at": "2026-10-15T23:21:48.839889+00:00",
+          "slot": 457418997,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:brox",
@@ -1762,7 +2766,23 @@
       "related_handles": [
         "x:ohbrox"
       ],
-      "profile_url": "https://pump.fun/profile/7VBTpiiEjkwRbRGHJFUz6o5fWuhPFtAmy8JGhNqwHNnn"
+      "profile_url": "https://pump.fun/profile/7VBTpiiEjkwRbRGHJFUz6o5fWuhPFtAmy8JGhNqwHNnn",
+      "wallet_addresses": [
+        "7VBTpiiEjkwRbRGHJFUz6o5fWuhPFtAmy8JGhNqwHNnn"
+      ],
+      "wallet_address": "7VBTpiiEjkwRbRGHJFUz6o5fWuhPFtAmy8JGhNqwHNnn",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "7VBTpiiEjkwRbRGHJFUz6o5fWuhPFtAmy8JGhNqwHNnn",
+          "status": "ok",
+          "lamports": 326099162026,
+          "sol": "326.099162026",
+          "checked_at": "2026-10-15T23:21:38.443200+00:00",
+          "slot": 457418947,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:brrrrrr0000",
@@ -1785,7 +2805,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/FSJu3DbuwLYsNZYNBygudn4RzYfHWQNGJ3bu5nAAULF6"
+      "profile_url": "https://pump.fun/profile/FSJu3DbuwLYsNZYNBygudn4RzYfHWQNGJ3bu5nAAULF6",
+      "wallet_addresses": [
+        "FSJu3DbuwLYsNZYNBygudn4RzYfHWQNGJ3bu5nAAULF6"
+      ],
+      "wallet_address": "FSJu3DbuwLYsNZYNBygudn4RzYfHWQNGJ3bu5nAAULF6",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "FSJu3DbuwLYsNZYNBygudn4RzYfHWQNGJ3bu5nAAULF6",
+          "status": "ok",
+          "lamports": 4696327,
+          "sol": "0.004696327",
+          "checked_at": "2026-10-15T23:22:28.483953+00:00",
+          "slot": 457419177,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "x:brubowsky",
@@ -1812,7 +2848,11 @@
       "related_handles": [
         "pump:brunowsky"
       ],
-      "profile_url": "https://x.com/brubowsky"
+      "profile_url": "https://x.com/brubowsky",
+      "wallet_addresses": [],
+      "wallet_address": null,
+      "wallet_conflict": false,
+      "wallet_balances": []
     },
     {
       "id": "pump:brumbrum69",
@@ -1834,7 +2874,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/7MfJwQQX9HBpye5SE5dSoY2Jb9J4jNiALDGgQxx2sYZ5"
+      "profile_url": "https://pump.fun/profile/7MfJwQQX9HBpye5SE5dSoY2Jb9J4jNiALDGgQxx2sYZ5",
+      "wallet_addresses": [
+        "7MfJwQQX9HBpye5SE5dSoY2Jb9J4jNiALDGgQxx2sYZ5"
+      ],
+      "wallet_address": "7MfJwQQX9HBpye5SE5dSoY2Jb9J4jNiALDGgQxx2sYZ5",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "7MfJwQQX9HBpye5SE5dSoY2Jb9J4jNiALDGgQxx2sYZ5",
+          "status": "ok",
+          "lamports": 420871862,
+          "sol": "0.420871862",
+          "checked_at": "2026-10-15T23:21:37.164818+00:00",
+          "slot": 457418941,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:brunowsky",
@@ -1860,7 +2916,23 @@
       "related_handles": [
         "x:brubowsky"
       ],
-      "profile_url": "https://pump.fun/profile/GvTXquDAJbfrFrEGTPRPUj3WM5Bzub5yeTFzkLVHpjfD"
+      "profile_url": "https://pump.fun/profile/GvTXquDAJbfrFrEGTPRPUj3WM5Bzub5yeTFzkLVHpjfD",
+      "wallet_addresses": [
+        "GvTXquDAJbfrFrEGTPRPUj3WM5Bzub5yeTFzkLVHpjfD"
+      ],
+      "wallet_address": "GvTXquDAJbfrFrEGTPRPUj3WM5Bzub5yeTFzkLVHpjfD",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "GvTXquDAJbfrFrEGTPRPUj3WM5Bzub5yeTFzkLVHpjfD",
+          "status": "ok",
+          "lamports": 111655084401,
+          "sol": "111.655084401",
+          "checked_at": "2026-10-15T23:22:36.438168+00:00",
+          "slot": 457419216,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "x:brussell527",
@@ -1886,7 +2958,11 @@
       "related_handles": [
         "pump:bman527"
       ],
-      "profile_url": "https://x.com/brussell527"
+      "profile_url": "https://x.com/brussell527",
+      "wallet_addresses": [],
+      "wallet_address": null,
+      "wallet_conflict": false,
+      "wallet_balances": []
     },
     {
       "id": "pump:bruv24",
@@ -1911,7 +2987,23 @@
       "related_handles": [
         "x:central9dogma"
       ],
-      "profile_url": "https://pump.fun/profile/HJrDpLcmMAkVKa5CRBiqqQxnmD2tRW7AE7YkNXTwwg68"
+      "profile_url": "https://pump.fun/profile/HJrDpLcmMAkVKa5CRBiqqQxnmD2tRW7AE7YkNXTwwg68",
+      "wallet_addresses": [
+        "HJrDpLcmMAkVKa5CRBiqqQxnmD2tRW7AE7YkNXTwwg68"
+      ],
+      "wallet_address": "HJrDpLcmMAkVKa5CRBiqqQxnmD2tRW7AE7YkNXTwwg68",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "HJrDpLcmMAkVKa5CRBiqqQxnmD2tRW7AE7YkNXTwwg68",
+          "status": "ok",
+          "lamports": 11556636,
+          "sol": "0.011556636",
+          "checked_at": "2026-10-15T23:22:39.065095+00:00",
+          "slot": 457419227,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:bruzzsol",
@@ -1933,7 +3025,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/3pjzUzB1Vj8xYMQhXtXCuaHTHw8hhSErCNM8z4vWKQhv"
+      "profile_url": "https://pump.fun/profile/3pjzUzB1Vj8xYMQhXtXCuaHTHw8hhSErCNM8z4vWKQhv",
+      "wallet_addresses": [
+        "3pjzUzB1Vj8xYMQhXtXCuaHTHw8hhSErCNM8z4vWKQhv"
+      ],
+      "wallet_address": "3pjzUzB1Vj8xYMQhXtXCuaHTHw8hhSErCNM8z4vWKQhv",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "3pjzUzB1Vj8xYMQhXtXCuaHTHw8hhSErCNM8z4vWKQhv",
+          "status": "ok",
+          "lamports": 910896,
+          "sol": "0.000910896",
+          "checked_at": "2026-10-15T23:21:16.277433+00:00",
+          "slot": 457418842,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "x:bryantolbert79",
@@ -1960,7 +3068,11 @@
       "related_handles": [
         "pump:bthighlyfavored"
       ],
-      "profile_url": "https://x.com/bryantolbert79"
+      "profile_url": "https://x.com/bryantolbert79",
+      "wallet_addresses": [],
+      "wallet_address": null,
+      "wallet_conflict": false,
+      "wallet_balances": []
     },
     {
       "id": "x:brycehall",
@@ -1987,7 +3099,11 @@
       "related_handles": [
         "pump:brycehall420"
       ],
-      "profile_url": "https://x.com/brycehall"
+      "profile_url": "https://x.com/brycehall",
+      "wallet_addresses": [],
+      "wallet_address": null,
+      "wallet_conflict": false,
+      "wallet_balances": []
     },
     {
       "id": "pump:brycehall420",
@@ -2013,7 +3129,23 @@
       "related_handles": [
         "x:brycehall"
       ],
-      "profile_url": "https://pump.fun/profile/8JghQasNERcZUhigqUKZefWhnTZctV8yTES762zjFiTd"
+      "profile_url": "https://pump.fun/profile/8JghQasNERcZUhigqUKZefWhnTZctV8yTES762zjFiTd",
+      "wallet_addresses": [
+        "8JghQasNERcZUhigqUKZefWhnTZctV8yTES762zjFiTd"
+      ],
+      "wallet_address": "8JghQasNERcZUhigqUKZefWhnTZctV8yTES762zjFiTd",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "8JghQasNERcZUhigqUKZefWhnTZctV8yTES762zjFiTd",
+          "status": "ok",
+          "lamports": 2742849632,
+          "sol": "2.742849632",
+          "checked_at": "2026-10-15T23:21:43.664113+00:00",
+          "slot": 457418971,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:brycx",
@@ -2039,7 +3171,23 @@
       "related_handles": [
         "x:brycxfn"
       ],
-      "profile_url": "https://pump.fun/profile/2SEHZgVV4qSyn2DnKZzY6WBACrxztunufZ8LSfMLZuFc"
+      "profile_url": "https://pump.fun/profile/2SEHZgVV4qSyn2DnKZzY6WBACrxztunufZ8LSfMLZuFc",
+      "wallet_addresses": [
+        "2SEHZgVV4qSyn2DnKZzY6WBACrxztunufZ8LSfMLZuFc"
+      ],
+      "wallet_address": "2SEHZgVV4qSyn2DnKZzY6WBACrxztunufZ8LSfMLZuFc",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "2SEHZgVV4qSyn2DnKZzY6WBACrxztunufZ8LSfMLZuFc",
+          "status": "ok",
+          "lamports": 11239728292,
+          "sol": "11.239728292",
+          "checked_at": "2026-10-15T23:21:08.321963+00:00",
+          "slot": 457418810,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "x:brycxfn",
@@ -2066,7 +3214,11 @@
       "related_handles": [
         "pump:brycx"
       ],
-      "profile_url": "https://x.com/brycxfn"
+      "profile_url": "https://x.com/brycxfn",
+      "wallet_addresses": [],
+      "wallet_address": null,
+      "wallet_conflict": false,
+      "wallet_balances": []
     },
     {
       "id": "x:bryon_browning6",
@@ -2092,7 +3244,11 @@
       "related_handles": [
         "pump:brainrotwhisper"
       ],
-      "profile_url": "https://x.com/bryon_browning6"
+      "profile_url": "https://x.com/bryon_browning6",
+      "wallet_addresses": [],
+      "wallet_address": null,
+      "wallet_conflict": false,
+      "wallet_balances": []
     },
     {
       "id": "pump:bryptokenneth",
@@ -2117,7 +3273,23 @@
       "related_handles": [
         "x:bryptokenneth3"
       ],
-      "profile_url": "https://pump.fun/profile/2Jdy7Szgq9Q1XAaCpeChWB7xYKNeLnbVzmdfctjCypwh"
+      "profile_url": "https://pump.fun/profile/2Jdy7Szgq9Q1XAaCpeChWB7xYKNeLnbVzmdfctjCypwh",
+      "wallet_addresses": [
+        "2Jdy7Szgq9Q1XAaCpeChWB7xYKNeLnbVzmdfctjCypwh"
+      ],
+      "wallet_address": "2Jdy7Szgq9Q1XAaCpeChWB7xYKNeLnbVzmdfctjCypwh",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "2Jdy7Szgq9Q1XAaCpeChWB7xYKNeLnbVzmdfctjCypwh",
+          "status": "ok",
+          "lamports": 25575294893,
+          "sol": "25.575294893",
+          "checked_at": "2026-10-15T23:21:06.980039+00:00",
+          "slot": 457418804,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "x:bryptokenneth3",
@@ -2143,7 +3315,11 @@
       "related_handles": [
         "pump:bryptokenneth"
       ],
-      "profile_url": "https://x.com/bryptokenneth3"
+      "profile_url": "https://x.com/bryptokenneth3",
+      "wallet_addresses": [],
+      "wallet_address": null,
+      "wallet_conflict": false,
+      "wallet_balances": []
     },
     {
       "id": "pump:bsol_x",
@@ -2169,7 +3345,23 @@
       "related_handles": [
         "x:bsol_x"
       ],
-      "profile_url": "https://pump.fun/profile/9EkcRCqFHP3QxyMmtMUNKLZSa6YrU7Uhc8yQNdKf34Eg"
+      "profile_url": "https://pump.fun/profile/9EkcRCqFHP3QxyMmtMUNKLZSa6YrU7Uhc8yQNdKf34Eg",
+      "wallet_addresses": [
+        "9EkcRCqFHP3QxyMmtMUNKLZSa6YrU7Uhc8yQNdKf34Eg"
+      ],
+      "wallet_address": "9EkcRCqFHP3QxyMmtMUNKLZSa6YrU7Uhc8yQNdKf34Eg",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "9EkcRCqFHP3QxyMmtMUNKLZSa6YrU7Uhc8yQNdKf34Eg",
+          "status": "ok",
+          "lamports": 71603752,
+          "sol": "0.071603752",
+          "checked_at": "2026-10-15T23:21:48.839889+00:00",
+          "slot": 457418997,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "x:bsol_x",
@@ -2196,7 +3388,11 @@
       "related_handles": [
         "pump:bsol_x"
       ],
-      "profile_url": "https://x.com/bsol_x"
+      "profile_url": "https://x.com/bsol_x",
+      "wallet_addresses": [],
+      "wallet_address": null,
+      "wallet_conflict": false,
+      "wallet_balances": []
     },
     {
       "id": "pump:btc_homie",
@@ -2218,7 +3414,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/7o6Hh5KcirnYXBd8arCXCcUVw628tDT4CKeHk1cKuz1W"
+      "profile_url": "https://pump.fun/profile/7o6Hh5KcirnYXBd8arCXCcUVw628tDT4CKeHk1cKuz1W",
+      "wallet_addresses": [
+        "7o6Hh5KcirnYXBd8arCXCcUVw628tDT4CKeHk1cKuz1W"
+      ],
+      "wallet_address": "7o6Hh5KcirnYXBd8arCXCcUVw628tDT4CKeHk1cKuz1W",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "7o6Hh5KcirnYXBd8arCXCcUVw628tDT4CKeHk1cKuz1W",
+          "status": "ok",
+          "lamports": 127730978,
+          "sol": "0.127730978",
+          "checked_at": "2026-10-15T23:21:39.764284+00:00",
+          "slot": 457418953,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:btc_wzrd",
@@ -2241,7 +3453,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/FtcBAZTttxaCGUTyWmvMm5fvvDRrawo2GrN8wYCnZY1f"
+      "profile_url": "https://pump.fun/profile/FtcBAZTttxaCGUTyWmvMm5fvvDRrawo2GrN8wYCnZY1f",
+      "wallet_addresses": [
+        "FtcBAZTttxaCGUTyWmvMm5fvvDRrawo2GrN8wYCnZY1f"
+      ],
+      "wallet_address": "FtcBAZTttxaCGUTyWmvMm5fvvDRrawo2GrN8wYCnZY1f",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "FtcBAZTttxaCGUTyWmvMm5fvvDRrawo2GrN8wYCnZY1f",
+          "status": "ok",
+          "lamports": 0,
+          "sol": "0",
+          "checked_at": "2026-10-15T23:22:31.105922+00:00",
+          "slot": 457419189,
+          "account_exists": false
+        }
+      ]
     },
     {
       "id": "x:btcbuythecat",
@@ -2267,7 +3495,11 @@
       "related_handles": [
         "pump:catoshinakameme"
       ],
-      "profile_url": "https://x.com/btcbuythecat"
+      "profile_url": "https://x.com/btcbuythecat",
+      "wallet_addresses": [],
+      "wallet_address": null,
+      "wallet_conflict": false,
+      "wallet_balances": []
     },
     {
       "id": "pump:bthighlyfavored",
@@ -2293,7 +3525,23 @@
       "related_handles": [
         "x:bryantolbert79"
       ],
-      "profile_url": "https://pump.fun/profile/3iwsr9782Gp9xtRyK2ZkHC85uG7YnQWHYtWKptA4HqXS"
+      "profile_url": "https://pump.fun/profile/3iwsr9782Gp9xtRyK2ZkHC85uG7YnQWHYtWKptA4HqXS",
+      "wallet_addresses": [
+        "3iwsr9782Gp9xtRyK2ZkHC85uG7YnQWHYtWKptA4HqXS"
+      ],
+      "wallet_address": "3iwsr9782Gp9xtRyK2ZkHC85uG7YnQWHYtWKptA4HqXS",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "3iwsr9782Gp9xtRyK2ZkHC85uG7YnQWHYtWKptA4HqXS",
+          "status": "ok",
+          "lamports": 3671715,
+          "sol": "0.003671715",
+          "checked_at": "2026-10-15T23:21:14.909306+00:00",
+          "slot": 457418838,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "x:bu13877",
@@ -2319,7 +3567,11 @@
       "related_handles": [
         "pump:vonz"
       ],
-      "profile_url": "https://x.com/bu13877"
+      "profile_url": "https://x.com/bu13877",
+      "wallet_addresses": [],
+      "wallet_address": null,
+      "wallet_conflict": false,
+      "wallet_balances": []
     },
     {
       "id": "pump:bubbarackz42",
@@ -2341,7 +3593,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/DyHnnF6gMFn34GgPMMKYiUAdbSLxwWhTaapudemx9fLB"
+      "profile_url": "https://pump.fun/profile/DyHnnF6gMFn34GgPMMKYiUAdbSLxwWhTaapudemx9fLB",
+      "wallet_addresses": [
+        "DyHnnF6gMFn34GgPMMKYiUAdbSLxwWhTaapudemx9fLB"
+      ],
+      "wallet_address": "DyHnnF6gMFn34GgPMMKYiUAdbSLxwWhTaapudemx9fLB",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "DyHnnF6gMFn34GgPMMKYiUAdbSLxwWhTaapudemx9fLB",
+          "status": "ok",
+          "lamports": 865129985,
+          "sol": "0.865129985",
+          "checked_at": "2026-10-15T23:22:19.245146+00:00",
+          "slot": 457419135,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:bubblegum",
@@ -2364,7 +3632,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/DY1nBAXk7ou6fNy2UraLeFeFvW81ZkHkanoUJASo9Xpg"
+      "profile_url": "https://pump.fun/profile/DY1nBAXk7ou6fNy2UraLeFeFvW81ZkHkanoUJASo9Xpg",
+      "wallet_addresses": [
+        "DY1nBAXk7ou6fNy2UraLeFeFvW81ZkHkanoUJASo9Xpg"
+      ],
+      "wallet_address": "DY1nBAXk7ou6fNy2UraLeFeFvW81ZkHkanoUJASo9Xpg",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "DY1nBAXk7ou6fNy2UraLeFeFvW81ZkHkanoUJASo9Xpg",
+          "status": "ok",
+          "lamports": 112851420,
+          "sol": "0.11285142",
+          "checked_at": "2026-10-15T23:22:16.582127+00:00",
+          "slot": 457419123,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:bubbleruralbath",
@@ -2386,7 +3670,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/61JEhXsSjqqEsMPHkF15KEVAS8BcgTKZU7FLjaKoHyH"
+      "profile_url": "https://pump.fun/profile/61JEhXsSjqqEsMPHkF15KEVAS8BcgTKZU7FLjaKoHyH",
+      "wallet_addresses": [
+        "61JEhXsSjqqEsMPHkF15KEVAS8BcgTKZU7FLjaKoHyH"
+      ],
+      "wallet_address": "61JEhXsSjqqEsMPHkF15KEVAS8BcgTKZU7FLjaKoHyH",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "61JEhXsSjqqEsMPHkF15KEVAS8BcgTKZU7FLjaKoHyH",
+          "status": "ok",
+          "lamports": 104925474,
+          "sol": "0.104925474",
+          "checked_at": "2026-10-15T23:21:29.392900+00:00",
+          "slot": 457418904,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "x:buce2021",
@@ -2413,7 +3713,11 @@
       "related_handles": [
         "pump:buce2026"
       ],
-      "profile_url": "https://x.com/buce2021"
+      "profile_url": "https://x.com/buce2021",
+      "wallet_addresses": [],
+      "wallet_address": null,
+      "wallet_conflict": false,
+      "wallet_balances": []
     },
     {
       "id": "pump:buce2026",
@@ -2439,7 +3743,23 @@
       "related_handles": [
         "x:buce2021"
       ],
-      "profile_url": "https://pump.fun/profile/C61G5syVzV6CSKJouE9CEGPgAeXZie1ctowiuVyfG1J6"
+      "profile_url": "https://pump.fun/profile/C61G5syVzV6CSKJouE9CEGPgAeXZie1ctowiuVyfG1J6",
+      "wallet_addresses": [
+        "C61G5syVzV6CSKJouE9CEGPgAeXZie1ctowiuVyfG1J6"
+      ],
+      "wallet_address": "C61G5syVzV6CSKJouE9CEGPgAeXZie1ctowiuVyfG1J6",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "C61G5syVzV6CSKJouE9CEGPgAeXZie1ctowiuVyfG1J6",
+          "status": "ok",
+          "lamports": 2448783661,
+          "sol": "2.448783661",
+          "checked_at": "2026-10-15T23:22:05.998902+00:00",
+          "slot": 457419077,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:buck_",
@@ -2461,7 +3781,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/FaNaUysvKBbfoRAhu7P7R5wPfHe7PaCXs9xy5LgLj3gu"
+      "profile_url": "https://pump.fun/profile/FaNaUysvKBbfoRAhu7P7R5wPfHe7PaCXs9xy5LgLj3gu",
+      "wallet_addresses": [
+        "FaNaUysvKBbfoRAhu7P7R5wPfHe7PaCXs9xy5LgLj3gu"
+      ],
+      "wallet_address": "FaNaUysvKBbfoRAhu7P7R5wPfHe7PaCXs9xy5LgLj3gu",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "FaNaUysvKBbfoRAhu7P7R5wPfHe7PaCXs9xy5LgLj3gu",
+          "status": "ok",
+          "lamports": 19547060174,
+          "sol": "19.547060174",
+          "checked_at": "2026-10-15T23:22:28.483953+00:00",
+          "slot": 457419177,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:buckfdo",
@@ -2481,7 +3817,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/CqYhhGDRdNKHKDPUe89uRUkfWq1LVkGp4XDPYWTA7mej"
+      "profile_url": "https://pump.fun/profile/CqYhhGDRdNKHKDPUe89uRUkfWq1LVkGp4XDPYWTA7mej",
+      "wallet_addresses": [
+        "CqYhhGDRdNKHKDPUe89uRUkfWq1LVkGp4XDPYWTA7mej"
+      ],
+      "wallet_address": "CqYhhGDRdNKHKDPUe89uRUkfWq1LVkGp4XDPYWTA7mej",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "CqYhhGDRdNKHKDPUe89uRUkfWq1LVkGp4XDPYWTA7mej",
+          "status": "ok",
+          "lamports": 6604000,
+          "sol": "0.006604",
+          "checked_at": "2026-10-15T23:22:11.283649+00:00",
+          "slot": 457419099,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:buckthrusthorn",
@@ -2504,7 +3856,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/BQTim1eWa2Ypc7GctDFL9jCJwxJad3xtSh7muDRwMQ4J"
+      "profile_url": "https://pump.fun/profile/BQTim1eWa2Ypc7GctDFL9jCJwxJad3xtSh7muDRwMQ4J",
+      "wallet_addresses": [
+        "BQTim1eWa2Ypc7GctDFL9jCJwxJad3xtSh7muDRwMQ4J"
+      ],
+      "wallet_address": "BQTim1eWa2Ypc7GctDFL9jCJwxJad3xtSh7muDRwMQ4J",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "BQTim1eWa2Ypc7GctDFL9jCJwxJad3xtSh7muDRwMQ4J",
+          "status": "ok",
+          "lamports": 16917645,
+          "sol": "0.016917645",
+          "checked_at": "2026-10-15T23:22:02.020836+00:00",
+          "slot": 457419060,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:buckyohare",
@@ -2527,7 +3895,23 @@
       "related_handles": [
         "x:jokhja"
       ],
-      "profile_url": "https://pump.fun/profile/3GR8PBj4jgBDJYD4Rw7PZt7PMKogezvXeDCPUJd62zpD"
+      "profile_url": "https://pump.fun/profile/3GR8PBj4jgBDJYD4Rw7PZt7PMKogezvXeDCPUJd62zpD",
+      "wallet_addresses": [
+        "3GR8PBj4jgBDJYD4Rw7PZt7PMKogezvXeDCPUJd62zpD"
+      ],
+      "wallet_address": "3GR8PBj4jgBDJYD4Rw7PZt7PMKogezvXeDCPUJd62zpD",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "3GR8PBj4jgBDJYD4Rw7PZt7PMKogezvXeDCPUJd62zpD",
+          "status": "ok",
+          "lamports": 38597292,
+          "sol": "0.038597292",
+          "checked_at": "2026-10-15T23:21:12.288853+00:00",
+          "slot": 457418828,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:bucsguy69",
@@ -2549,7 +3933,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/EZSGyKtfe786CoFuCEadT1oXKQ57D4g2njQ6QKuWzQay"
+      "profile_url": "https://pump.fun/profile/EZSGyKtfe786CoFuCEadT1oXKQ57D4g2njQ6QKuWzQay",
+      "wallet_addresses": [
+        "EZSGyKtfe786CoFuCEadT1oXKQ57D4g2njQ6QKuWzQay"
+      ],
+      "wallet_address": "EZSGyKtfe786CoFuCEadT1oXKQ57D4g2njQ6QKuWzQay",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "EZSGyKtfe786CoFuCEadT1oXKQ57D4g2njQ6QKuWzQay",
+          "status": "ok",
+          "lamports": 0,
+          "sol": "0",
+          "checked_at": "2026-10-15T23:22:23.234805+00:00",
+          "slot": 457419154,
+          "account_exists": false
+        }
+      ]
     },
     {
       "id": "pump:buddhaaaaa",
@@ -2575,7 +3975,23 @@
       "related_handles": [
         "x:mofo_chad"
       ],
-      "profile_url": "https://pump.fun/profile/3VUNtVtjjx5ckUojT7UocJ5fbuAJRsNUXNfTBnPte9vC"
+      "profile_url": "https://pump.fun/profile/3VUNtVtjjx5ckUojT7UocJ5fbuAJRsNUXNfTBnPte9vC",
+      "wallet_addresses": [
+        "3VUNtVtjjx5ckUojT7UocJ5fbuAJRsNUXNfTBnPte9vC"
+      ],
+      "wallet_address": "3VUNtVtjjx5ckUojT7UocJ5fbuAJRsNUXNfTBnPte9vC",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "3VUNtVtjjx5ckUojT7UocJ5fbuAJRsNUXNfTBnPte9vC",
+          "status": "ok",
+          "lamports": 112468762734,
+          "sol": "112.468762734",
+          "checked_at": "2026-10-15T23:21:13.595056+00:00",
+          "slot": 457418834,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:buddieflowerz",
@@ -2601,7 +4017,23 @@
       "related_handles": [
         "x:buddieflowerz"
       ],
-      "profile_url": "https://pump.fun/profile/6gugkywYX8J5XCwQQXMPHHKcQQ1juMcTGa2V7gUFTTub"
+      "profile_url": "https://pump.fun/profile/6gugkywYX8J5XCwQQXMPHHKcQQ1juMcTGa2V7gUFTTub",
+      "wallet_addresses": [
+        "6gugkywYX8J5XCwQQXMPHHKcQQ1juMcTGa2V7gUFTTub"
+      ],
+      "wallet_address": "6gugkywYX8J5XCwQQXMPHHKcQQ1juMcTGa2V7gUFTTub",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "6gugkywYX8J5XCwQQXMPHHKcQQ1juMcTGa2V7gUFTTub",
+          "status": "ok",
+          "lamports": 5527960,
+          "sol": "0.00552796",
+          "checked_at": "2026-10-15T23:21:33.300535+00:00",
+          "slot": 457418922,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "x:buddieflowerz",
@@ -2628,7 +4060,11 @@
       "related_handles": [
         "pump:buddieflowerz"
       ],
-      "profile_url": "https://x.com/buddieflowerz"
+      "profile_url": "https://x.com/buddieflowerz",
+      "wallet_addresses": [],
+      "wallet_address": null,
+      "wallet_conflict": false,
+      "wallet_balances": []
     },
     {
       "id": "pump:bugacys",
@@ -2650,7 +4086,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/8ncEQkzTDJFzJGPZn2SidKHq21uB4kWqBLdvewp4oRoa"
+      "profile_url": "https://pump.fun/profile/8ncEQkzTDJFzJGPZn2SidKHq21uB4kWqBLdvewp4oRoa",
+      "wallet_addresses": [
+        "8ncEQkzTDJFzJGPZn2SidKHq21uB4kWqBLdvewp4oRoa"
+      ],
+      "wallet_address": "8ncEQkzTDJFzJGPZn2SidKHq21uB4kWqBLdvewp4oRoa",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "8ncEQkzTDJFzJGPZn2SidKHq21uB4kWqBLdvewp4oRoa",
+          "status": "ok",
+          "lamports": 83972044,
+          "sol": "0.083972044",
+          "checked_at": "2026-10-15T23:21:46.283137+00:00",
+          "slot": 457418984,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:buggis1",
@@ -2670,7 +4122,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/8thchUrjVPezXgrEM9VhmS7fbx21tUShppWQGseeJ3aB"
+      "profile_url": "https://pump.fun/profile/8thchUrjVPezXgrEM9VhmS7fbx21tUShppWQGseeJ3aB",
+      "wallet_addresses": [
+        "8thchUrjVPezXgrEM9VhmS7fbx21tUShppWQGseeJ3aB"
+      ],
+      "wallet_address": "8thchUrjVPezXgrEM9VhmS7fbx21tUShppWQGseeJ3aB",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "8thchUrjVPezXgrEM9VhmS7fbx21tUShppWQGseeJ3aB",
+          "status": "ok",
+          "lamports": 3009731,
+          "sol": "0.003009731",
+          "checked_at": "2026-10-15T23:21:47.575554+00:00",
+          "slot": 457418989,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:buho",
@@ -2693,7 +4161,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/5zd2qbRwpwf2w9rTa9R6mW4WpJSTjoPzFRqvVMchTksL"
+      "profile_url": "https://pump.fun/profile/5zd2qbRwpwf2w9rTa9R6mW4WpJSTjoPzFRqvVMchTksL",
+      "wallet_addresses": [
+        "5zd2qbRwpwf2w9rTa9R6mW4WpJSTjoPzFRqvVMchTksL"
+      ],
+      "wallet_address": "5zd2qbRwpwf2w9rTa9R6mW4WpJSTjoPzFRqvVMchTksL",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "5zd2qbRwpwf2w9rTa9R6mW4WpJSTjoPzFRqvVMchTksL",
+          "status": "ok",
+          "lamports": 1533991,
+          "sol": "0.001533991",
+          "checked_at": "2026-10-15T23:21:29.392900+00:00",
+          "slot": 457418904,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:buhrito",
@@ -2713,7 +4197,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/85vGb5CgmFwWx4W9vY2fcSJnL8SQQmQ5iR4pkXADiYEZ"
+      "profile_url": "https://pump.fun/profile/85vGb5CgmFwWx4W9vY2fcSJnL8SQQmQ5iR4pkXADiYEZ",
+      "wallet_addresses": [
+        "85vGb5CgmFwWx4W9vY2fcSJnL8SQQmQ5iR4pkXADiYEZ"
+      ],
+      "wallet_address": "85vGb5CgmFwWx4W9vY2fcSJnL8SQQmQ5iR4pkXADiYEZ",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "85vGb5CgmFwWx4W9vY2fcSJnL8SQQmQ5iR4pkXADiYEZ",
+          "status": "ok",
+          "lamports": 27197787,
+          "sol": "0.027197787",
+          "checked_at": "2026-10-15T23:21:42.349931+00:00",
+          "slot": 457418964,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "x:bujaeyo",
@@ -2739,7 +4239,11 @@
       "related_handles": [
         "pump:hachuping"
       ],
-      "profile_url": "https://x.com/bujaeyo"
+      "profile_url": "https://x.com/bujaeyo",
+      "wallet_addresses": [],
+      "wallet_address": null,
+      "wallet_conflict": false,
+      "wallet_balances": []
     },
     {
       "id": "pump:bukasphere",
@@ -2765,7 +4269,23 @@
       "related_handles": [
         "x:bukasphere"
       ],
-      "profile_url": "https://pump.fun/profile/8T1HF5gr2fcULHv3j3nu4koGALCmc8puGGonggmwfg55"
+      "profile_url": "https://pump.fun/profile/8T1HF5gr2fcULHv3j3nu4koGALCmc8puGGonggmwfg55",
+      "wallet_addresses": [
+        "8T1HF5gr2fcULHv3j3nu4koGALCmc8puGGonggmwfg55"
+      ],
+      "wallet_address": "8T1HF5gr2fcULHv3j3nu4koGALCmc8puGGonggmwfg55",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "8T1HF5gr2fcULHv3j3nu4koGALCmc8puGGonggmwfg55",
+          "status": "ok",
+          "lamports": 1628890091,
+          "sol": "1.628890091",
+          "checked_at": "2026-10-15T23:21:44.948993+00:00",
+          "slot": 457418978,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "x:bukasphere",
@@ -2792,7 +4312,11 @@
       "related_handles": [
         "pump:bukasphere"
       ],
-      "profile_url": "https://x.com/bukasphere"
+      "profile_url": "https://x.com/bukasphere",
+      "wallet_addresses": [],
+      "wallet_address": null,
+      "wallet_conflict": false,
+      "wallet_balances": []
     },
     {
       "id": "pump:bulbquant",
@@ -2814,7 +4338,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/792em9t2tiNqecDxgpBcLmdgHtgAAtUYaMocPFLkDQHC"
+      "profile_url": "https://pump.fun/profile/792em9t2tiNqecDxgpBcLmdgHtgAAtUYaMocPFLkDQHC",
+      "wallet_addresses": [
+        "792em9t2tiNqecDxgpBcLmdgHtgAAtUYaMocPFLkDQHC"
+      ],
+      "wallet_address": "792em9t2tiNqecDxgpBcLmdgHtgAAtUYaMocPFLkDQHC",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "792em9t2tiNqecDxgpBcLmdgHtgAAtUYaMocPFLkDQHC",
+          "status": "ok",
+          "lamports": 585168071,
+          "sol": "0.585168071",
+          "checked_at": "2026-10-15T23:21:35.853728+00:00",
+          "slot": 457418935,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:bulgingshark697",
@@ -2837,7 +4377,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/7ioEZjdGdciB2jS79Rc8yqrsYanf2Q1YejHjNcQZLkER"
+      "profile_url": "https://pump.fun/profile/7ioEZjdGdciB2jS79Rc8yqrsYanf2Q1YejHjNcQZLkER",
+      "wallet_addresses": [
+        "7ioEZjdGdciB2jS79Rc8yqrsYanf2Q1YejHjNcQZLkER"
+      ],
+      "wallet_address": "7ioEZjdGdciB2jS79Rc8yqrsYanf2Q1YejHjNcQZLkER",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "7ioEZjdGdciB2jS79Rc8yqrsYanf2Q1YejHjNcQZLkER",
+          "status": "ok",
+          "lamports": 60418829873,
+          "sol": "60.418829873",
+          "checked_at": "2026-10-15T23:21:39.764284+00:00",
+          "slot": 457418953,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:bulkytuna85591",
@@ -2860,7 +4416,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/catK9v3gp2dd32bkUxDEst4BarwDoCL3pkFfVoVjcgi"
+      "profile_url": "https://pump.fun/profile/catK9v3gp2dd32bkUxDEst4BarwDoCL3pkFfVoVjcgi",
+      "wallet_addresses": [
+        "catK9v3gp2dd32bkUxDEst4BarwDoCL3pkFfVoVjcgi"
+      ],
+      "wallet_address": "catK9v3gp2dd32bkUxDEst4BarwDoCL3pkFfVoVjcgi",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "catK9v3gp2dd32bkUxDEst4BarwDoCL3pkFfVoVjcgi",
+          "status": "ok",
+          "lamports": 446877358298,
+          "sol": "446.877358298",
+          "checked_at": "2026-10-15T23:22:47.056319+00:00",
+          "slot": 457419266,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:bull12345",
@@ -2883,7 +4455,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/argBY3beN7VRYuDCiwktZ9sDSG3UncrpzSwjQ83pwER"
+      "profile_url": "https://pump.fun/profile/argBY3beN7VRYuDCiwktZ9sDSG3UncrpzSwjQ83pwER",
+      "wallet_addresses": [
+        "argBY3beN7VRYuDCiwktZ9sDSG3UncrpzSwjQ83pwER"
+      ],
+      "wallet_address": "argBY3beN7VRYuDCiwktZ9sDSG3UncrpzSwjQ83pwER",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "argBY3beN7VRYuDCiwktZ9sDSG3UncrpzSwjQ83pwER",
+          "status": "ok",
+          "lamports": 3519795,
+          "sol": "0.003519795",
+          "checked_at": "2026-10-15T23:22:47.056319+00:00",
+          "slot": 457419266,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:bullasian",
@@ -2905,7 +4493,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/WW4cHsAZCFY2DAg7vvkJTX2o871CX93j6vTP8wjhACS"
+      "profile_url": "https://pump.fun/profile/WW4cHsAZCFY2DAg7vvkJTX2o871CX93j6vTP8wjhACS",
+      "wallet_addresses": [
+        "WW4cHsAZCFY2DAg7vvkJTX2o871CX93j6vTP8wjhACS"
+      ],
+      "wallet_address": "WW4cHsAZCFY2DAg7vvkJTX2o871CX93j6vTP8wjhACS",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "WW4cHsAZCFY2DAg7vvkJTX2o871CX93j6vTP8wjhACS",
+          "status": "ok",
+          "lamports": 15467925,
+          "sol": "0.015467925",
+          "checked_at": "2026-10-15T23:22:45.753396+00:00",
+          "slot": 457419260,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:bullfrogger",
@@ -2928,7 +4532,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/H8geSateJ2T1jwS3KNb7CpadgNTSRy5JBtzYAuaovhBd"
+      "profile_url": "https://pump.fun/profile/H8geSateJ2T1jwS3KNb7CpadgNTSRy5JBtzYAuaovhBd",
+      "wallet_addresses": [
+        "H8geSateJ2T1jwS3KNb7CpadgNTSRy5JBtzYAuaovhBd"
+      ],
+      "wallet_address": "H8geSateJ2T1jwS3KNb7CpadgNTSRy5JBtzYAuaovhBd",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "H8geSateJ2T1jwS3KNb7CpadgNTSRy5JBtzYAuaovhBd",
+          "status": "ok",
+          "lamports": 444547642,
+          "sol": "0.444547642",
+          "checked_at": "2026-10-15T23:22:37.758727+00:00",
+          "slot": 457419222,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:bullieacctdead",
@@ -2954,7 +4574,23 @@
       "related_handles": [
         "x:bullieonchain"
       ],
-      "profile_url": "https://pump.fun/profile/GjXobpiEexQqqLkghB29AtcwyJRokbeGDSkz8Kn7GGr1"
+      "profile_url": "https://pump.fun/profile/GjXobpiEexQqqLkghB29AtcwyJRokbeGDSkz8Kn7GGr1",
+      "wallet_addresses": [
+        "GjXobpiEexQqqLkghB29AtcwyJRokbeGDSkz8Kn7GGr1"
+      ],
+      "wallet_address": "GjXobpiEexQqqLkghB29AtcwyJRokbeGDSkz8Kn7GGr1",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "GjXobpiEexQqqLkghB29AtcwyJRokbeGDSkz8Kn7GGr1",
+          "status": "ok",
+          "lamports": 0,
+          "sol": "0",
+          "checked_at": "2026-10-15T23:22:36.438168+00:00",
+          "slot": 457419216,
+          "account_exists": false
+        }
+      ]
     },
     {
       "id": "pump:bullieonchain",
@@ -2977,7 +4613,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/ELj5RdRsq31h8qvNhtaq1nWJkLFf1G5gL5XVTinj1DoS"
+      "profile_url": "https://pump.fun/profile/ELj5RdRsq31h8qvNhtaq1nWJkLFf1G5gL5XVTinj1DoS",
+      "wallet_addresses": [
+        "ELj5RdRsq31h8qvNhtaq1nWJkLFf1G5gL5XVTinj1DoS"
+      ],
+      "wallet_address": "ELj5RdRsq31h8qvNhtaq1nWJkLFf1G5gL5XVTinj1DoS",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "ELj5RdRsq31h8qvNhtaq1nWJkLFf1G5gL5XVTinj1DoS",
+          "status": "ok",
+          "lamports": 35733116,
+          "sol": "0.035733116",
+          "checked_at": "2026-10-15T23:22:21.908309+00:00",
+          "slot": 457419148,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "x:bullieonchain",
@@ -3002,7 +4654,11 @@
       "related_handles": [
         "pump:bullieacctdead"
       ],
-      "profile_url": "https://x.com/bullieonchain"
+      "profile_url": "https://x.com/bullieonchain",
+      "wallet_addresses": [],
+      "wallet_address": null,
+      "wallet_conflict": false,
+      "wallet_balances": []
     },
     {
       "id": "pump:bullishbeaste",
@@ -3022,7 +4678,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/65JNcSUXzCNWZTtKedsf86yEqhf4NPTnKxoF6eevC8Q8"
+      "profile_url": "https://pump.fun/profile/65JNcSUXzCNWZTtKedsf86yEqhf4NPTnKxoF6eevC8Q8",
+      "wallet_addresses": [
+        "65JNcSUXzCNWZTtKedsf86yEqhf4NPTnKxoF6eevC8Q8"
+      ],
+      "wallet_address": "65JNcSUXzCNWZTtKedsf86yEqhf4NPTnKxoF6eevC8Q8",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "65JNcSUXzCNWZTtKedsf86yEqhf4NPTnKxoF6eevC8Q8",
+          "status": "ok",
+          "lamports": 0,
+          "sol": "0",
+          "checked_at": "2026-10-15T23:21:29.392900+00:00",
+          "slot": 457418904,
+          "account_exists": false
+        }
+      ]
     },
     {
       "id": "x:bullishbulldogc",
@@ -3046,7 +4718,11 @@
       "related_handles": [
         "pump:notgibs"
       ],
-      "profile_url": "https://x.com/bullishbulldogc"
+      "profile_url": "https://x.com/bullishbulldogc",
+      "wallet_addresses": [],
+      "wallet_address": null,
+      "wallet_conflict": false,
+      "wallet_balances": []
     },
     {
       "id": "pump:bullishcaligirl",
@@ -3069,7 +4745,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/DRiC5MvYcc3v752kaVkDczhwir3xkyLXiSAZ49oph5pA"
+      "profile_url": "https://pump.fun/profile/DRiC5MvYcc3v752kaVkDczhwir3xkyLXiSAZ49oph5pA",
+      "wallet_addresses": [
+        "DRiC5MvYcc3v752kaVkDczhwir3xkyLXiSAZ49oph5pA"
+      ],
+      "wallet_address": "DRiC5MvYcc3v752kaVkDczhwir3xkyLXiSAZ49oph5pA",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "DRiC5MvYcc3v752kaVkDczhwir3xkyLXiSAZ49oph5pA",
+          "status": "ok",
+          "lamports": 4779582,
+          "sol": "0.004779582",
+          "checked_at": "2026-10-15T23:22:15.280509+00:00",
+          "slot": 457419117,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:bullishmemes888",
@@ -3091,7 +4783,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/A4K12g16EY3VxKdEAo8rQhw45WZ6bsRbnQfZrHVZkvib"
+      "profile_url": "https://pump.fun/profile/A4K12g16EY3VxKdEAo8rQhw45WZ6bsRbnQfZrHVZkvib",
+      "wallet_addresses": [
+        "A4K12g16EY3VxKdEAo8rQhw45WZ6bsRbnQfZrHVZkvib"
+      ],
+      "wallet_address": "A4K12g16EY3VxKdEAo8rQhw45WZ6bsRbnQfZrHVZkvib",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "A4K12g16EY3VxKdEAo8rQhw45WZ6bsRbnQfZrHVZkvib",
+          "status": "ok",
+          "lamports": 650240,
+          "sol": "0.00065024",
+          "checked_at": "2026-10-15T23:21:54.109586+00:00",
+          "slot": 457419022,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:bullishyak",
@@ -3113,7 +4821,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/94J67MFuuYjJcQKYXeJekQjqLUyTKVkRLao4nLijd7mC"
+      "profile_url": "https://pump.fun/profile/94J67MFuuYjJcQKYXeJekQjqLUyTKVkRLao4nLijd7mC",
+      "wallet_addresses": [
+        "94J67MFuuYjJcQKYXeJekQjqLUyTKVkRLao4nLijd7mC"
+      ],
+      "wallet_address": "94J67MFuuYjJcQKYXeJekQjqLUyTKVkRLao4nLijd7mC",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "94J67MFuuYjJcQKYXeJekQjqLUyTKVkRLao4nLijd7mC",
+          "status": "ok",
+          "lamports": 63243686,
+          "sol": "0.063243686",
+          "checked_at": "2026-10-15T23:21:47.575554+00:00",
+          "slot": 457418989,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:bullllliiii",
@@ -3136,7 +4860,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/FMWUQvEjMrX4foJ8GPxpf82fSPHTkjqz9LWSgQ5EBTtQ"
+      "profile_url": "https://pump.fun/profile/FMWUQvEjMrX4foJ8GPxpf82fSPHTkjqz9LWSgQ5EBTtQ",
+      "wallet_addresses": [
+        "FMWUQvEjMrX4foJ8GPxpf82fSPHTkjqz9LWSgQ5EBTtQ"
+      ],
+      "wallet_address": "FMWUQvEjMrX4foJ8GPxpf82fSPHTkjqz9LWSgQ5EBTtQ",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "FMWUQvEjMrX4foJ8GPxpf82fSPHTkjqz9LWSgQ5EBTtQ",
+          "status": "ok",
+          "lamports": 25011285,
+          "sol": "0.025011285",
+          "checked_at": "2026-10-15T23:22:27.176597+00:00",
+          "slot": 457419171,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:bullofgold",
@@ -3156,7 +4896,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/AkZ4xasRGk6PbwsyWTf3MJLzaD5mCzA51JXxfdeaZ2bv"
+      "profile_url": "https://pump.fun/profile/AkZ4xasRGk6PbwsyWTf3MJLzaD5mCzA51JXxfdeaZ2bv",
+      "wallet_addresses": [
+        "AkZ4xasRGk6PbwsyWTf3MJLzaD5mCzA51JXxfdeaZ2bv"
+      ],
+      "wallet_address": "AkZ4xasRGk6PbwsyWTf3MJLzaD5mCzA51JXxfdeaZ2bv",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "AkZ4xasRGk6PbwsyWTf3MJLzaD5mCzA51JXxfdeaZ2bv",
+          "status": "ok",
+          "lamports": 1929240,
+          "sol": "0.00192924",
+          "checked_at": "2026-10-15T23:21:58.011773+00:00",
+          "slot": 457419041,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:bullofgoldman",
@@ -3176,7 +4932,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/Cxvq9Mo92K665xbjZ8DRB7s1h38DMjQAUzy9UATidSP5"
+      "profile_url": "https://pump.fun/profile/Cxvq9Mo92K665xbjZ8DRB7s1h38DMjQAUzy9UATidSP5",
+      "wallet_addresses": [
+        "Cxvq9Mo92K665xbjZ8DRB7s1h38DMjQAUzy9UATidSP5"
+      ],
+      "wallet_address": "Cxvq9Mo92K665xbjZ8DRB7s1h38DMjQAUzy9UATidSP5",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "Cxvq9Mo92K665xbjZ8DRB7s1h38DMjQAUzy9UATidSP5",
+          "status": "ok",
+          "lamports": 0,
+          "sol": "0",
+          "checked_at": "2026-10-15T23:22:12.610751+00:00",
+          "slot": 457419106,
+          "account_exists": false
+        }
+      ]
     },
     {
       "id": "pump:bullonadip",
@@ -3199,7 +4971,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/BiDKoCV8Rgme29tZ1AanuGQRsWRhAWuJSa6dnfq5xkgC"
+      "profile_url": "https://pump.fun/profile/BiDKoCV8Rgme29tZ1AanuGQRsWRhAWuJSa6dnfq5xkgC",
+      "wallet_addresses": [
+        "BiDKoCV8Rgme29tZ1AanuGQRsWRhAWuJSa6dnfq5xkgC"
+      ],
+      "wallet_address": "BiDKoCV8Rgme29tZ1AanuGQRsWRhAWuJSa6dnfq5xkgC",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "BiDKoCV8Rgme29tZ1AanuGQRsWRhAWuJSa6dnfq5xkgC",
+          "status": "ok",
+          "lamports": 8539505,
+          "sol": "0.008539505",
+          "checked_at": "2026-10-15T23:22:04.675673+00:00",
+          "slot": 457419070,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:bullonsol300",
@@ -3222,7 +5010,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/9zXtNvd6UcfgAiQPb1Qeu7yxDbArvNS3huQtbhqEYqhc"
+      "profile_url": "https://pump.fun/profile/9zXtNvd6UcfgAiQPb1Qeu7yxDbArvNS3huQtbhqEYqhc",
+      "wallet_addresses": [
+        "9zXtNvd6UcfgAiQPb1Qeu7yxDbArvNS3huQtbhqEYqhc"
+      ],
+      "wallet_address": "9zXtNvd6UcfgAiQPb1Qeu7yxDbArvNS3huQtbhqEYqhc",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "9zXtNvd6UcfgAiQPb1Qeu7yxDbArvNS3huQtbhqEYqhc",
+          "status": "ok",
+          "lamports": 897539,
+          "sol": "0.000897539",
+          "checked_at": "2026-10-15T23:21:54.109586+00:00",
+          "slot": 457419022,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:bullprint",
@@ -3242,7 +5046,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/3CRWNVmDqaZj6uUVvMiV48FkSSE7RtBceUU478LhG8Zd"
+      "profile_url": "https://pump.fun/profile/3CRWNVmDqaZj6uUVvMiV48FkSSE7RtBceUU478LhG8Zd",
+      "wallet_addresses": [
+        "3CRWNVmDqaZj6uUVvMiV48FkSSE7RtBceUU478LhG8Zd"
+      ],
+      "wallet_address": "3CRWNVmDqaZj6uUVvMiV48FkSSE7RtBceUU478LhG8Zd",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "3CRWNVmDqaZj6uUVvMiV48FkSSE7RtBceUU478LhG8Zd",
+          "status": "ok",
+          "lamports": 7880786,
+          "sol": "0.007880786",
+          "checked_at": "2026-10-15T23:21:12.288853+00:00",
+          "slot": 457418828,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:bullshit_dev",
@@ -3264,7 +5084,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/2FUd6TaErJ1FqHx1h7czLi8H4eY3VGuVhnhQCkAhvsjB"
+      "profile_url": "https://pump.fun/profile/2FUd6TaErJ1FqHx1h7czLi8H4eY3VGuVhnhQCkAhvsjB",
+      "wallet_addresses": [
+        "2FUd6TaErJ1FqHx1h7czLi8H4eY3VGuVhnhQCkAhvsjB"
+      ],
+      "wallet_address": "2FUd6TaErJ1FqHx1h7czLi8H4eY3VGuVhnhQCkAhvsjB",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "2FUd6TaErJ1FqHx1h7czLi8H4eY3VGuVhnhQCkAhvsjB",
+          "status": "ok",
+          "lamports": 45199944,
+          "sol": "0.045199944",
+          "checked_at": "2026-10-15T23:21:06.980039+00:00",
+          "slot": 457418804,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "x:bulltasticu",
@@ -3290,7 +5126,11 @@
       "related_handles": [
         "pump:trollyland"
       ],
-      "profile_url": "https://x.com/bulltasticu"
+      "profile_url": "https://x.com/bulltasticu",
+      "wallet_addresses": [],
+      "wallet_address": null,
+      "wallet_conflict": false,
+      "wallet_balances": []
     },
     {
       "id": "pump:bulmaxox",
@@ -3312,7 +5152,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/2bsADEh7wTGGWvRR6huhCkx5AvWiu7YXEGUrYFpTWyi1"
+      "profile_url": "https://pump.fun/profile/2bsADEh7wTGGWvRR6huhCkx5AvWiu7YXEGUrYFpTWyi1",
+      "wallet_addresses": [
+        "2bsADEh7wTGGWvRR6huhCkx5AvWiu7YXEGUrYFpTWyi1"
+      ],
+      "wallet_address": "2bsADEh7wTGGWvRR6huhCkx5AvWiu7YXEGUrYFpTWyi1",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "2bsADEh7wTGGWvRR6huhCkx5AvWiu7YXEGUrYFpTWyi1",
+          "status": "ok",
+          "lamports": 4769675244,
+          "sol": "4.769675244",
+          "checked_at": "2026-10-15T23:21:08.321963+00:00",
+          "slot": 457418810,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:bulukutuk",
@@ -3335,7 +5191,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/6wVipd6uD8MpE1CZCC1tDkZg8Ec3uXXMpfqXRWWPHw2X"
+      "profile_url": "https://pump.fun/profile/6wVipd6uD8MpE1CZCC1tDkZg8Ec3uXXMpfqXRWWPHw2X",
+      "wallet_addresses": [
+        "6wVipd6uD8MpE1CZCC1tDkZg8Ec3uXXMpfqXRWWPHw2X"
+      ],
+      "wallet_address": "6wVipd6uD8MpE1CZCC1tDkZg8Ec3uXXMpfqXRWWPHw2X",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "6wVipd6uD8MpE1CZCC1tDkZg8Ec3uXXMpfqXRWWPHw2X",
+          "status": "ok",
+          "lamports": 9360899,
+          "sol": "0.009360899",
+          "checked_at": "2026-10-15T23:21:34.576471+00:00",
+          "slot": 457418928,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:bumba_pf",
@@ -3357,7 +5229,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/BEQcyjDafrZvbyLP3XAxzztjjh27wkVDRzG7U6PdBpn8"
+      "profile_url": "https://pump.fun/profile/BEQcyjDafrZvbyLP3XAxzztjjh27wkVDRzG7U6PdBpn8",
+      "wallet_addresses": [
+        "BEQcyjDafrZvbyLP3XAxzztjjh27wkVDRzG7U6PdBpn8"
+      ],
+      "wallet_address": "BEQcyjDafrZvbyLP3XAxzztjjh27wkVDRzG7U6PdBpn8",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "BEQcyjDafrZvbyLP3XAxzztjjh27wkVDRzG7U6PdBpn8",
+          "status": "ok",
+          "lamports": 3565929,
+          "sol": "0.003565929",
+          "checked_at": "2026-10-15T23:22:00.711147+00:00",
+          "slot": 457419053,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:bumfarto",
@@ -3379,7 +5267,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/5qUwh2mXze5pAdynvGojwCPGASWnFFGhtN9v9gZY8CDb"
+      "profile_url": "https://pump.fun/profile/5qUwh2mXze5pAdynvGojwCPGASWnFFGhtN9v9gZY8CDb",
+      "wallet_addresses": [
+        "5qUwh2mXze5pAdynvGojwCPGASWnFFGhtN9v9gZY8CDb"
+      ],
+      "wallet_address": "5qUwh2mXze5pAdynvGojwCPGASWnFFGhtN9v9gZY8CDb",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "5qUwh2mXze5pAdynvGojwCPGASWnFFGhtN9v9gZY8CDb",
+          "status": "ok",
+          "lamports": 67778698,
+          "sol": "0.067778698",
+          "checked_at": "2026-10-15T23:21:28.015950+00:00",
+          "slot": 457418898,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:bumpermanta7547",
@@ -3401,7 +5305,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/H5TVtYcjbEg6gfqTYG8W5Cpa3sBJr3qxGvvgUswqpxLo"
+      "profile_url": "https://pump.fun/profile/H5TVtYcjbEg6gfqTYG8W5Cpa3sBJr3qxGvvgUswqpxLo",
+      "wallet_addresses": [
+        "H5TVtYcjbEg6gfqTYG8W5Cpa3sBJr3qxGvvgUswqpxLo"
+      ],
+      "wallet_address": "H5TVtYcjbEg6gfqTYG8W5Cpa3sBJr3qxGvvgUswqpxLo",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "H5TVtYcjbEg6gfqTYG8W5Cpa3sBJr3qxGvvgUswqpxLo",
+          "status": "ok",
+          "lamports": 8946288,
+          "sol": "0.008946288",
+          "checked_at": "2026-10-15T23:22:37.758727+00:00",
+          "slot": 457419222,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:bumpysquid89214",
@@ -3423,7 +5343,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/52XtRAZ944AztYuqr4aRK5LfccWfj8nXzxg6cu8eCCBk"
+      "profile_url": "https://pump.fun/profile/52XtRAZ944AztYuqr4aRK5LfccWfj8nXzxg6cu8eCCBk",
+      "wallet_addresses": [
+        "52XtRAZ944AztYuqr4aRK5LfccWfj8nXzxg6cu8eCCBk"
+      ],
+      "wallet_address": "52XtRAZ944AztYuqr4aRK5LfccWfj8nXzxg6cu8eCCBk",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "52XtRAZ944AztYuqr4aRK5LfccWfj8nXzxg6cu8eCCBk",
+          "status": "ok",
+          "lamports": 9104879,
+          "sol": "0.009104879",
+          "checked_at": "2026-10-15T23:21:22.735253+00:00",
+          "slot": 457418873,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:bundorekt",
@@ -3445,7 +5381,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/8d1xm25XWhSbJws1fXFr5GNcxgRsAeTAywg26AtsuFwt"
+      "profile_url": "https://pump.fun/profile/8d1xm25XWhSbJws1fXFr5GNcxgRsAeTAywg26AtsuFwt",
+      "wallet_addresses": [
+        "8d1xm25XWhSbJws1fXFr5GNcxgRsAeTAywg26AtsuFwt"
+      ],
+      "wallet_address": "8d1xm25XWhSbJws1fXFr5GNcxgRsAeTAywg26AtsuFwt",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "8d1xm25XWhSbJws1fXFr5GNcxgRsAeTAywg26AtsuFwt",
+          "status": "ok",
+          "lamports": 147186880,
+          "sol": "0.14718688",
+          "checked_at": "2026-10-15T23:21:46.283137+00:00",
+          "slot": 457418984,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:bunkeemunkee",
@@ -3471,7 +5423,23 @@
       "related_handles": [
         "x:bunkeemunkee"
       ],
-      "profile_url": "https://pump.fun/profile/2n3TGQyYGd4dTTTsj6cS9c4rjWtA6tvCcPZ4fLSS85bm"
+      "profile_url": "https://pump.fun/profile/2n3TGQyYGd4dTTTsj6cS9c4rjWtA6tvCcPZ4fLSS85bm",
+      "wallet_addresses": [
+        "2n3TGQyYGd4dTTTsj6cS9c4rjWtA6tvCcPZ4fLSS85bm"
+      ],
+      "wallet_address": "2n3TGQyYGd4dTTTsj6cS9c4rjWtA6tvCcPZ4fLSS85bm",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "2n3TGQyYGd4dTTTsj6cS9c4rjWtA6tvCcPZ4fLSS85bm",
+          "status": "ok",
+          "lamports": 221343053,
+          "sol": "0.221343053",
+          "checked_at": "2026-10-15T23:21:09.655612+00:00",
+          "slot": 457418817,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "x:bunkeemunkee",
@@ -3498,7 +5466,11 @@
       "related_handles": [
         "pump:bunkeemunkee"
       ],
-      "profile_url": "https://x.com/bunkeemunkee"
+      "profile_url": "https://x.com/bunkeemunkee",
+      "wallet_addresses": [],
+      "wallet_address": null,
+      "wallet_conflict": false,
+      "wallet_balances": []
     },
     {
       "id": "pump:bunkerinu",
@@ -3520,7 +5492,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/6qxFo4zYP9SeoCdSQuvpV9bEawMuaz8cNqLGHKrKs7bZ"
+      "profile_url": "https://pump.fun/profile/6qxFo4zYP9SeoCdSQuvpV9bEawMuaz8cNqLGHKrKs7bZ",
+      "wallet_addresses": [
+        "6qxFo4zYP9SeoCdSQuvpV9bEawMuaz8cNqLGHKrKs7bZ"
+      ],
+      "wallet_address": "6qxFo4zYP9SeoCdSQuvpV9bEawMuaz8cNqLGHKrKs7bZ",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "6qxFo4zYP9SeoCdSQuvpV9bEawMuaz8cNqLGHKrKs7bZ",
+          "status": "ok",
+          "lamports": 0,
+          "sol": "0",
+          "checked_at": "2026-10-15T23:21:34.576471+00:00",
+          "slot": 457418928,
+          "account_exists": false
+        }
+      ]
     },
     {
       "id": "pump:bunnyfufuu",
@@ -3542,7 +5530,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/ES74qpNiFRREnMYfGaonLgJhG6Fp4EfBJ3YQioRRXYj3"
+      "profile_url": "https://pump.fun/profile/ES74qpNiFRREnMYfGaonLgJhG6Fp4EfBJ3YQioRRXYj3",
+      "wallet_addresses": [
+        "ES74qpNiFRREnMYfGaonLgJhG6Fp4EfBJ3YQioRRXYj3"
+      ],
+      "wallet_address": "ES74qpNiFRREnMYfGaonLgJhG6Fp4EfBJ3YQioRRXYj3",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "ES74qpNiFRREnMYfGaonLgJhG6Fp4EfBJ3YQioRRXYj3",
+          "status": "ok",
+          "lamports": 5270635715,
+          "sol": "5.270635715",
+          "checked_at": "2026-10-15T23:22:21.908309+00:00",
+          "slot": 457419148,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:bunnywink",
@@ -3564,7 +5568,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/J6pdYvBMcsHAPVBiEs9gqePoLQQDqqMA3xKs511P9caP"
+      "profile_url": "https://pump.fun/profile/J6pdYvBMcsHAPVBiEs9gqePoLQQDqqMA3xKs511P9caP",
+      "wallet_addresses": [
+        "J6pdYvBMcsHAPVBiEs9gqePoLQQDqqMA3xKs511P9caP"
+      ],
+      "wallet_address": "J6pdYvBMcsHAPVBiEs9gqePoLQQDqqMA3xKs511P9caP",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "J6pdYvBMcsHAPVBiEs9gqePoLQQDqqMA3xKs511P9caP",
+          "status": "ok",
+          "lamports": 675220,
+          "sol": "0.00067522",
+          "checked_at": "2026-10-15T23:22:44.394457+00:00",
+          "slot": 457419254,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "x:buqsl13694994",
@@ -3591,7 +5611,11 @@
       "related_handles": [
         "pump:sigmafishweaken"
       ],
-      "profile_url": "https://x.com/buqsl13694994"
+      "profile_url": "https://x.com/buqsl13694994",
+      "wallet_addresses": [],
+      "wallet_address": null,
+      "wallet_conflict": false,
+      "wallet_balances": []
     },
     {
       "id": "pump:bureenz",
@@ -3613,7 +5637,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/AFBeaGAEvNoNEzqGHXS5N7tzsredPBHSrPnpxNaG8HFa"
+      "profile_url": "https://pump.fun/profile/AFBeaGAEvNoNEzqGHXS5N7tzsredPBHSrPnpxNaG8HFa",
+      "wallet_addresses": [
+        "AFBeaGAEvNoNEzqGHXS5N7tzsredPBHSrPnpxNaG8HFa"
+      ],
+      "wallet_address": "AFBeaGAEvNoNEzqGHXS5N7tzsredPBHSrPnpxNaG8HFa",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "AFBeaGAEvNoNEzqGHXS5N7tzsredPBHSrPnpxNaG8HFa",
+          "status": "ok",
+          "lamports": 364619644,
+          "sol": "0.364619644",
+          "checked_at": "2026-10-15T23:21:55.422020+00:00",
+          "slot": 457419028,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:burlyamplecrest",
@@ -3633,7 +5673,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/ELjgdBMFUi1rebUc1sg17bkiJBNbQDUcbVEJzH8NFnCP"
+      "profile_url": "https://pump.fun/profile/ELjgdBMFUi1rebUc1sg17bkiJBNbQDUcbVEJzH8NFnCP",
+      "wallet_addresses": [
+        "ELjgdBMFUi1rebUc1sg17bkiJBNbQDUcbVEJzH8NFnCP"
+      ],
+      "wallet_address": "ELjgdBMFUi1rebUc1sg17bkiJBNbQDUcbVEJzH8NFnCP",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "ELjgdBMFUi1rebUc1sg17bkiJBNbQDUcbVEJzH8NFnCP",
+          "status": "ok",
+          "lamports": 2397203,
+          "sol": "0.002397203",
+          "checked_at": "2026-10-15T23:22:21.908309+00:00",
+          "slot": 457419148,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:burlysnowyfuel",
@@ -3655,7 +5711,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/cKW5GD33uQPzsRkjdq8KGr3pP2Z2Q7sRN8HhVrRdy6z"
+      "profile_url": "https://pump.fun/profile/cKW5GD33uQPzsRkjdq8KGr3pP2Z2Q7sRN8HhVrRdy6z",
+      "wallet_addresses": [
+        "cKW5GD33uQPzsRkjdq8KGr3pP2Z2Q7sRN8HhVrRdy6z"
+      ],
+      "wallet_address": "cKW5GD33uQPzsRkjdq8KGr3pP2Z2Q7sRN8HhVrRdy6z",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "cKW5GD33uQPzsRkjdq8KGr3pP2Z2Q7sRN8HhVrRdy6z",
+          "status": "ok",
+          "lamports": 140582145,
+          "sol": "0.140582145",
+          "checked_at": "2026-10-15T23:22:47.056319+00:00",
+          "slot": 457419266,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:burn1ngd3v",
@@ -3677,7 +5749,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/CcgBN5XFbptwG3kiaf8R6mp6RQDmzb72WjuS5e8tcwSX"
+      "profile_url": "https://pump.fun/profile/CcgBN5XFbptwG3kiaf8R6mp6RQDmzb72WjuS5e8tcwSX",
+      "wallet_addresses": [
+        "CcgBN5XFbptwG3kiaf8R6mp6RQDmzb72WjuS5e8tcwSX"
+      ],
+      "wallet_address": "CcgBN5XFbptwG3kiaf8R6mp6RQDmzb72WjuS5e8tcwSX",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "CcgBN5XFbptwG3kiaf8R6mp6RQDmzb72WjuS5e8tcwSX",
+          "status": "ok",
+          "lamports": 7972827,
+          "sol": "0.007972827",
+          "checked_at": "2026-10-15T23:22:09.988228+00:00",
+          "slot": 457419095,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:burnaddress",
@@ -3700,7 +5788,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/2NQNzbEx5vYyGmLe2ELU5p8J7P4VMg3rnV4VM4CAb4oU"
+      "profile_url": "https://pump.fun/profile/2NQNzbEx5vYyGmLe2ELU5p8J7P4VMg3rnV4VM4CAb4oU",
+      "wallet_addresses": [
+        "2NQNzbEx5vYyGmLe2ELU5p8J7P4VMg3rnV4VM4CAb4oU"
+      ],
+      "wallet_address": "2NQNzbEx5vYyGmLe2ELU5p8J7P4VMg3rnV4VM4CAb4oU",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "2NQNzbEx5vYyGmLe2ELU5p8J7P4VMg3rnV4VM4CAb4oU",
+          "status": "ok",
+          "lamports": 5118491,
+          "sol": "0.005118491",
+          "checked_at": "2026-10-15T23:21:06.980039+00:00",
+          "slot": 457418804,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:burniearmy",
@@ -3720,7 +5824,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/5DYDyAtesaJmX4DbGejczPZNTor7M9xFjMK8C9zSL12j"
+      "profile_url": "https://pump.fun/profile/5DYDyAtesaJmX4DbGejczPZNTor7M9xFjMK8C9zSL12j",
+      "wallet_addresses": [
+        "5DYDyAtesaJmX4DbGejczPZNTor7M9xFjMK8C9zSL12j"
+      ],
+      "wallet_address": "5DYDyAtesaJmX4DbGejczPZNTor7M9xFjMK8C9zSL12j",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "5DYDyAtesaJmX4DbGejczPZNTor7M9xFjMK8C9zSL12j",
+          "status": "ok",
+          "lamports": 2995880,
+          "sol": "0.00299588",
+          "checked_at": "2026-10-15T23:21:24.052211+00:00",
+          "slot": 457418880,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:burntfish42481",
@@ -3742,7 +5862,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/5hLDGswzFNG83Nv3D21ucnCfVTM4XVktgK4gW2qaZ2bf"
+      "profile_url": "https://pump.fun/profile/5hLDGswzFNG83Nv3D21ucnCfVTM4XVktgK4gW2qaZ2bf",
+      "wallet_addresses": [
+        "5hLDGswzFNG83Nv3D21ucnCfVTM4XVktgK4gW2qaZ2bf"
+      ],
+      "wallet_address": "5hLDGswzFNG83Nv3D21ucnCfVTM4XVktgK4gW2qaZ2bf",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "5hLDGswzFNG83Nv3D21ucnCfVTM4XVktgK4gW2qaZ2bf",
+          "status": "ok",
+          "lamports": 890885,
+          "sol": "0.000890885",
+          "checked_at": "2026-10-15T23:21:28.015950+00:00",
+          "slot": 457418898,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:bursacard",
@@ -3764,7 +5900,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/363RcKL1dAkmVAqM2vH6PAkPfKFQyNk8Y4LSfKubRe3N"
+      "profile_url": "https://pump.fun/profile/363RcKL1dAkmVAqM2vH6PAkPfKFQyNk8Y4LSfKubRe3N",
+      "wallet_addresses": [
+        "363RcKL1dAkmVAqM2vH6PAkPfKFQyNk8Y4LSfKubRe3N"
+      ],
+      "wallet_address": "363RcKL1dAkmVAqM2vH6PAkPfKFQyNk8Y4LSfKubRe3N",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "363RcKL1dAkmVAqM2vH6PAkPfKFQyNk8Y4LSfKubRe3N",
+          "status": "ok",
+          "lamports": 0,
+          "sol": "0",
+          "checked_at": "2026-10-15T23:21:12.288853+00:00",
+          "slot": 457418828,
+          "account_exists": false
+        }
+      ]
     },
     {
       "id": "pump:bushymarlin6595",
@@ -3787,7 +5939,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/DLGbYHobBG4DyZCZtZ861yZt7jkiQs8ANcY3SAythALF"
+      "profile_url": "https://pump.fun/profile/DLGbYHobBG4DyZCZtZ861yZt7jkiQs8ANcY3SAythALF",
+      "wallet_addresses": [
+        "DLGbYHobBG4DyZCZtZ861yZt7jkiQs8ANcY3SAythALF"
+      ],
+      "wallet_address": "DLGbYHobBG4DyZCZtZ861yZt7jkiQs8ANcY3SAythALF",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "DLGbYHobBG4DyZCZtZ861yZt7jkiQs8ANcY3SAythALF",
+          "status": "ok",
+          "lamports": 2929895746,
+          "sol": "2.929895746",
+          "checked_at": "2026-10-15T23:22:15.280509+00:00",
+          "slot": 457419117,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:busysuaveholder",
@@ -3807,7 +5975,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/eG18CoFTtydMNfEzjDb6Yt8rc1WfSHeHJGdxgUfVscE"
+      "profile_url": "https://pump.fun/profile/eG18CoFTtydMNfEzjDb6Yt8rc1WfSHeHJGdxgUfVscE",
+      "wallet_addresses": [
+        "eG18CoFTtydMNfEzjDb6Yt8rc1WfSHeHJGdxgUfVscE"
+      ],
+      "wallet_address": "eG18CoFTtydMNfEzjDb6Yt8rc1WfSHeHJGdxgUfVscE",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "eG18CoFTtydMNfEzjDb6Yt8rc1WfSHeHJGdxgUfVscE",
+          "status": "ok",
+          "lamports": 25776418243,
+          "sol": "25.776418243",
+          "checked_at": "2026-10-15T23:22:47.056319+00:00",
+          "slot": 457419266,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:busywarpbuyer",
@@ -3830,7 +6014,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/8qfLSNd7Y7W5kEwivSbpzhv9AmaQ6hgLzN7rKF9dw7Yi"
+      "profile_url": "https://pump.fun/profile/8qfLSNd7Y7W5kEwivSbpzhv9AmaQ6hgLzN7rKF9dw7Yi",
+      "wallet_addresses": [
+        "8qfLSNd7Y7W5kEwivSbpzhv9AmaQ6hgLzN7rKF9dw7Yi"
+      ],
+      "wallet_address": "8qfLSNd7Y7W5kEwivSbpzhv9AmaQ6hgLzN7rKF9dw7Yi",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "8qfLSNd7Y7W5kEwivSbpzhv9AmaQ6hgLzN7rKF9dw7Yi",
+          "status": "ok",
+          "lamports": 0,
+          "sol": "0",
+          "checked_at": "2026-10-15T23:21:46.283137+00:00",
+          "slot": 457418984,
+          "account_exists": false
+        }
+      ]
     },
     {
       "id": "pump:busywhale08336",
@@ -3852,7 +6052,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/VwzxBpVzcmupuxW3zCD8T46XpwKGFWa1L459CweLYkq"
+      "profile_url": "https://pump.fun/profile/VwzxBpVzcmupuxW3zCD8T46XpwKGFWa1L459CweLYkq",
+      "wallet_addresses": [
+        "VwzxBpVzcmupuxW3zCD8T46XpwKGFWa1L459CweLYkq"
+      ],
+      "wallet_address": "VwzxBpVzcmupuxW3zCD8T46XpwKGFWa1L459CweLYkq",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "VwzxBpVzcmupuxW3zCD8T46XpwKGFWa1L459CweLYkq",
+          "status": "ok",
+          "lamports": 890880,
+          "sol": "0.00089088",
+          "checked_at": "2026-10-15T23:22:45.753396+00:00",
+          "slot": 457419260,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "x:butler_and69537",
@@ -3879,7 +6095,11 @@
       "related_handles": [
         "pump:sadmarlin76940"
       ],
-      "profile_url": "https://x.com/butler_and69537"
+      "profile_url": "https://x.com/butler_and69537",
+      "wallet_addresses": [],
+      "wallet_address": null,
+      "wallet_conflict": false,
+      "wallet_balances": []
     },
     {
       "id": "x:buttcoin",
@@ -3906,7 +6126,11 @@
       "related_handles": [
         "pump:buttcoindev"
       ],
-      "profile_url": "https://x.com/buttcoin"
+      "profile_url": "https://x.com/buttcoin",
+      "wallet_addresses": [],
+      "wallet_address": null,
+      "wallet_conflict": false,
+      "wallet_balances": []
     },
     {
       "id": "pump:buttcoindev",
@@ -3932,7 +6156,23 @@
       "related_handles": [
         "x:buttcoin"
       ],
-      "profile_url": "https://pump.fun/profile/5qZv2x3VDTfoawYeSitGtEb43T525aTCbckwzSSoywP9"
+      "profile_url": "https://pump.fun/profile/5qZv2x3VDTfoawYeSitGtEb43T525aTCbckwzSSoywP9",
+      "wallet_addresses": [
+        "5qZv2x3VDTfoawYeSitGtEb43T525aTCbckwzSSoywP9"
+      ],
+      "wallet_address": "5qZv2x3VDTfoawYeSitGtEb43T525aTCbckwzSSoywP9",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "5qZv2x3VDTfoawYeSitGtEb43T525aTCbckwzSSoywP9",
+          "status": "ok",
+          "lamports": 160901274385,
+          "sol": "160.901274385",
+          "checked_at": "2026-10-15T23:21:28.015950+00:00",
+          "slot": 457418898,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:butterdailygod",
@@ -3954,7 +6194,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/HUNFgdzqzHtEevZCTE8UknWwjjGu6GjG6ZKXGftmy8BU"
+      "profile_url": "https://pump.fun/profile/HUNFgdzqzHtEevZCTE8UknWwjjGu6GjG6ZKXGftmy8BU",
+      "wallet_addresses": [
+        "HUNFgdzqzHtEevZCTE8UknWwjjGu6GjG6ZKXGftmy8BU"
+      ],
+      "wallet_address": "HUNFgdzqzHtEevZCTE8UknWwjjGu6GjG6ZKXGftmy8BU",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "HUNFgdzqzHtEevZCTE8UknWwjjGu6GjG6ZKXGftmy8BU",
+          "status": "ok",
+          "lamports": 51860804,
+          "sol": "0.051860804",
+          "checked_at": "2026-10-15T23:22:40.345482+00:00",
+          "slot": 457419233,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:buttholio",
@@ -3977,7 +6233,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/EHSbrccQquS9dSLSGg9TLSJkMVyXg7SWR8u4fC7aoEyc"
+      "profile_url": "https://pump.fun/profile/EHSbrccQquS9dSLSGg9TLSJkMVyXg7SWR8u4fC7aoEyc",
+      "wallet_addresses": [
+        "EHSbrccQquS9dSLSGg9TLSJkMVyXg7SWR8u4fC7aoEyc"
+      ],
+      "wallet_address": "EHSbrccQquS9dSLSGg9TLSJkMVyXg7SWR8u4fC7aoEyc",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "EHSbrccQquS9dSLSGg9TLSJkMVyXg7SWR8u4fC7aoEyc",
+          "status": "ok",
+          "lamports": 2589560,
+          "sol": "0.00258956",
+          "checked_at": "2026-10-15T23:22:20.580498+00:00",
+          "slot": 457419140,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:buwad",
@@ -3999,7 +6271,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/7v4EwDmkwBvpadid2L8zActcxmj5jCzfZV1Uz9a9w36G"
+      "profile_url": "https://pump.fun/profile/7v4EwDmkwBvpadid2L8zActcxmj5jCzfZV1Uz9a9w36G",
+      "wallet_addresses": [
+        "7v4EwDmkwBvpadid2L8zActcxmj5jCzfZV1Uz9a9w36G"
+      ],
+      "wallet_address": "7v4EwDmkwBvpadid2L8zActcxmj5jCzfZV1Uz9a9w36G",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "7v4EwDmkwBvpadid2L8zActcxmj5jCzfZV1Uz9a9w36G",
+          "status": "ok",
+          "lamports": 890882,
+          "sol": "0.000890882",
+          "checked_at": "2026-10-15T23:21:41.061037+00:00",
+          "slot": 457418958,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:buyafterme",
@@ -4024,7 +6312,23 @@
       "related_handles": [
         "x:youbuyafterme"
       ],
-      "profile_url": "https://pump.fun/profile/28F1GGCE8GJSaJ8HckTTy5eLeNe6kEUeYrf96Hwj6ocV"
+      "profile_url": "https://pump.fun/profile/28F1GGCE8GJSaJ8HckTTy5eLeNe6kEUeYrf96Hwj6ocV",
+      "wallet_addresses": [
+        "28F1GGCE8GJSaJ8HckTTy5eLeNe6kEUeYrf96Hwj6ocV"
+      ],
+      "wallet_address": "28F1GGCE8GJSaJ8HckTTy5eLeNe6kEUeYrf96Hwj6ocV",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "28F1GGCE8GJSaJ8HckTTy5eLeNe6kEUeYrf96Hwj6ocV",
+          "status": "ok",
+          "lamports": 0,
+          "sol": "0",
+          "checked_at": "2026-10-15T23:21:05.684558+00:00",
+          "slot": 457418799,
+          "account_exists": false
+        }
+      ]
     },
     {
       "id": "pump:buyalert",
@@ -4046,7 +6350,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/3oPg4daCVsux5Jyoruoiug8FAxNm8L1f1ejZLMHebyLc"
+      "profile_url": "https://pump.fun/profile/3oPg4daCVsux5Jyoruoiug8FAxNm8L1f1ejZLMHebyLc",
+      "wallet_addresses": [
+        "3oPg4daCVsux5Jyoruoiug8FAxNm8L1f1ejZLMHebyLc"
+      ],
+      "wallet_address": "3oPg4daCVsux5Jyoruoiug8FAxNm8L1f1ejZLMHebyLc",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "3oPg4daCVsux5Jyoruoiug8FAxNm8L1f1ejZLMHebyLc",
+          "status": "ok",
+          "lamports": 21246873,
+          "sol": "0.021246873",
+          "checked_at": "2026-10-15T23:21:16.277433+00:00",
+          "slot": 457418842,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:buybabytrump",
@@ -4069,7 +6389,23 @@
       "related_handles": [
         "x:alexravvas23"
       ],
-      "profile_url": "https://pump.fun/profile/6goSpoqpteQKgaG23aLhi3nEARhET2o7mEJTdrzDzrup"
+      "profile_url": "https://pump.fun/profile/6goSpoqpteQKgaG23aLhi3nEARhET2o7mEJTdrzDzrup",
+      "wallet_addresses": [
+        "6goSpoqpteQKgaG23aLhi3nEARhET2o7mEJTdrzDzrup"
+      ],
+      "wallet_address": "6goSpoqpteQKgaG23aLhi3nEARhET2o7mEJTdrzDzrup",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "6goSpoqpteQKgaG23aLhi3nEARhET2o7mEJTdrzDzrup",
+          "status": "ok",
+          "lamports": 650240,
+          "sol": "0.00065024",
+          "checked_at": "2026-10-15T23:21:33.300535+00:00",
+          "slot": 457418922,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:buybuybuybuy",
@@ -4092,7 +6428,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/E5EWv8jkPLj3vP1DxYAxh19YkzFprLDKAnXub9bGYGBD"
+      "profile_url": "https://pump.fun/profile/E5EWv8jkPLj3vP1DxYAxh19YkzFprLDKAnXub9bGYGBD",
+      "wallet_addresses": [
+        "E5EWv8jkPLj3vP1DxYAxh19YkzFprLDKAnXub9bGYGBD"
+      ],
+      "wallet_address": "E5EWv8jkPLj3vP1DxYAxh19YkzFprLDKAnXub9bGYGBD",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "E5EWv8jkPLj3vP1DxYAxh19YkzFprLDKAnXub9bGYGBD",
+          "status": "ok",
+          "lamports": 2247900,
+          "sol": "0.0022479",
+          "checked_at": "2026-10-15T23:22:19.245146+00:00",
+          "slot": 457419135,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:buycallsendit",
@@ -4112,7 +6464,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/HM2obbq3XVcngcKT2zNiuNL6KMLty6GR65rK3L7h3k6c"
+      "profile_url": "https://pump.fun/profile/HM2obbq3XVcngcKT2zNiuNL6KMLty6GR65rK3L7h3k6c",
+      "wallet_addresses": [
+        "HM2obbq3XVcngcKT2zNiuNL6KMLty6GR65rK3L7h3k6c"
+      ],
+      "wallet_address": "HM2obbq3XVcngcKT2zNiuNL6KMLty6GR65rK3L7h3k6c",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "HM2obbq3XVcngcKT2zNiuNL6KMLty6GR65rK3L7h3k6c",
+          "status": "ok",
+          "lamports": 650240,
+          "sol": "0.00065024",
+          "checked_at": "2026-10-15T23:22:39.065095+00:00",
+          "slot": 457419227,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:buyer",
@@ -4138,7 +6506,23 @@
       "related_handles": [
         "x:buyer"
       ],
-      "profile_url": "https://pump.fun/profile/5r1hCHpZ7p9JivY3dHoL5iKbNFf9gaqYkrYyTNrkpM8Q"
+      "profile_url": "https://pump.fun/profile/5r1hCHpZ7p9JivY3dHoL5iKbNFf9gaqYkrYyTNrkpM8Q",
+      "wallet_addresses": [
+        "5r1hCHpZ7p9JivY3dHoL5iKbNFf9gaqYkrYyTNrkpM8Q"
+      ],
+      "wallet_address": "5r1hCHpZ7p9JivY3dHoL5iKbNFf9gaqYkrYyTNrkpM8Q",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "5r1hCHpZ7p9JivY3dHoL5iKbNFf9gaqYkrYyTNrkpM8Q",
+          "status": "ok",
+          "lamports": 416057381,
+          "sol": "0.416057381",
+          "checked_at": "2026-10-15T23:21:28.015950+00:00",
+          "slot": 457418898,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "x:buyer",
@@ -4165,7 +6549,11 @@
       "related_handles": [
         "pump:buyer"
       ],
-      "profile_url": "https://x.com/buyer"
+      "profile_url": "https://x.com/buyer",
+      "wallet_addresses": [],
+      "wallet_address": null,
+      "wallet_conflict": false,
+      "wallet_balances": []
     },
     {
       "id": "pump:buyer_09a1b699",
@@ -4187,7 +6575,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/FAiCoJLwYD1iCtRtW3AZP7GejAU2RtvA3ZL1nNVj4f8i"
+      "profile_url": "https://pump.fun/profile/FAiCoJLwYD1iCtRtW3AZP7GejAU2RtvA3ZL1nNVj4f8i",
+      "wallet_addresses": [
+        "FAiCoJLwYD1iCtRtW3AZP7GejAU2RtvA3ZL1nNVj4f8i"
+      ],
+      "wallet_address": "FAiCoJLwYD1iCtRtW3AZP7GejAU2RtvA3ZL1nNVj4f8i",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "FAiCoJLwYD1iCtRtW3AZP7GejAU2RtvA3ZL1nNVj4f8i",
+          "status": "ok",
+          "lamports": 0,
+          "sol": "0",
+          "checked_at": "2026-10-15T23:22:25.861959+00:00",
+          "slot": 457419166,
+          "account_exists": false
+        }
+      ]
     },
     {
       "id": "x:buyerofponzi",
@@ -4214,7 +6618,11 @@
       "related_handles": [
         "pump:ponzitrader"
       ],
-      "profile_url": "https://x.com/buyerofponzi"
+      "profile_url": "https://x.com/buyerofponzi",
+      "wallet_addresses": [],
+      "wallet_address": null,
+      "wallet_conflict": false,
+      "wallet_balances": []
     },
     {
       "id": "pump:buyncry",
@@ -4237,7 +6645,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/CXoUJHtBGnuNR6zJ3zm8nTnNzCwXxFViXh29d1kTJQmK"
+      "profile_url": "https://pump.fun/profile/CXoUJHtBGnuNR6zJ3zm8nTnNzCwXxFViXh29d1kTJQmK",
+      "wallet_addresses": [
+        "CXoUJHtBGnuNR6zJ3zm8nTnNzCwXxFViXh29d1kTJQmK"
+      ],
+      "wallet_address": "CXoUJHtBGnuNR6zJ3zm8nTnNzCwXxFViXh29d1kTJQmK",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "CXoUJHtBGnuNR6zJ3zm8nTnNzCwXxFViXh29d1kTJQmK",
+          "status": "ok",
+          "lamports": 8410028938,
+          "sol": "8.410028938",
+          "checked_at": "2026-10-15T23:22:09.988228+00:00",
+          "slot": 457419095,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:buynow_crylater",
@@ -4260,7 +6684,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/6akKKpZetoirYP19UT4qdsRjhTL9z69sPVphdfscdQc8"
+      "profile_url": "https://pump.fun/profile/6akKKpZetoirYP19UT4qdsRjhTL9z69sPVphdfscdQc8",
+      "wallet_addresses": [
+        "6akKKpZetoirYP19UT4qdsRjhTL9z69sPVphdfscdQc8"
+      ],
+      "wallet_address": "6akKKpZetoirYP19UT4qdsRjhTL9z69sPVphdfscdQc8",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "6akKKpZetoirYP19UT4qdsRjhTL9z69sPVphdfscdQc8",
+          "status": "ok",
+          "lamports": 475357876,
+          "sol": "0.475357876",
+          "checked_at": "2026-10-15T23:21:33.300535+00:00",
+          "slot": 457418922,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:buysignal1",
@@ -4283,7 +6723,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/36jMMG2hWBYWV7zvRuWqfFPCJaDLSpMGrUGfJY1Qj2Ho"
+      "profile_url": "https://pump.fun/profile/36jMMG2hWBYWV7zvRuWqfFPCJaDLSpMGrUGfJY1Qj2Ho",
+      "wallet_addresses": [
+        "36jMMG2hWBYWV7zvRuWqfFPCJaDLSpMGrUGfJY1Qj2Ho"
+      ],
+      "wallet_address": "36jMMG2hWBYWV7zvRuWqfFPCJaDLSpMGrUGfJY1Qj2Ho",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "36jMMG2hWBYWV7zvRuWqfFPCJaDLSpMGrUGfJY1Qj2Ho",
+          "status": "ok",
+          "lamports": 909013,
+          "sol": "0.000909013",
+          "checked_at": "2026-10-15T23:21:12.288853+00:00",
+          "slot": 457418828,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:buysolanasell",
@@ -4303,7 +6759,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/Ai124MMNfkeJRhn4jJJ52QDq69bgiG4qErHVqYLpAzty"
+      "profile_url": "https://pump.fun/profile/Ai124MMNfkeJRhn4jJJ52QDq69bgiG4qErHVqYLpAzty",
+      "wallet_addresses": [
+        "Ai124MMNfkeJRhn4jJJ52QDq69bgiG4qErHVqYLpAzty"
+      ],
+      "wallet_address": "Ai124MMNfkeJRhn4jJJ52QDq69bgiG4qErHVqYLpAzty",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "Ai124MMNfkeJRhn4jJJ52QDq69bgiG4qErHVqYLpAzty",
+          "status": "ok",
+          "lamports": 890880,
+          "sol": "0.00089088",
+          "checked_at": "2026-10-15T23:21:58.011773+00:00",
+          "slot": 457419041,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "pump:bymotionnn",
@@ -4326,7 +6798,23 @@
         "pump_handle"
       ],
       "related_handles": [],
-      "profile_url": "https://pump.fun/profile/DJQwtiowTJmAvAu4vhCaFgPiS3nnKD5r5agZgBQEdHK2"
+      "profile_url": "https://pump.fun/profile/DJQwtiowTJmAvAu4vhCaFgPiS3nnKD5r5agZgBQEdHK2",
+      "wallet_addresses": [
+        "DJQwtiowTJmAvAu4vhCaFgPiS3nnKD5r5agZgBQEdHK2"
+      ],
+      "wallet_address": "DJQwtiowTJmAvAu4vhCaFgPiS3nnKD5r5agZgBQEdHK2",
+      "wallet_conflict": false,
+      "wallet_balances": [
+        {
+          "address": "DJQwtiowTJmAvAu4vhCaFgPiS3nnKD5r5agZgBQEdHK2",
+          "status": "ok",
+          "lamports": 21727748868,
+          "sol": "21.727748868",
+          "checked_at": "2026-10-15T23:22:13.973223+00:00",
+          "slot": 457419112,
+          "account_exists": true
+        }
+      ]
     },
     {
       "id": "x:bysukie",
@@ -4352,7 +6840,11 @@
       "related_handles": [
         "pump:sukiee"
       ],
-      "profile_url": "https://x.com/bysukie"
+      "profile_url": "https://x.com/bysukie",
+      "wallet_addresses": [],
+      "wallet_address": null,
+      "wallet_conflict": false,
+      "wallet_balances": []
     }
   ],
   "details": [
