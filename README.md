@@ -54,8 +54,9 @@ data beyond handles. Review the generated files before sharing them.
 
 `index.html` is the project homepage and searchable directory. It supports
 contains, starts-with, ends-with, exact, and regular-expression searches, plus
-platform, case sensitivity, source filename, and related-handle filters. Results
-are paginated. Regex searches run in a separate worker with a timeout so a slow
+platform, case sensitivity, and related-handle filters. Results
+are paginated. Searches match handles only. X handles link to x.com; Pump
+handles link to the pump.fun profile URLs retained from source exports. Regex searches run in a separate worker with a timeout so a slow
 pattern can be stopped without freezing the page.
 
 To preview from this repository:
