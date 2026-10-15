@@ -116,3 +116,8 @@ used. The banner shows the quote retrieval time and labels stale quotes on
 failures. Wallet balances remain snapshots from the balance updater, so this
 is an estimate of tracked native SOL holdings, not total personal net worth.
 Tokens and other assets are excluded. Reduced-motion preferences are respected.
+
+The directory can sort by handle or native SOL balance ascending/descending.
+Balance sorting uses exact lamports, sums distinct linked Pump wallets per row,
+and places unavailable balances last in either direction. It applies to the full
+filtered result set before pagination.
