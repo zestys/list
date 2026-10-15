@@ -6,6 +6,8 @@ source evidence.
 
 ## Generated files
 
+- `search_handles.json`: compact handle data for the homepage, regenerated with
+  every build, without the full original detail records.
 - `master_handles.json`: all handles, original detail records, source locations,
   and the scan report.
 - `index.json`: generation timestamp, summary counts, input scan report, and links
@@ -47,6 +49,28 @@ exits with a nonzero status if any input files could not be read; inspect the
 
 The output retains original source records, which may include additional profile
 data beyond handles. Review the generated files before sharing them.
+
+## Homepage
+
+`index.html` is the project homepage and searchable directory. It supports
+contains, starts-with, ends-with, exact, and regular-expression searches, plus
+platform, case sensitivity, source filename, and related-handle filters. Results
+are paginated. Regex searches run in a separate worker with a timeout so a slow
+pattern can be stopped without freezing the page.
+
+To preview from this repository:
+
+```sh
+python3 -m http.server 8000
+```
+
+Open `http://localhost:8000`. The page needs HTTP hosting to load its JSON data;
+opening it directly as a local file will not work in most browsers. The files can
+also be served by GitHub Pages or another static host.
+
+Barter, paid updates, and earned updates are labeled **Coming soon**. These
+programs are not live, and no payment, submission, or credits system is connected.
+Their terms and requirements will be provided later.
 
 ## Current dataset
 
